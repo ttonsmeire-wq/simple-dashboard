@@ -1,0 +1,3404 @@
+Tender ID,Load Number,Carrier,Tender Date,Response
+T500001,L100001,Pinecrest Logistics,2026-01-04,Accepted
+T500002,L100002,Harbor Point Haulers,2026-01-04,Accepted
+T500003,L100003,Harbor Point Haulers,2026-01-04,Accepted
+T500004,L100004,Ridgeline Freight,2026-01-03,Accepted
+T500005,L100005,Copperline Carriers,2026-01-04,Accepted
+T500006,L100006,Blue Heron Transport,2026-01-03,Rejected
+T500007,L100006,Pinecrest Logistics,2026-01-03,Accepted
+T500008,L100007,Ironwood Trucking,2026-01-02,Accepted
+T500009,L100008,Harbor Point Haulers,2026-01-04,Rejected
+T500010,L100008,Lakeshore Express,2026-01-04,Rejected
+T500011,L100008,Blue Heron Transport,2026-01-04,Accepted
+T500012,L100009,Harbor Point Haulers,2026-01-04,Accepted
+T500013,L100010,Pinecrest Logistics,2026-01-04,Accepted
+T500014,L100011,Copperline Carriers,2026-01-04,Accepted
+T500015,L100012,Pinecrest Logistics,2026-01-05,Accepted
+T500016,L100013,Copperline Carriers,2026-01-03,Accepted
+T500017,L100014,Summit Road Lines,2026-01-04,Accepted
+T500018,L100015,Ironwood Trucking,2026-01-04,Rejected
+T500019,L100015,Blue Heron Transport,2026-01-04,Rejected
+T500020,L100015,Harbor Point Haulers,2026-01-04,Accepted
+T500021,L100016,Blue Heron Transport,2026-01-05,Accepted
+T500022,L100017,Copperline Carriers,2026-01-05,Accepted
+T500023,L100018,Ironwood Trucking,2026-01-04,Accepted
+T500024,L100019,Harbor Point Haulers,2026-01-04,Accepted
+T500025,L100020,Copperline Carriers,2026-01-04,Accepted
+T500026,L100021,Ridgeline Freight,2026-01-04,Accepted
+T500027,L100022,Copperline Carriers,2026-01-05,Accepted
+T500028,L100023,Summit Road Lines,2026-01-04,Accepted
+T500029,L100024,Ridgeline Freight,2026-01-04,Accepted
+T500030,L100025,Ridgeline Freight,2026-01-04,Accepted
+T500031,L100026,Summit Road Lines,2026-01-05,Rejected
+T500032,L100026,Pinecrest Logistics,2026-01-05,Accepted
+T500033,L100027,Ironwood Trucking,2026-01-04,Accepted
+T500034,L100028,Pinecrest Logistics,2026-01-05,Rejected
+T500035,L100028,Lakeshore Express,2026-01-05,Accepted
+T500036,L100029,Ridgeline Freight,2026-01-04,Accepted
+T500037,L100030,Blue Heron Transport,2026-01-04,Accepted
+T500038,L100031,Blue Heron Transport,2026-01-06,Accepted
+T500039,L100032,Blue Heron Transport,2026-01-04,Accepted
+T500040,L100033,Blue Heron Transport,2026-01-05,Rejected
+T500041,L100033,Harbor Point Haulers,2026-01-05,Accepted
+T500042,L100034,Summit Road Lines,2026-01-06,Accepted
+T500043,L100035,Copperline Carriers,2026-01-04,Accepted
+T500044,L100036,Summit Road Lines,2026-01-04,Accepted
+T500045,L100037,Ridgeline Freight,2026-01-06,Accepted
+T500046,L100038,Ridgeline Freight,2026-01-06,Accepted
+T500047,L100039,Copperline Carriers,2026-01-06,Accepted
+T500048,L100040,Pinecrest Logistics,2026-01-06,Rejected
+T500049,L100040,Ironwood Trucking,2026-01-06,Accepted
+T500050,L100041,Ridgeline Freight,2026-01-06,Accepted
+T500051,L100042,Blue Heron Transport,2026-01-06,Accepted
+T500052,L100043,Pinecrest Logistics,2026-01-06,Accepted
+T500053,L100044,Blue Heron Transport,2026-01-07,Accepted
+T500054,L100045,Blue Heron Transport,2026-01-06,Accepted
+T500055,L100046,Pinecrest Logistics,2026-01-07,Accepted
+T500056,L100047,Copperline Carriers,2026-01-06,Rejected
+T500057,L100047,Ironwood Trucking,2026-01-06,Accepted
+T500058,L100048,Ridgeline Freight,2026-01-05,Accepted
+T500059,L100049,Copperline Carriers,2026-01-07,Accepted
+T500060,L100050,Copperline Carriers,2026-01-05,Accepted
+T500061,L100051,Lakeshore Express,2026-01-06,Accepted
+T500062,L100052,Summit Road Lines,2026-01-06,Accepted
+T500063,L100053,Blue Heron Transport,2026-01-06,Accepted
+T500064,L100054,Ridgeline Freight,2026-01-07,Accepted
+T500065,L100055,Ironwood Trucking,2026-01-06,Accepted
+T500066,L100056,Ridgeline Freight,2026-01-07,Accepted
+T500067,L100057,Harbor Point Haulers,2026-01-06,Accepted
+T500068,L100058,Ridgeline Freight,2026-01-07,Accepted
+T500069,L100059,Ridgeline Freight,2026-01-08,Rejected
+T500070,L100059,Lakeshore Express,2026-01-08,Accepted
+T500071,L100060,Copperline Carriers,2026-01-08,Accepted
+T500072,L100061,Ironwood Trucking,2026-01-07,Accepted
+T500073,L100062,Harbor Point Haulers,2026-01-07,Accepted
+T500074,L100063,Pinecrest Logistics,2026-01-06,Accepted
+T500075,L100064,Ridgeline Freight,2026-01-07,Accepted
+T500076,L100065,Pinecrest Logistics,2026-01-06,Rejected
+T500077,L100065,Ridgeline Freight,2026-01-06,Accepted
+T500078,L100066,Ridgeline Freight,2026-01-08,Accepted
+T500079,L100067,Copperline Carriers,2026-01-06,Accepted
+T500080,L100068,Harbor Point Haulers,2026-01-08,Accepted
+T500081,L100069,Ridgeline Freight,2026-01-06,Accepted
+T500082,L100070,Ridgeline Freight,2026-01-06,Rejected
+T500083,L100070,Blue Heron Transport,2026-01-06,Accepted
+T500084,L100071,Pinecrest Logistics,2026-01-09,Accepted
+T500085,L100072,Ridgeline Freight,2026-01-09,Accepted
+T500086,L100073,Copperline Carriers,2026-01-10,Accepted
+T500087,L100074,Pinecrest Logistics,2026-01-11,Accepted
+T500088,L100075,Harbor Point Haulers,2026-01-11,Accepted
+T500089,L100076,Harbor Point Haulers,2026-01-09,Accepted
+T500090,L100077,Ironwood Trucking,2026-01-09,Accepted
+T500091,L100078,Lakeshore Express,2026-01-10,Rejected
+T500092,L100078,Copperline Carriers,2026-01-10,Accepted
+T500093,L100079,Pinecrest Logistics,2026-01-09,Rejected
+T500094,L100079,Ridgeline Freight,2026-01-09,Accepted
+T500095,L100080,Ridgeline Freight,2026-01-10,Accepted
+T500096,L100081,Blue Heron Transport,2026-01-10,Rejected
+T500097,L100081,Summit Road Lines,2026-01-10,Accepted
+T500098,L100082,Pinecrest Logistics,2026-01-09,Rejected
+T500099,L100082,Ridgeline Freight,2026-01-09,Accepted
+T500100,L100083,Ridgeline Freight,2026-01-11,Accepted
+T500101,L100084,Blue Heron Transport,2026-01-10,Accepted
+T500102,L100085,Copperline Carriers,2026-01-11,Accepted
+T500103,L100086,Blue Heron Transport,2026-01-11,Accepted
+T500104,L100087,Summit Road Lines,2026-01-12,Accepted
+T500105,L100088,Harbor Point Haulers,2026-01-12,Accepted
+T500106,L100089,Pinecrest Logistics,2026-01-10,Accepted
+T500107,L100090,Harbor Point Haulers,2026-01-12,Accepted
+T500108,L100091,Blue Heron Transport,2026-01-11,Accepted
+T500109,L100092,Summit Road Lines,2026-01-12,Accepted
+T500110,L100093,Lakeshore Express,2026-01-10,Accepted
+T500111,L100094,Ironwood Trucking,2026-01-11,Accepted
+T500112,L100095,Summit Road Lines,2026-01-10,Accepted
+T500113,L100096,Summit Road Lines,2026-01-12,Accepted
+T500114,L100097,Summit Road Lines,2026-01-12,Accepted
+T500115,L100098,Blue Heron Transport,2026-01-11,Accepted
+T500116,L100099,Summit Road Lines,2026-01-10,Accepted
+T500117,L100100,Summit Road Lines,2026-01-11,Accepted
+T500118,L100101,Summit Road Lines,2026-01-13,Accepted
+T500119,L100102,Ridgeline Freight,2026-01-12,Accepted
+T500120,L100103,Ironwood Trucking,2026-01-11,Accepted
+T500121,L100104,Copperline Carriers,2026-01-11,Accepted
+T500122,L100105,Lakeshore Express,2026-01-13,Rejected
+T500123,L100105,Ironwood Trucking,2026-01-13,Accepted
+T500124,L100106,Ironwood Trucking,2026-01-13,Accepted
+T500125,L100107,Pinecrest Logistics,2026-01-11,Accepted
+T500126,L100108,Blue Heron Transport,2026-01-11,Accepted
+T500127,L100109,Lakeshore Express,2026-01-13,Accepted
+T500128,L100110,Blue Heron Transport,2026-01-13,Rejected
+T500129,L100110,Pinecrest Logistics,2026-01-13,Accepted
+T500130,L100111,Ridgeline Freight,2026-01-11,Accepted
+T500131,L100112,Ironwood Trucking,2026-01-11,Accepted
+T500132,L100113,Lakeshore Express,2026-01-13,Accepted
+T500133,L100114,Harbor Point Haulers,2026-01-13,Accepted
+T500134,L100115,Summit Road Lines,2026-01-13,Rejected
+T500135,L100115,Pinecrest Logistics,2026-01-13,Accepted
+T500136,L100116,Pinecrest Logistics,2026-01-12,Accepted
+T500137,L100117,Ironwood Trucking,2026-01-12,Accepted
+T500138,L100118,Lakeshore Express,2026-01-12,Accepted
+T500139,L100119,Ironwood Trucking,2026-01-13,Rejected
+T500140,L100119,Pinecrest Logistics,2026-01-13,Accepted
+T500141,L100120,Ridgeline Freight,2026-01-12,Accepted
+T500142,L100121,Summit Road Lines,2026-01-12,Accepted
+T500143,L100122,Ironwood Trucking,2026-01-13,Rejected
+T500144,L100122,Blue Heron Transport,2026-01-13,Accepted
+T500145,L100123,Ridgeline Freight,2026-01-14,Accepted
+T500146,L100124,Blue Heron Transport,2026-01-13,Accepted
+T500147,L100125,Ridgeline Freight,2026-01-13,Accepted
+T500148,L100126,Copperline Carriers,2026-01-14,Accepted
+T500149,L100127,Ironwood Trucking,2026-01-15,Rejected
+T500150,L100127,Summit Road Lines,2026-01-15,Rejected
+T500151,L100127,Harbor Point Haulers,2026-01-15,Accepted
+T500152,L100128,Blue Heron Transport,2026-01-14,Accepted
+T500153,L100129,Copperline Carriers,2026-01-15,Accepted
+T500154,L100130,Copperline Carriers,2026-01-13,Accepted
+T500155,L100131,Pinecrest Logistics,2026-01-15,Rejected
+T500156,L100131,Ridgeline Freight,2026-01-15,Accepted
+T500157,L100132,Ironwood Trucking,2026-01-13,Accepted
+T500158,L100133,Ironwood Trucking,2026-01-13,Accepted
+T500159,L100134,Harbor Point Haulers,2026-01-15,Accepted
+T500160,L100135,Ridgeline Freight,2026-01-14,Accepted
+T500161,L100136,Ridgeline Freight,2026-01-13,Accepted
+T500162,L100137,Summit Road Lines,2026-01-13,Accepted
+T500163,L100138,Harbor Point Haulers,2026-01-16,Accepted
+T500164,L100139,Summit Road Lines,2026-01-17,Accepted
+T500165,L100140,Pinecrest Logistics,2026-01-16,Accepted
+T500166,L100141,Ironwood Trucking,2026-01-16,Accepted
+T500167,L100142,Summit Road Lines,2026-01-18,Accepted
+T500168,L100143,Summit Road Lines,2026-01-16,Accepted
+T500169,L100144,Blue Heron Transport,2026-01-18,Accepted
+T500170,L100145,Summit Road Lines,2026-01-16,Rejected
+T500171,L100145,Ridgeline Freight,2026-01-16,Accepted
+T500172,L100146,Lakeshore Express,2026-01-17,Accepted
+T500173,L100147,Blue Heron Transport,2026-01-16,Accepted
+T500174,L100148,Copperline Carriers,2026-01-18,Accepted
+T500175,L100149,Copperline Carriers,2026-01-16,Rejected
+T500176,L100149,Ridgeline Freight,2026-01-16,Accepted
+T500177,L100150,Ridgeline Freight,2026-01-16,Accepted
+T500178,L100151,Pinecrest Logistics,2026-01-16,Accepted
+T500179,L100152,Ridgeline Freight,2026-01-18,Accepted
+T500180,L100153,Summit Road Lines,2026-01-17,Accepted
+T500181,L100154,Pinecrest Logistics,2026-01-19,Accepted
+T500182,L100155,Copperline Carriers,2026-01-18,Rejected
+T500183,L100155,Lakeshore Express,2026-01-18,Accepted
+T500184,L100156,Blue Heron Transport,2026-01-17,Accepted
+T500185,L100157,Harbor Point Haulers,2026-01-18,Rejected
+T500186,L100157,Blue Heron Transport,2026-01-18,Accepted
+T500187,L100158,Ironwood Trucking,2026-01-17,Accepted
+T500188,L100159,Blue Heron Transport,2026-01-19,Accepted
+T500189,L100160,Blue Heron Transport,2026-01-18,Rejected
+T500190,L100160,Harbor Point Haulers,2026-01-18,Rejected
+T500191,L100160,Pinecrest Logistics,2026-01-18,Rejected
+T500192,L100160,Copperline Carriers,2026-01-18,Accepted
+T500193,L100161,Copperline Carriers,2026-01-17,Accepted
+T500194,L100162,Copperline Carriers,2026-01-17,Accepted
+T500195,L100163,Pinecrest Logistics,2026-01-18,Accepted
+T500196,L100164,Ridgeline Freight,2026-01-18,Accepted
+T500197,L100165,Lakeshore Express,2026-01-17,Rejected
+T500198,L100165,Blue Heron Transport,2026-01-17,Rejected
+T500199,L100165,Pinecrest Logistics,2026-01-17,Accepted
+T500200,L100166,Summit Road Lines,2026-01-18,Accepted
+T500201,L100167,Harbor Point Haulers,2026-01-18,Rejected
+T500202,L100167,Copperline Carriers,2026-01-18,Accepted
+T500203,L100168,Harbor Point Haulers,2026-01-19,Accepted
+T500204,L100169,Ridgeline Freight,2026-01-18,Accepted
+T500205,L100170,Ironwood Trucking,2026-01-20,Accepted
+T500206,L100171,Blue Heron Transport,2026-01-20,Accepted
+T500207,L100172,Lakeshore Express,2026-01-19,Rejected
+T500208,L100172,Ironwood Trucking,2026-01-19,Accepted
+T500209,L100173,Harbor Point Haulers,2026-01-20,Accepted
+T500210,L100174,Copperline Carriers,2026-01-19,Accepted
+T500211,L100175,Copperline Carriers,2026-01-18,Accepted
+T500212,L100176,Copperline Carriers,2026-01-19,Accepted
+T500213,L100177,Lakeshore Express,2026-01-19,Rejected
+T500214,L100177,Summit Road Lines,2026-01-19,Accepted
+T500215,L100178,Summit Road Lines,2026-01-19,Accepted
+T500216,L100179,Ridgeline Freight,2026-01-18,Accepted
+T500217,L100180,Ironwood Trucking,2026-01-19,Accepted
+T500218,L100181,Ironwood Trucking,2026-01-19,Accepted
+T500219,L100182,Lakeshore Express,2026-01-20,Accepted
+T500220,L100183,Copperline Carriers,2026-01-20,Accepted
+T500221,L100184,Ironwood Trucking,2026-01-20,Accepted
+T500222,L100185,Harbor Point Haulers,2026-01-20,Rejected
+T500223,L100185,Summit Road Lines,2026-01-20,Accepted
+T500224,L100186,Copperline Carriers,2026-01-20,Accepted
+T500225,L100187,Copperline Carriers,2026-01-19,Accepted
+T500226,L100188,Blue Heron Transport,2026-01-19,Accepted
+T500227,L100189,Copperline Carriers,2026-01-20,Accepted
+T500228,L100190,Copperline Carriers,2026-01-20,Accepted
+T500229,L100191,Harbor Point Haulers,2026-01-20,Accepted
+T500230,L100192,Lakeshore Express,2026-01-21,Rejected
+T500231,L100192,Summit Road Lines,2026-01-21,Accepted
+T500232,L100193,Ridgeline Freight,2026-01-21,Accepted
+T500233,L100194,Harbor Point Haulers,2026-01-20,Accepted
+T500234,L100195,Blue Heron Transport,2026-01-22,Accepted
+T500235,L100196,Copperline Carriers,2026-01-20,Accepted
+T500236,L100197,Blue Heron Transport,2026-01-21,Accepted
+T500237,L100198,Summit Road Lines,2026-01-22,Rejected
+T500238,L100198,Lakeshore Express,2026-01-22,Accepted
+T500239,L100199,Pinecrest Logistics,2026-01-22,Rejected
+T500240,L100199,Summit Road Lines,2026-01-22,Accepted
+T500241,L100200,Summit Road Lines,2026-01-22,Accepted
+T500242,L100201,Ridgeline Freight,2026-01-21,Accepted
+T500243,L100202,Ridgeline Freight,2026-01-22,Rejected
+T500244,L100202,Copperline Carriers,2026-01-22,Rejected
+T500245,L100202,Blue Heron Transport,2026-01-22,Accepted
+T500246,L100203,Ridgeline Freight,2026-01-20,Accepted
+T500247,L100204,Copperline Carriers,2026-01-21,Accepted
+T500248,L100205,Pinecrest Logistics,2026-01-22,Accepted
+T500249,L100206,Summit Road Lines,2026-01-21,Rejected
+T500250,L100206,Ironwood Trucking,2026-01-21,Accepted
+T500251,L100207,Harbor Point Haulers,2026-01-24,Rejected
+T500252,L100207,Ironwood Trucking,2026-01-24,Rejected
+T500253,L100207,Copperline Carriers,2026-01-24,Accepted
+T500254,L100208,Pinecrest Logistics,2026-01-23,Accepted
+T500255,L100209,Pinecrest Logistics,2026-01-23,Accepted
+T500256,L100210,Blue Heron Transport,2026-01-25,Accepted
+T500257,L100211,Lakeshore Express,2026-01-23,Rejected
+T500258,L100211,Ironwood Trucking,2026-01-23,Rejected
+T500259,L100211,Summit Road Lines,2026-01-23,Accepted
+T500260,L100212,Lakeshore Express,2026-01-24,Accepted
+T500261,L100213,Ridgeline Freight,2026-01-23,Rejected
+T500262,L100213,Blue Heron Transport,2026-01-23,Accepted
+T500263,L100214,Pinecrest Logistics,2026-01-25,Accepted
+T500264,L100215,Pinecrest Logistics,2026-01-25,Accepted
+T500265,L100216,Copperline Carriers,2026-01-24,Rejected
+T500266,L100216,Ironwood Trucking,2026-01-24,Rejected
+T500267,L100216,Blue Heron Transport,2026-01-24,Accepted
+T500268,L100217,Ironwood Trucking,2026-01-25,Accepted
+T500269,L100218,Blue Heron Transport,2026-01-26,Accepted
+T500270,L100219,Lakeshore Express,2026-01-24,Accepted
+T500271,L100220,Harbor Point Haulers,2026-01-25,Accepted
+T500272,L100221,Summit Road Lines,2026-01-25,Accepted
+T500273,L100222,Pinecrest Logistics,2026-01-24,Rejected
+T500274,L100222,Copperline Carriers,2026-01-24,Accepted
+T500275,L100223,Harbor Point Haulers,2026-01-25,Rejected
+T500276,L100223,Summit Road Lines,2026-01-25,Accepted
+T500277,L100224,Ridgeline Freight,2026-01-25,Accepted
+T500278,L100225,Ironwood Trucking,2026-01-24,Accepted
+T500279,L100226,Ridgeline Freight,2026-01-25,Accepted
+T500280,L100227,Blue Heron Transport,2026-01-25,Accepted
+T500281,L100228,Copperline Carriers,2026-01-25,Accepted
+T500282,L100229,Harbor Point Haulers,2026-01-25,Rejected
+T500283,L100229,Summit Road Lines,2026-01-25,Accepted
+T500284,L100230,Pinecrest Logistics,2026-01-27,Accepted
+T500285,L100231,Copperline Carriers,2026-01-27,Accepted
+T500286,L100232,Blue Heron Transport,2026-01-26,Accepted
+T500287,L100233,Ironwood Trucking,2026-01-27,Accepted
+T500288,L100234,Ridgeline Freight,2026-01-27,Accepted
+T500289,L100235,Harbor Point Haulers,2026-01-27,Accepted
+T500290,L100236,Copperline Carriers,2026-01-26,Rejected
+T500291,L100236,Blue Heron Transport,2026-01-26,Accepted
+T500292,L100237,Lakeshore Express,2026-01-25,Rejected
+T500293,L100237,Harbor Point Haulers,2026-01-25,Accepted
+T500294,L100238,Pinecrest Logistics,2026-01-26,Accepted
+T500295,L100239,Summit Road Lines,2026-01-26,Accepted
+T500296,L100240,Ridgeline Freight,2026-01-27,Accepted
+T500297,L100241,Summit Road Lines,2026-01-26,Accepted
+T500298,L100242,Copperline Carriers,2026-01-26,Accepted
+T500299,L100243,Blue Heron Transport,2026-01-26,Accepted
+T500300,L100244,Ironwood Trucking,2026-01-27,Accepted
+T500301,L100245,Harbor Point Haulers,2026-01-26,Rejected
+T500302,L100245,Pinecrest Logistics,2026-01-26,Accepted
+T500303,L100246,Ridgeline Freight,2026-01-28,Accepted
+T500304,L100247,Copperline Carriers,2026-01-27,Accepted
+T500305,L100248,Pinecrest Logistics,2026-01-28,Accepted
+T500306,L100249,Lakeshore Express,2026-01-28,Accepted
+T500307,L100250,Harbor Point Haulers,2026-01-28,Accepted
+T500308,L100251,Summit Road Lines,2026-01-27,Accepted
+T500309,L100252,Blue Heron Transport,2026-01-28,Accepted
+T500310,L100253,Ridgeline Freight,2026-01-28,Accepted
+T500311,L100254,Pinecrest Logistics,2026-01-28,Accepted
+T500312,L100255,Summit Road Lines,2026-01-29,Rejected
+T500313,L100255,Pinecrest Logistics,2026-01-29,Rejected
+T500314,L100255,Copperline Carriers,2026-01-29,Accepted
+T500315,L100256,Copperline Carriers,2026-01-29,Rejected
+T500316,L100256,Blue Heron Transport,2026-01-29,Accepted
+T500317,L100257,Summit Road Lines,2026-01-28,Accepted
+T500318,L100258,Ridgeline Freight,2026-01-28,Accepted
+T500319,L100259,Summit Road Lines,2026-01-27,Accepted
+T500320,L100260,Ironwood Trucking,2026-01-28,Rejected
+T500321,L100260,Summit Road Lines,2026-01-28,Rejected
+T500322,L100260,Ridgeline Freight,2026-01-28,Accepted
+T500323,L100261,Ironwood Trucking,2026-01-27,Rejected
+T500324,L100261,Summit Road Lines,2026-01-27,Rejected
+T500325,L100261,Harbor Point Haulers,2026-01-27,Accepted
+T500326,L100262,Ridgeline Freight,2026-01-28,Accepted
+T500327,L100263,Copperline Carriers,2026-01-27,Accepted
+T500328,L100264,Lakeshore Express,2026-01-30,Accepted
+T500329,L100265,Pinecrest Logistics,2026-01-31,Rejected
+T500330,L100265,Harbor Point Haulers,2026-01-31,Rejected
+T500331,L100265,Summit Road Lines,2026-01-31,Accepted
+T500332,L100266,Pinecrest Logistics,2026-01-31,Rejected
+T500333,L100266,Ridgeline Freight,2026-01-31,Accepted
+T500334,L100267,Blue Heron Transport,2026-01-30,Accepted
+T500335,L100268,Pinecrest Logistics,2026-02-01,Accepted
+T500336,L100269,Ironwood Trucking,2026-02-01,Accepted
+T500337,L100270,Harbor Point Haulers,2026-01-30,Rejected
+T500338,L100270,Ridgeline Freight,2026-01-30,Accepted
+T500339,L100271,Ridgeline Freight,2026-02-01,Accepted
+T500340,L100272,Pinecrest Logistics,2026-02-01,Accepted
+T500341,L100273,Ridgeline Freight,2026-01-30,Accepted
+T500342,L100274,Harbor Point Haulers,2026-01-30,Accepted
+T500343,L100275,Ridgeline Freight,2026-01-31,Accepted
+T500344,L100276,Blue Heron Transport,2026-02-01,Accepted
+T500345,L100277,Ironwood Trucking,2026-01-31,Rejected
+T500346,L100277,Copperline Carriers,2026-01-31,Accepted
+T500347,L100278,Summit Road Lines,2026-02-01,Accepted
+T500348,L100279,Copperline Carriers,2026-02-02,Rejected
+T500349,L100279,Ironwood Trucking,2026-02-02,Rejected
+T500350,L100279,Lakeshore Express,2026-02-02,Accepted
+T500351,L100280,Harbor Point Haulers,2026-02-02,Rejected
+T500352,L100280,Lakeshore Express,2026-02-02,Rejected
+T500353,L100280,Ridgeline Freight,2026-02-02,Rejected
+T500354,L100280,Summit Road Lines,2026-02-02,Accepted
+T500355,L100281,Copperline Carriers,2026-02-02,Accepted
+T500356,L100282,Copperline Carriers,2026-01-31,Accepted
+T500357,L100283,Lakeshore Express,2026-02-02,Accepted
+T500358,L100284,Ridgeline Freight,2026-02-01,Accepted
+T500359,L100285,Copperline Carriers,2026-01-31,Rejected
+T500360,L100285,Ironwood Trucking,2026-01-31,Accepted
+T500361,L100286,Summit Road Lines,2026-02-01,Accepted
+T500362,L100287,Copperline Carriers,2026-02-02,Accepted
+T500363,L100288,Summit Road Lines,2026-02-02,Rejected
+T500364,L100288,Pinecrest Logistics,2026-02-02,Rejected
+T500365,L100288,Harbor Point Haulers,2026-02-02,Accepted
+T500366,L100289,Copperline Carriers,2026-02-01,Accepted
+T500367,L100290,Copperline Carriers,2026-02-02,Accepted
+T500368,L100291,Blue Heron Transport,2026-02-03,Accepted
+T500369,L100292,Blue Heron Transport,2026-02-03,Accepted
+T500370,L100293,Blue Heron Transport,2026-02-01,Accepted
+T500371,L100294,Harbor Point Haulers,2026-02-03,Accepted
+T500372,L100295,Summit Road Lines,2026-02-03,Rejected
+T500373,L100295,Blue Heron Transport,2026-02-03,Accepted
+T500374,L100296,Summit Road Lines,2026-02-03,Accepted
+T500375,L100297,Lakeshore Express,2026-02-02,Rejected
+T500376,L100297,Blue Heron Transport,2026-02-02,Accepted
+T500377,L100298,Harbor Point Haulers,2026-02-02,Accepted
+T500378,L100299,Lakeshore Express,2026-02-03,Rejected
+T500379,L100299,Summit Road Lines,2026-02-03,Rejected
+T500380,L100299,Ironwood Trucking,2026-02-03,Rejected
+T500381,L100299,Copperline Carriers,2026-02-03,Accepted
+T500382,L100300,Ridgeline Freight,2026-02-01,Accepted
+T500383,L100301,Ironwood Trucking,2026-02-01,Rejected
+T500384,L100301,Lakeshore Express,2026-02-01,Accepted
+T500385,L100302,Ridgeline Freight,2026-02-01,Accepted
+T500386,L100303,Ridgeline Freight,2026-02-01,Accepted
+T500387,L100304,Ridgeline Freight,2026-02-01,Accepted
+T500388,L100305,Ridgeline Freight,2026-02-02,Accepted
+T500389,L100306,Summit Road Lines,2026-02-02,Accepted
+T500390,L100307,Harbor Point Haulers,2026-02-02,Accepted
+T500391,L100308,Pinecrest Logistics,2026-02-02,Rejected
+T500392,L100308,Ironwood Trucking,2026-02-02,Accepted
+T500393,L100309,Summit Road Lines,2026-02-02,Accepted
+T500394,L100310,Summit Road Lines,2026-02-02,Rejected
+T500395,L100310,Harbor Point Haulers,2026-02-02,Rejected
+T500396,L100310,Lakeshore Express,2026-02-02,Accepted
+T500397,L100311,Ironwood Trucking,2026-02-03,Accepted
+T500398,L100312,Summit Road Lines,2026-02-04,Accepted
+T500399,L100313,Copperline Carriers,2026-02-03,Accepted
+T500400,L100314,Harbor Point Haulers,2026-02-02,Accepted
+T500401,L100315,Ridgeline Freight,2026-02-02,Accepted
+T500402,L100316,Copperline Carriers,2026-02-02,Accepted
+T500403,L100317,Ridgeline Freight,2026-02-04,Accepted
+T500404,L100318,Summit Road Lines,2026-02-03,Accepted
+T500405,L100319,Copperline Carriers,2026-02-04,Accepted
+T500406,L100320,Harbor Point Haulers,2026-02-04,Rejected
+T500407,L100320,Ridgeline Freight,2026-02-04,Accepted
+T500408,L100321,Blue Heron Transport,2026-02-03,Accepted
+T500409,L100322,Summit Road Lines,2026-02-04,Accepted
+T500410,L100323,Blue Heron Transport,2026-02-04,Rejected
+T500411,L100323,Harbor Point Haulers,2026-02-04,Rejected
+T500412,L100323,Pinecrest Logistics,2026-02-04,Accepted
+T500413,L100324,Pinecrest Logistics,2026-02-03,Accepted
+T500414,L100325,Pinecrest Logistics,2026-02-03,Accepted
+T500415,L100326,Lakeshore Express,2026-02-04,Accepted
+T500416,L100327,Lakeshore Express,2026-02-03,Rejected
+T500417,L100327,Blue Heron Transport,2026-02-03,Accepted
+T500418,L100328,Copperline Carriers,2026-02-04,Rejected
+T500419,L100328,Blue Heron Transport,2026-02-04,Accepted
+T500420,L100329,Ridgeline Freight,2026-02-08,Accepted
+T500421,L100330,Ironwood Trucking,2026-02-07,Rejected
+T500422,L100330,Blue Heron Transport,2026-02-07,Accepted
+T500423,L100331,Copperline Carriers,2026-02-06,Accepted
+T500424,L100332,Pinecrest Logistics,2026-02-07,Accepted
+T500425,L100333,Summit Road Lines,2026-02-06,Accepted
+T500426,L100334,Ironwood Trucking,2026-02-07,Accepted
+T500427,L100335,Ridgeline Freight,2026-02-07,Accepted
+T500428,L100336,Summit Road Lines,2026-02-07,Accepted
+T500429,L100337,Copperline Carriers,2026-02-06,Rejected
+T500430,L100337,Harbor Point Haulers,2026-02-06,Accepted
+T500431,L100338,Summit Road Lines,2026-02-06,Accepted
+T500432,L100339,Harbor Point Haulers,2026-02-07,Accepted
+T500433,L100340,Harbor Point Haulers,2026-02-06,Accepted
+T500434,L100341,Lakeshore Express,2026-02-09,Rejected
+T500435,L100341,Ridgeline Freight,2026-02-09,Accepted
+T500436,L100342,Lakeshore Express,2026-02-08,Accepted
+T500437,L100343,Lakeshore Express,2026-02-08,Accepted
+T500438,L100344,Harbor Point Haulers,2026-02-09,Accepted
+T500439,L100345,Harbor Point Haulers,2026-02-09,Accepted
+T500440,L100346,Harbor Point Haulers,2026-02-07,Rejected
+T500441,L100346,Blue Heron Transport,2026-02-07,Accepted
+T500442,L100347,Blue Heron Transport,2026-02-09,Accepted
+T500443,L100348,Ridgeline Freight,2026-02-09,Accepted
+T500444,L100349,Summit Road Lines,2026-02-08,Accepted
+T500445,L100350,Summit Road Lines,2026-02-07,Accepted
+T500446,L100351,Ridgeline Freight,2026-02-07,Accepted
+T500447,L100352,Ridgeline Freight,2026-02-08,Rejected
+T500448,L100352,Pinecrest Logistics,2026-02-08,Rejected
+T500449,L100352,Copperline Carriers,2026-02-08,Accepted
+T500450,L100353,Copperline Carriers,2026-02-08,Accepted
+T500451,L100354,Copperline Carriers,2026-02-09,Accepted
+T500452,L100355,Copperline Carriers,2026-02-08,Accepted
+T500453,L100356,Lakeshore Express,2026-02-09,Accepted
+T500454,L100357,Ridgeline Freight,2026-02-10,Accepted
+T500455,L100358,Lakeshore Express,2026-02-10,Accepted
+T500456,L100359,Lakeshore Express,2026-02-10,Accepted
+T500457,L100360,Copperline Carriers,2026-02-09,Accepted
+T500458,L100361,Summit Road Lines,2026-02-10,Accepted
+T500459,L100362,Blue Heron Transport,2026-02-10,Accepted
+T500460,L100363,Lakeshore Express,2026-02-09,Accepted
+T500461,L100364,Blue Heron Transport,2026-02-08,Accepted
+T500462,L100365,Ridgeline Freight,2026-02-09,Accepted
+T500463,L100366,Ridgeline Freight,2026-02-08,Accepted
+T500464,L100367,Ridgeline Freight,2026-02-09,Accepted
+T500465,L100368,Ironwood Trucking,2026-02-11,Accepted
+T500466,L100369,Ironwood Trucking,2026-02-11,Accepted
+T500467,L100370,Summit Road Lines,2026-02-10,Accepted
+T500468,L100371,Harbor Point Haulers,2026-02-10,Accepted
+T500469,L100372,Lakeshore Express,2026-02-09,Accepted
+T500470,L100373,Ridgeline Freight,2026-02-10,Rejected
+T500471,L100373,Pinecrest Logistics,2026-02-10,Rejected
+T500472,L100373,Summit Road Lines,2026-02-10,Accepted
+T500473,L100374,Harbor Point Haulers,2026-02-09,Accepted
+T500474,L100375,Harbor Point Haulers,2026-02-10,Accepted
+T500475,L100376,Lakeshore Express,2026-02-09,Accepted
+T500476,L100377,Copperline Carriers,2026-02-11,Accepted
+T500477,L100378,Lakeshore Express,2026-02-11,Accepted
+T500478,L100379,Ridgeline Freight,2026-02-10,Accepted
+T500479,L100380,Summit Road Lines,2026-02-11,Accepted
+T500480,L100381,Pinecrest Logistics,2026-02-12,Rejected
+T500481,L100381,Ironwood Trucking,2026-02-12,Accepted
+T500482,L100382,Harbor Point Haulers,2026-02-10,Rejected
+T500483,L100382,Lakeshore Express,2026-02-10,Accepted
+T500484,L100383,Pinecrest Logistics,2026-02-11,Accepted
+T500485,L100384,Lakeshore Express,2026-02-10,Accepted
+T500486,L100385,Blue Heron Transport,2026-02-12,Accepted
+T500487,L100386,Blue Heron Transport,2026-02-10,Accepted
+T500488,L100387,Blue Heron Transport,2026-02-12,Accepted
+T500489,L100388,Blue Heron Transport,2026-02-12,Accepted
+T500490,L100389,Copperline Carriers,2026-02-12,Accepted
+T500491,L100390,Copperline Carriers,2026-02-12,Accepted
+T500492,L100391,Ridgeline Freight,2026-02-12,Accepted
+T500493,L100392,Copperline Carriers,2026-02-11,Accepted
+T500494,L100393,Copperline Carriers,2026-02-11,Accepted
+T500495,L100394,Harbor Point Haulers,2026-02-11,Rejected
+T500496,L100394,Lakeshore Express,2026-02-11,Rejected
+T500497,L100394,Ridgeline Freight,2026-02-11,Accepted
+T500498,L100395,Copperline Carriers,2026-02-12,Accepted
+T500499,L100396,Lakeshore Express,2026-02-15,Accepted
+T500500,L100397,Ridgeline Freight,2026-02-14,Accepted
+T500501,L100398,Copperline Carriers,2026-02-15,Accepted
+T500502,L100399,Ironwood Trucking,2026-02-13,Accepted
+T500503,L100400,Ridgeline Freight,2026-02-13,Accepted
+T500504,L100401,Blue Heron Transport,2026-02-15,Rejected
+T500505,L100401,Ironwood Trucking,2026-02-15,Accepted
+T500506,L100402,Ridgeline Freight,2026-02-14,Accepted
+T500507,L100403,Blue Heron Transport,2026-02-15,Accepted
+T500508,L100404,Summit Road Lines,2026-02-13,Accepted
+T500509,L100405,Summit Road Lines,2026-02-13,Accepted
+T500510,L100406,Harbor Point Haulers,2026-02-15,Accepted
+T500511,L100407,Copperline Carriers,2026-02-14,Accepted
+T500512,L100408,Summit Road Lines,2026-02-13,Accepted
+T500513,L100409,Blue Heron Transport,2026-02-15,Accepted
+T500514,L100410,Pinecrest Logistics,2026-02-14,Rejected
+T500515,L100410,Ironwood Trucking,2026-02-14,Accepted
+T500516,L100411,Ridgeline Freight,2026-02-16,Accepted
+T500517,L100412,Ridgeline Freight,2026-02-14,Accepted
+T500518,L100413,Harbor Point Haulers,2026-02-14,Accepted
+T500519,L100414,Harbor Point Haulers,2026-02-15,Accepted
+T500520,L100415,Blue Heron Transport,2026-02-14,Accepted
+T500521,L100416,Blue Heron Transport,2026-02-15,Accepted
+T500522,L100417,Ridgeline Freight,2026-02-14,Accepted
+T500523,L100418,Summit Road Lines,2026-02-15,Accepted
+T500524,L100419,Ridgeline Freight,2026-02-15,Accepted
+T500525,L100420,Ironwood Trucking,2026-02-15,Accepted
+T500526,L100421,Harbor Point Haulers,2026-02-16,Accepted
+T500527,L100422,Harbor Point Haulers,2026-02-15,Accepted
+T500528,L100423,Copperline Carriers,2026-02-16,Accepted
+T500529,L100424,Blue Heron Transport,2026-02-15,Accepted
+T500530,L100425,Summit Road Lines,2026-02-16,Accepted
+T500531,L100426,Harbor Point Haulers,2026-02-16,Accepted
+T500532,L100427,Harbor Point Haulers,2026-02-16,Accepted
+T500533,L100428,Blue Heron Transport,2026-02-17,Accepted
+T500534,L100429,Lakeshore Express,2026-02-15,Rejected
+T500535,L100429,Copperline Carriers,2026-02-15,Accepted
+T500536,L100430,Ridgeline Freight,2026-02-16,Accepted
+T500537,L100431,Ironwood Trucking,2026-02-15,Accepted
+T500538,L100432,Harbor Point Haulers,2026-02-17,Accepted
+T500539,L100433,Copperline Carriers,2026-02-17,Accepted
+T500540,L100434,Harbor Point Haulers,2026-02-16,Rejected
+T500541,L100434,Lakeshore Express,2026-02-16,Accepted
+T500542,L100435,Ridgeline Freight,2026-02-17,Accepted
+T500543,L100436,Blue Heron Transport,2026-02-17,Accepted
+T500544,L100437,Copperline Carriers,2026-02-15,Accepted
+T500545,L100438,Summit Road Lines,2026-02-16,Rejected
+T500546,L100438,Harbor Point Haulers,2026-02-16,Accepted
+T500547,L100439,Blue Heron Transport,2026-02-17,Accepted
+T500548,L100440,Harbor Point Haulers,2026-02-17,Accepted
+T500549,L100441,Blue Heron Transport,2026-02-16,Accepted
+T500550,L100442,Harbor Point Haulers,2026-02-16,Accepted
+T500551,L100443,Copperline Carriers,2026-02-17,Rejected
+T500552,L100443,Summit Road Lines,2026-02-17,Accepted
+T500553,L100444,Pinecrest Logistics,2026-02-18,Rejected
+T500554,L100444,Blue Heron Transport,2026-02-18,Accepted
+T500555,L100445,Blue Heron Transport,2026-02-16,Rejected
+T500556,L100445,Summit Road Lines,2026-02-16,Accepted
+T500557,L100446,Ironwood Trucking,2026-02-16,Accepted
+T500558,L100447,Copperline Carriers,2026-02-18,Accepted
+T500559,L100448,Copperline Carriers,2026-02-16,Accepted
+T500560,L100449,Blue Heron Transport,2026-02-17,Accepted
+T500561,L100450,Pinecrest Logistics,2026-02-19,Rejected
+T500562,L100450,Ridgeline Freight,2026-02-19,Rejected
+T500563,L100450,Copperline Carriers,2026-02-19,Accepted
+T500564,L100451,Summit Road Lines,2026-02-17,Accepted
+T500565,L100452,Ridgeline Freight,2026-02-17,Accepted
+T500566,L100453,Harbor Point Haulers,2026-02-17,Accepted
+T500567,L100454,Summit Road Lines,2026-02-19,Rejected
+T500568,L100454,Blue Heron Transport,2026-02-19,Accepted
+T500569,L100455,Blue Heron Transport,2026-02-19,Accepted
+T500570,L100456,Ridgeline Freight,2026-02-17,Accepted
+T500571,L100457,Blue Heron Transport,2026-02-19,Rejected
+T500572,L100457,Pinecrest Logistics,2026-02-19,Accepted
+T500573,L100458,Ridgeline Freight,2026-02-18,Accepted
+T500574,L100459,Pinecrest Logistics,2026-02-19,Rejected
+T500575,L100459,Copperline Carriers,2026-02-19,Accepted
+T500576,L100460,Harbor Point Haulers,2026-02-18,Accepted
+T500577,L100461,Ridgeline Freight,2026-02-18,Accepted
+T500578,L100462,Blue Heron Transport,2026-02-19,Accepted
+T500579,L100463,Summit Road Lines,2026-02-21,Accepted
+T500580,L100464,Lakeshore Express,2026-02-22,Accepted
+T500581,L100465,Pinecrest Logistics,2026-02-20,Accepted
+T500582,L100466,Lakeshore Express,2026-02-20,Accepted
+T500583,L100467,Copperline Carriers,2026-02-22,Accepted
+T500584,L100468,Copperline Carriers,2026-02-22,Accepted
+T500585,L100469,Ridgeline Freight,2026-02-22,Accepted
+T500586,L100470,Summit Road Lines,2026-02-21,Accepted
+T500587,L100471,Copperline Carriers,2026-02-22,Accepted
+T500588,L100472,Summit Road Lines,2026-02-20,Accepted
+T500589,L100473,Copperline Carriers,2026-02-21,Accepted
+T500590,L100474,Summit Road Lines,2026-02-21,Accepted
+T500591,L100475,Ironwood Trucking,2026-02-22,Accepted
+T500592,L100476,Copperline Carriers,2026-02-23,Accepted
+T500593,L100477,Lakeshore Express,2026-02-21,Accepted
+T500594,L100478,Pinecrest Logistics,2026-02-23,Accepted
+T500595,L100479,Harbor Point Haulers,2026-02-22,Accepted
+T500596,L100480,Harbor Point Haulers,2026-02-22,Accepted
+T500597,L100481,Harbor Point Haulers,2026-02-22,Accepted
+T500598,L100482,Ridgeline Freight,2026-02-21,Accepted
+T500599,L100483,Ridgeline Freight,2026-02-21,Accepted
+T500600,L100484,Blue Heron Transport,2026-02-22,Accepted
+T500601,L100485,Copperline Carriers,2026-02-22,Accepted
+T500602,L100486,Harbor Point Haulers,2026-02-23,Rejected
+T500603,L100486,Blue Heron Transport,2026-02-23,Rejected
+T500604,L100486,Copperline Carriers,2026-02-23,Rejected
+T500605,L100486,Ridgeline Freight,2026-02-23,Accepted
+T500606,L100487,Copperline Carriers,2026-02-23,Accepted
+T500607,L100488,Harbor Point Haulers,2026-02-22,Rejected
+T500608,L100488,Ridgeline Freight,2026-02-22,Accepted
+T500609,L100489,Copperline Carriers,2026-02-22,Accepted
+T500610,L100490,Ridgeline Freight,2026-02-24,Accepted
+T500611,L100491,Blue Heron Transport,2026-02-24,Accepted
+T500612,L100492,Copperline Carriers,2026-02-23,Accepted
+T500613,L100493,Ridgeline Freight,2026-02-24,Accepted
+T500614,L100494,Ridgeline Freight,2026-02-22,Accepted
+T500615,L100495,Ironwood Trucking,2026-02-24,Accepted
+T500616,L100496,Lakeshore Express,2026-02-24,Accepted
+T500617,L100497,Summit Road Lines,2026-02-24,Accepted
+T500618,L100498,Blue Heron Transport,2026-02-24,Accepted
+T500619,L100499,Pinecrest Logistics,2026-02-23,Rejected
+T500620,L100499,Lakeshore Express,2026-02-23,Accepted
+T500621,L100500,Ridgeline Freight,2026-02-25,Accepted
+T500622,L100501,Blue Heron Transport,2026-02-23,Accepted
+T500623,L100502,Lakeshore Express,2026-02-23,Rejected
+T500624,L100502,Harbor Point Haulers,2026-02-23,Accepted
+T500625,L100503,Harbor Point Haulers,2026-02-24,Accepted
+T500626,L100504,Copperline Carriers,2026-02-24,Accepted
+T500627,L100505,Ridgeline Freight,2026-02-23,Accepted
+T500628,L100506,Summit Road Lines,2026-02-25,Accepted
+T500629,L100507,Ridgeline Freight,2026-02-25,Accepted
+T500630,L100508,Blue Heron Transport,2026-02-23,Accepted
+T500631,L100509,Blue Heron Transport,2026-02-25,Accepted
+T500632,L100510,Ridgeline Freight,2026-02-24,Accepted
+T500633,L100511,Lakeshore Express,2026-02-23,Accepted
+T500634,L100512,Harbor Point Haulers,2026-02-25,Rejected
+T500635,L100512,Blue Heron Transport,2026-02-25,Accepted
+T500636,L100513,Summit Road Lines,2026-02-24,Accepted
+T500637,L100514,Ridgeline Freight,2026-02-24,Accepted
+T500638,L100515,Pinecrest Logistics,2026-02-26,Accepted
+T500639,L100516,Ironwood Trucking,2026-02-25,Accepted
+T500640,L100517,Blue Heron Transport,2026-02-24,Accepted
+T500641,L100518,Ridgeline Freight,2026-02-26,Accepted
+T500642,L100519,Ridgeline Freight,2026-02-25,Accepted
+T500643,L100520,Pinecrest Logistics,2026-02-24,Rejected
+T500644,L100520,Copperline Carriers,2026-02-24,Accepted
+T500645,L100521,Pinecrest Logistics,2026-02-24,Accepted
+T500646,L100522,Pinecrest Logistics,2026-02-25,Accepted
+T500647,L100523,Ridgeline Freight,2026-02-25,Accepted
+T500648,L100524,Ironwood Trucking,2026-02-25,Accepted
+T500649,L100525,Pinecrest Logistics,2026-02-26,Rejected
+T500650,L100525,Copperline Carriers,2026-02-26,Accepted
+T500651,L100526,Copperline Carriers,2026-02-24,Accepted
+T500652,L100527,Pinecrest Logistics,2026-02-27,Accepted
+T500653,L100528,Ironwood Trucking,2026-03-01,Accepted
+T500654,L100529,Summit Road Lines,2026-02-28,Rejected
+T500655,L100529,Ironwood Trucking,2026-02-28,Rejected
+T500656,L100529,Pinecrest Logistics,2026-02-28,Accepted
+T500657,L100530,Ridgeline Freight,2026-02-28,Accepted
+T500658,L100531,Blue Heron Transport,2026-02-28,Rejected
+T500659,L100531,Pinecrest Logistics,2026-02-28,Accepted
+T500660,L100532,Copperline Carriers,2026-02-27,Rejected
+T500661,L100532,Harbor Point Haulers,2026-02-27,Accepted
+T500662,L100533,Harbor Point Haulers,2026-02-28,Accepted
+T500663,L100534,Ironwood Trucking,2026-02-28,Accepted
+T500664,L100535,Ironwood Trucking,2026-02-27,Accepted
+T500665,L100536,Harbor Point Haulers,2026-02-27,Accepted
+T500666,L100537,Ironwood Trucking,2026-02-27,Accepted
+T500667,L100538,Lakeshore Express,2026-02-27,Rejected
+T500668,L100538,Blue Heron Transport,2026-02-27,Accepted
+T500669,L100539,Ironwood Trucking,2026-03-01,Accepted
+T500670,L100540,Summit Road Lines,2026-02-27,Rejected
+T500671,L100540,Harbor Point Haulers,2026-02-27,Accepted
+T500672,L100541,Lakeshore Express,2026-02-28,Accepted
+T500673,L100542,Pinecrest Logistics,2026-03-01,Accepted
+T500674,L100543,Copperline Carriers,2026-03-01,Accepted
+T500675,L100544,Summit Road Lines,2026-03-01,Accepted
+T500676,L100545,Ironwood Trucking,2026-03-02,Accepted
+T500677,L100546,Ironwood Trucking,2026-02-28,Rejected
+T500678,L100546,Ridgeline Freight,2026-02-28,Accepted
+T500679,L100547,Copperline Carriers,2026-03-01,Accepted
+T500680,L100548,Summit Road Lines,2026-02-28,Accepted
+T500681,L100549,Ridgeline Freight,2026-03-01,Accepted
+T500682,L100550,Harbor Point Haulers,2026-02-28,Rejected
+T500683,L100550,Ridgeline Freight,2026-02-28,Accepted
+T500684,L100551,Ridgeline Freight,2026-02-28,Accepted
+T500685,L100552,Summit Road Lines,2026-02-28,Rejected
+T500686,L100552,Ridgeline Freight,2026-02-28,Accepted
+T500687,L100553,Ironwood Trucking,2026-03-01,Accepted
+T500688,L100554,Lakeshore Express,2026-03-02,Accepted
+T500689,L100555,Ironwood Trucking,2026-02-28,Rejected
+T500690,L100555,Blue Heron Transport,2026-02-28,Accepted
+T500691,L100556,Harbor Point Haulers,2026-03-03,Accepted
+T500692,L100557,Ironwood Trucking,2026-03-03,Accepted
+T500693,L100558,Harbor Point Haulers,2026-03-03,Accepted
+T500694,L100559,Harbor Point Haulers,2026-03-02,Accepted
+T500695,L100560,Copperline Carriers,2026-03-02,Accepted
+T500696,L100561,Ridgeline Freight,2026-03-02,Accepted
+T500697,L100562,Lakeshore Express,2026-03-03,Accepted
+T500698,L100563,Summit Road Lines,2026-03-01,Accepted
+T500699,L100564,Harbor Point Haulers,2026-03-03,Accepted
+T500700,L100565,Pinecrest Logistics,2026-03-03,Accepted
+T500701,L100566,Ironwood Trucking,2026-03-01,Accepted
+T500702,L100567,Ridgeline Freight,2026-03-01,Accepted
+T500703,L100568,Pinecrest Logistics,2026-03-04,Accepted
+T500704,L100569,Copperline Carriers,2026-03-04,Accepted
+T500705,L100570,Pinecrest Logistics,2026-03-02,Accepted
+T500706,L100571,Harbor Point Haulers,2026-03-04,Accepted
+T500707,L100572,Harbor Point Haulers,2026-03-04,Accepted
+T500708,L100573,Lakeshore Express,2026-03-02,Accepted
+T500709,L100574,Blue Heron Transport,2026-03-03,Accepted
+T500710,L100575,Blue Heron Transport,2026-03-02,Accepted
+T500711,L100576,Harbor Point Haulers,2026-03-03,Accepted
+T500712,L100577,Blue Heron Transport,2026-03-04,Accepted
+T500713,L100578,Summit Road Lines,2026-03-04,Accepted
+T500714,L100579,Blue Heron Transport,2026-03-03,Rejected
+T500715,L100579,Pinecrest Logistics,2026-03-03,Accepted
+T500716,L100580,Pinecrest Logistics,2026-03-04,Rejected
+T500717,L100580,Harbor Point Haulers,2026-03-04,Accepted
+T500718,L100581,Summit Road Lines,2026-03-04,Accepted
+T500719,L100582,Harbor Point Haulers,2026-03-03,Rejected
+T500720,L100582,Blue Heron Transport,2026-03-03,Rejected
+T500721,L100582,Copperline Carriers,2026-03-03,Accepted
+T500722,L100583,Copperline Carriers,2026-03-04,Accepted
+T500723,L100584,Summit Road Lines,2026-03-04,Accepted
+T500724,L100585,Ironwood Trucking,2026-03-05,Accepted
+T500725,L100586,Ridgeline Freight,2026-03-03,Accepted
+T500726,L100587,Pinecrest Logistics,2026-03-03,Accepted
+T500727,L100588,Summit Road Lines,2026-03-04,Accepted
+T500728,L100589,Summit Road Lines,2026-03-04,Accepted
+T500729,L100590,Ironwood Trucking,2026-03-05,Rejected
+T500730,L100590,Ridgeline Freight,2026-03-05,Accepted
+T500731,L100591,Harbor Point Haulers,2026-03-05,Accepted
+T500732,L100592,Copperline Carriers,2026-03-08,Accepted
+T500733,L100593,Summit Road Lines,2026-03-07,Accepted
+T500734,L100594,Ridgeline Freight,2026-03-07,Accepted
+T500735,L100595,Ridgeline Freight,2026-03-08,Accepted
+T500736,L100596,Copperline Carriers,2026-03-06,Accepted
+T500737,L100597,Harbor Point Haulers,2026-03-06,Rejected
+T500738,L100597,Copperline Carriers,2026-03-06,Accepted
+T500739,L100598,Ridgeline Freight,2026-03-08,Accepted
+T500740,L100599,Pinecrest Logistics,2026-03-08,Accepted
+T500741,L100600,Lakeshore Express,2026-03-07,Accepted
+T500742,L100601,Ironwood Trucking,2026-03-07,Rejected
+T500743,L100601,Copperline Carriers,2026-03-07,Accepted
+T500744,L100602,Copperline Carriers,2026-03-08,Accepted
+T500745,L100603,Blue Heron Transport,2026-03-08,Accepted
+T500746,L100604,Ridgeline Freight,2026-03-08,Rejected
+T500747,L100604,Harbor Point Haulers,2026-03-08,Rejected
+T500748,L100604,Blue Heron Transport,2026-03-08,Accepted
+T500749,L100605,Ironwood Trucking,2026-03-07,Accepted
+T500750,L100606,Ridgeline Freight,2026-03-09,Accepted
+T500751,L100607,Copperline Carriers,2026-03-09,Accepted
+T500752,L100608,Ridgeline Freight,2026-03-09,Accepted
+T500753,L100609,Harbor Point Haulers,2026-03-08,Accepted
+T500754,L100610,Blue Heron Transport,2026-03-08,Accepted
+T500755,L100611,Copperline Carriers,2026-03-07,Accepted
+T500756,L100612,Summit Road Lines,2026-03-08,Accepted
+T500757,L100613,Ridgeline Freight,2026-03-09,Accepted
+T500758,L100614,Pinecrest Logistics,2026-03-08,Rejected
+T500759,L100614,Blue Heron Transport,2026-03-08,Accepted
+T500760,L100615,Copperline Carriers,2026-03-10,Accepted
+T500761,L100616,Harbor Point Haulers,2026-03-10,Accepted
+T500762,L100617,Ironwood Trucking,2026-03-08,Accepted
+T500763,L100618,Ridgeline Freight,2026-03-08,Accepted
+T500764,L100619,Lakeshore Express,2026-03-10,Accepted
+T500765,L100620,Blue Heron Transport,2026-03-09,Accepted
+T500766,L100621,Blue Heron Transport,2026-03-10,Accepted
+T500767,L100622,Ridgeline Freight,2026-03-09,Accepted
+T500768,L100623,Ridgeline Freight,2026-03-10,Accepted
+T500769,L100624,Lakeshore Express,2026-03-09,Accepted
+T500770,L100625,Blue Heron Transport,2026-03-08,Accepted
+T500771,L100626,Harbor Point Haulers,2026-03-08,Accepted
+T500772,L100627,Harbor Point Haulers,2026-03-08,Accepted
+T500773,L100628,Ridgeline Freight,2026-03-08,Accepted
+T500774,L100629,Copperline Carriers,2026-03-11,Accepted
+T500775,L100630,Pinecrest Logistics,2026-03-11,Accepted
+T500776,L100631,Blue Heron Transport,2026-03-11,Rejected
+T500777,L100631,Copperline Carriers,2026-03-11,Accepted
+T500778,L100632,Ridgeline Freight,2026-03-10,Accepted
+T500779,L100633,Summit Road Lines,2026-03-11,Accepted
+T500780,L100634,Copperline Carriers,2026-03-11,Accepted
+T500781,L100635,Ironwood Trucking,2026-03-10,Accepted
+T500782,L100636,Ridgeline Freight,2026-03-10,Accepted
+T500783,L100637,Harbor Point Haulers,2026-03-10,Rejected
+T500784,L100637,Ridgeline Freight,2026-03-10,Accepted
+T500785,L100638,Ridgeline Freight,2026-03-10,Accepted
+T500786,L100639,Copperline Carriers,2026-03-10,Accepted
+T500787,L100640,Ridgeline Freight,2026-03-10,Accepted
+T500788,L100641,Ironwood Trucking,2026-03-10,Accepted
+T500789,L100642,Ironwood Trucking,2026-03-12,Accepted
+T500790,L100643,Summit Road Lines,2026-03-12,Accepted
+T500791,L100644,Copperline Carriers,2026-03-11,Accepted
+T500792,L100645,Ironwood Trucking,2026-03-12,Accepted
+T500793,L100646,Summit Road Lines,2026-03-11,Accepted
+T500794,L100647,Ridgeline Freight,2026-03-11,Accepted
+T500795,L100648,Pinecrest Logistics,2026-03-12,Accepted
+T500796,L100649,Ironwood Trucking,2026-03-13,Accepted
+T500797,L100650,Copperline Carriers,2026-03-14,Accepted
+T500798,L100651,Ridgeline Freight,2026-03-15,Accepted
+T500799,L100652,Lakeshore Express,2026-03-13,Accepted
+T500800,L100653,Blue Heron Transport,2026-03-13,Accepted
+T500801,L100654,Pinecrest Logistics,2026-03-15,Rejected
+T500802,L100654,Copperline Carriers,2026-03-15,Accepted
+T500803,L100655,Ironwood Trucking,2026-03-15,Accepted
+T500804,L100656,Pinecrest Logistics,2026-03-13,Accepted
+T500805,L100657,Summit Road Lines,2026-03-13,Accepted
+T500806,L100658,Lakeshore Express,2026-03-13,Accepted
+T500807,L100659,Copperline Carriers,2026-03-16,Rejected
+T500808,L100659,Lakeshore Express,2026-03-16,Accepted
+T500809,L100660,Ridgeline Freight,2026-03-16,Accepted
+T500810,L100661,Pinecrest Logistics,2026-03-15,Accepted
+T500811,L100662,Ridgeline Freight,2026-03-14,Accepted
+T500812,L100663,Ridgeline Freight,2026-03-15,Accepted
+T500813,L100664,Pinecrest Logistics,2026-03-16,Accepted
+T500814,L100665,Copperline Carriers,2026-03-15,Accepted
+T500815,L100666,Lakeshore Express,2026-03-14,Accepted
+T500816,L100667,Blue Heron Transport,2026-03-14,Accepted
+T500817,L100668,Ridgeline Freight,2026-03-16,Accepted
+T500818,L100669,Summit Road Lines,2026-03-15,Accepted
+T500819,L100670,Summit Road Lines,2026-03-15,Rejected
+T500820,L100670,Ridgeline Freight,2026-03-15,Accepted
+T500821,L100671,Lakeshore Express,2026-03-17,Rejected
+T500822,L100671,Harbor Point Haulers,2026-03-17,Accepted
+T500823,L100672,Copperline Carriers,2026-03-15,Accepted
+T500824,L100673,Blue Heron Transport,2026-03-15,Accepted
+T500825,L100674,Copperline Carriers,2026-03-17,Accepted
+T500826,L100675,Pinecrest Logistics,2026-03-16,Accepted
+T500827,L100676,Harbor Point Haulers,2026-03-17,Accepted
+T500828,L100677,Ironwood Trucking,2026-03-15,Accepted
+T500829,L100678,Blue Heron Transport,2026-03-17,Rejected
+T500830,L100678,Pinecrest Logistics,2026-03-17,Rejected
+T500831,L100678,Ridgeline Freight,2026-03-17,Accepted
+T500832,L100679,Pinecrest Logistics,2026-03-17,Rejected
+T500833,L100679,Harbor Point Haulers,2026-03-17,Accepted
+T500834,L100680,Ironwood Trucking,2026-03-15,Accepted
+T500835,L100681,Copperline Carriers,2026-03-16,Accepted
+T500836,L100682,Blue Heron Transport,2026-03-16,Accepted
+T500837,L100683,Lakeshore Express,2026-03-15,Accepted
+T500838,L100684,Summit Road Lines,2026-03-18,Accepted
+T500839,L100685,Copperline Carriers,2026-03-18,Accepted
+T500840,L100686,Copperline Carriers,2026-03-17,Accepted
+T500841,L100687,Ironwood Trucking,2026-03-16,Accepted
+T500842,L100688,Copperline Carriers,2026-03-16,Accepted
+T500843,L100689,Summit Road Lines,2026-03-17,Accepted
+T500844,L100690,Harbor Point Haulers,2026-03-16,Accepted
+T500845,L100691,Lakeshore Express,2026-03-17,Accepted
+T500846,L100692,Harbor Point Haulers,2026-03-18,Rejected
+T500847,L100692,Copperline Carriers,2026-03-18,Accepted
+T500848,L100693,Ridgeline Freight,2026-03-16,Accepted
+T500849,L100694,Ridgeline Freight,2026-03-18,Accepted
+T500850,L100695,Pinecrest Logistics,2026-03-18,Accepted
+T500851,L100696,Summit Road Lines,2026-03-17,Accepted
+T500852,L100697,Ironwood Trucking,2026-03-18,Accepted
+T500853,L100698,Summit Road Lines,2026-03-19,Accepted
+T500854,L100699,Lakeshore Express,2026-03-19,Accepted
+T500855,L100700,Ridgeline Freight,2026-03-18,Accepted
+T500856,L100701,Pinecrest Logistics,2026-03-18,Accepted
+T500857,L100702,Ridgeline Freight,2026-03-19,Accepted
+T500858,L100703,Lakeshore Express,2026-03-18,Accepted
+T500859,L100704,Ridgeline Freight,2026-03-18,Accepted
+T500860,L100705,Harbor Point Haulers,2026-03-18,Rejected
+T500861,L100705,Ridgeline Freight,2026-03-18,Accepted
+T500862,L100706,Copperline Carriers,2026-03-19,Accepted
+T500863,L100707,Lakeshore Express,2026-03-17,Rejected
+T500864,L100707,Ridgeline Freight,2026-03-17,Accepted
+T500865,L100708,Copperline Carriers,2026-03-19,Accepted
+T500866,L100709,Summit Road Lines,2026-03-19,Accepted
+T500867,L100710,Lakeshore Express,2026-03-18,Accepted
+T500868,L100711,Pinecrest Logistics,2026-03-18,Rejected
+T500869,L100711,Copperline Carriers,2026-03-18,Accepted
+T500870,L100712,Blue Heron Transport,2026-03-18,Accepted
+T500871,L100713,Lakeshore Express,2026-03-20,Accepted
+T500872,L100714,Copperline Carriers,2026-03-21,Rejected
+T500873,L100714,Summit Road Lines,2026-03-21,Accepted
+T500874,L100715,Pinecrest Logistics,2026-03-21,Accepted
+T500875,L100716,Ironwood Trucking,2026-03-20,Accepted
+T500876,L100717,Blue Heron Transport,2026-03-21,Accepted
+T500877,L100718,Pinecrest Logistics,2026-03-22,Accepted
+T500878,L100719,Pinecrest Logistics,2026-03-21,Rejected
+T500879,L100719,Summit Road Lines,2026-03-21,Accepted
+T500880,L100720,Pinecrest Logistics,2026-03-20,Accepted
+T500881,L100721,Ridgeline Freight,2026-03-22,Rejected
+T500882,L100721,Summit Road Lines,2026-03-22,Accepted
+T500883,L100722,Pinecrest Logistics,2026-03-22,Accepted
+T500884,L100723,Blue Heron Transport,2026-03-22,Rejected
+T500885,L100723,Ridgeline Freight,2026-03-22,Accepted
+T500886,L100724,Ridgeline Freight,2026-03-20,Accepted
+T500887,L100725,Harbor Point Haulers,2026-03-20,Accepted
+T500888,L100726,Copperline Carriers,2026-03-21,Rejected
+T500889,L100726,Summit Road Lines,2026-03-21,Accepted
+T500890,L100727,Blue Heron Transport,2026-03-22,Rejected
+T500891,L100727,Lakeshore Express,2026-03-22,Rejected
+T500892,L100727,Summit Road Lines,2026-03-22,Accepted
+T500893,L100728,Ridgeline Freight,2026-03-22,Accepted
+T500894,L100729,Pinecrest Logistics,2026-03-21,Accepted
+T500895,L100730,Ridgeline Freight,2026-03-23,Accepted
+T500896,L100731,Lakeshore Express,2026-03-23,Rejected
+T500897,L100731,Pinecrest Logistics,2026-03-23,Rejected
+T500898,L100731,Ironwood Trucking,2026-03-23,Accepted
+T500899,L100732,Copperline Carriers,2026-03-21,Accepted
+T500900,L100733,Copperline Carriers,2026-03-21,Accepted
+T500901,L100734,Blue Heron Transport,2026-03-21,Accepted
+T500902,L100735,Blue Heron Transport,2026-03-23,Accepted
+T500903,L100736,Pinecrest Logistics,2026-03-22,Accepted
+T500904,L100737,Ironwood Trucking,2026-03-22,Rejected
+T500905,L100737,Copperline Carriers,2026-03-22,Rejected
+T500906,L100737,Blue Heron Transport,2026-03-22,Accepted
+T500907,L100738,Blue Heron Transport,2026-03-22,Accepted
+T500908,L100739,Summit Road Lines,2026-03-22,Rejected
+T500909,L100739,Harbor Point Haulers,2026-03-22,Accepted
+T500910,L100740,Pinecrest Logistics,2026-03-22,Accepted
+T500911,L100741,Blue Heron Transport,2026-03-23,Accepted
+T500912,L100742,Lakeshore Express,2026-03-23,Accepted
+T500913,L100743,Lakeshore Express,2026-03-21,Rejected
+T500914,L100743,Harbor Point Haulers,2026-03-21,Accepted
+T500915,L100744,Summit Road Lines,2026-03-22,Accepted
+T500916,L100745,Ridgeline Freight,2026-03-23,Accepted
+T500917,L100746,Ridgeline Freight,2026-03-22,Accepted
+T500918,L100747,Lakeshore Express,2026-03-22,Accepted
+T500919,L100748,Pinecrest Logistics,2026-03-23,Accepted
+T500920,L100749,Copperline Carriers,2026-03-22,Accepted
+T500921,L100750,Harbor Point Haulers,2026-03-23,Accepted
+T500922,L100751,Copperline Carriers,2026-03-22,Accepted
+T500923,L100752,Ridgeline Freight,2026-03-22,Accepted
+T500924,L100753,Lakeshore Express,2026-03-23,Accepted
+T500925,L100754,Lakeshore Express,2026-03-22,Accepted
+T500926,L100755,Harbor Point Haulers,2026-03-22,Accepted
+T500927,L100756,Harbor Point Haulers,2026-03-24,Accepted
+T500928,L100757,Ridgeline Freight,2026-03-24,Accepted
+T500929,L100758,Ridgeline Freight,2026-03-23,Accepted
+T500930,L100759,Harbor Point Haulers,2026-03-22,Accepted
+T500931,L100760,Summit Road Lines,2026-03-24,Accepted
+T500932,L100761,Lakeshore Express,2026-03-23,Rejected
+T500933,L100761,Ironwood Trucking,2026-03-23,Accepted
+T500934,L100762,Pinecrest Logistics,2026-03-23,Accepted
+T500935,L100763,Pinecrest Logistics,2026-03-23,Accepted
+T500936,L100764,Summit Road Lines,2026-03-24,Accepted
+T500937,L100765,Pinecrest Logistics,2026-03-23,Accepted
+T500938,L100766,Harbor Point Haulers,2026-03-25,Accepted
+T500939,L100767,Summit Road Lines,2026-03-23,Accepted
+T500940,L100768,Blue Heron Transport,2026-03-23,Accepted
+T500941,L100769,Ridgeline Freight,2026-03-23,Accepted
+T500942,L100770,Blue Heron Transport,2026-03-25,Accepted
+T500943,L100771,Summit Road Lines,2026-03-24,Accepted
+T500944,L100772,Harbor Point Haulers,2026-03-24,Rejected
+T500945,L100772,Pinecrest Logistics,2026-03-24,Rejected
+T500946,L100772,Blue Heron Transport,2026-03-24,Accepted
+T500947,L100773,Summit Road Lines,2026-03-25,Accepted
+T500948,L100774,Summit Road Lines,2026-03-25,Accepted
+T500949,L100775,Pinecrest Logistics,2026-03-24,Accepted
+T500950,L100776,Copperline Carriers,2026-03-25,Accepted
+T500951,L100777,Lakeshore Express,2026-03-26,Accepted
+T500952,L100778,Blue Heron Transport,2026-03-25,Accepted
+T500953,L100779,Blue Heron Transport,2026-03-24,Accepted
+T500954,L100780,Ridgeline Freight,2026-03-25,Accepted
+T500955,L100781,Pinecrest Logistics,2026-03-26,Accepted
+T500956,L100782,Copperline Carriers,2026-03-25,Accepted
+T500957,L100783,Lakeshore Express,2026-03-24,Accepted
+T500958,L100784,Lakeshore Express,2026-03-25,Accepted
+T500959,L100785,Summit Road Lines,2026-03-27,Rejected
+T500960,L100785,Blue Heron Transport,2026-03-27,Rejected
+T500961,L100785,Lakeshore Express,2026-03-27,Accepted
+T500962,L100786,Copperline Carriers,2026-03-29,Accepted
+T500963,L100787,Copperline Carriers,2026-03-28,Accepted
+T500964,L100788,Ironwood Trucking,2026-03-27,Accepted
+T500965,L100789,Copperline Carriers,2026-03-28,Accepted
+T500966,L100790,Blue Heron Transport,2026-03-29,Accepted
+T500967,L100791,Ridgeline Freight,2026-03-29,Accepted
+T500968,L100792,Pinecrest Logistics,2026-03-27,Rejected
+T500969,L100792,Harbor Point Haulers,2026-03-27,Rejected
+T500970,L100792,Summit Road Lines,2026-03-27,Accepted
+T500971,L100793,Summit Road Lines,2026-03-29,Accepted
+T500972,L100794,Pinecrest Logistics,2026-03-27,Accepted
+T500973,L100795,Blue Heron Transport,2026-03-29,Accepted
+T500974,L100796,Ironwood Trucking,2026-03-28,Accepted
+T500975,L100797,Blue Heron Transport,2026-03-27,Accepted
+T500976,L100798,Ironwood Trucking,2026-03-29,Accepted
+T500977,L100799,Ironwood Trucking,2026-03-30,Rejected
+T500978,L100799,Ridgeline Freight,2026-03-30,Accepted
+T500979,L100800,Ridgeline Freight,2026-03-28,Accepted
+T500980,L100801,Blue Heron Transport,2026-03-28,Rejected
+T500981,L100801,Pinecrest Logistics,2026-03-28,Rejected
+T500982,L100801,Lakeshore Express,2026-03-28,Rejected
+T500983,L100801,Summit Road Lines,2026-03-28,Accepted
+T500984,L100802,Harbor Point Haulers,2026-03-29,Accepted
+T500985,L100803,Ridgeline Freight,2026-03-29,Accepted
+T500986,L100804,Copperline Carriers,2026-03-28,Accepted
+T500987,L100805,Pinecrest Logistics,2026-03-30,Accepted
+T500988,L100806,Lakeshore Express,2026-03-29,Rejected
+T500989,L100806,Ironwood Trucking,2026-03-29,Accepted
+T500990,L100807,Lakeshore Express,2026-03-28,Accepted
+T500991,L100808,Ironwood Trucking,2026-03-29,Accepted
+T500992,L100809,Blue Heron Transport,2026-03-29,Accepted
+T500993,L100810,Pinecrest Logistics,2026-03-31,Accepted
+T500994,L100811,Ironwood Trucking,2026-03-31,Accepted
+T500995,L100812,Ridgeline Freight,2026-03-29,Accepted
+T500996,L100813,Summit Road Lines,2026-03-30,Accepted
+T500997,L100814,Lakeshore Express,2026-03-29,Accepted
+T500998,L100815,Ridgeline Freight,2026-03-30,Accepted
+T500999,L100816,Lakeshore Express,2026-03-30,Accepted
+T501000,L100817,Copperline Carriers,2026-03-30,Accepted
+T501001,L100818,Blue Heron Transport,2026-03-29,Accepted
+T501002,L100819,Harbor Point Haulers,2026-03-29,Accepted
+T501003,L100820,Blue Heron Transport,2026-04-01,Accepted
+T501004,L100821,Summit Road Lines,2026-03-30,Rejected
+T501005,L100821,Blue Heron Transport,2026-03-30,Accepted
+T501006,L100822,Harbor Point Haulers,2026-03-31,Accepted
+T501007,L100823,Ridgeline Freight,2026-04-01,Accepted
+T501008,L100824,Summit Road Lines,2026-03-31,Accepted
+T501009,L100825,Ironwood Trucking,2026-04-01,Accepted
+T501010,L100826,Copperline Carriers,2026-03-30,Accepted
+T501011,L100827,Ridgeline Freight,2026-03-30,Accepted
+T501012,L100828,Ridgeline Freight,2026-04-01,Accepted
+T501013,L100829,Lakeshore Express,2026-03-30,Rejected
+T501014,L100829,Ironwood Trucking,2026-03-30,Accepted
+T501015,L100830,Blue Heron Transport,2026-03-31,Accepted
+T501016,L100831,Copperline Carriers,2026-03-30,Accepted
+T501017,L100832,Pinecrest Logistics,2026-03-31,Accepted
+T501018,L100833,Ironwood Trucking,2026-04-01,Accepted
+T501019,L100834,Ironwood Trucking,2026-04-01,Rejected
+T501020,L100834,Harbor Point Haulers,2026-04-01,Accepted
+T501021,L100835,Copperline Carriers,2026-03-31,Accepted
+T501022,L100836,Copperline Carriers,2026-04-02,Accepted
+T501023,L100837,Harbor Point Haulers,2026-04-02,Accepted
+T501024,L100838,Pinecrest Logistics,2026-04-02,Accepted
+T501025,L100839,Blue Heron Transport,2026-04-01,Rejected
+T501026,L100839,Ridgeline Freight,2026-04-01,Accepted
+T501027,L100840,Harbor Point Haulers,2026-03-31,Accepted
+T501028,L100841,Blue Heron Transport,2026-04-02,Accepted
+T501029,L100842,Blue Heron Transport,2026-04-01,Accepted
+T501030,L100843,Blue Heron Transport,2026-04-01,Accepted
+T501031,L100844,Ironwood Trucking,2026-03-31,Accepted
+T501032,L100845,Lakeshore Express,2026-03-31,Rejected
+T501033,L100845,Blue Heron Transport,2026-03-31,Accepted
+T501034,L100846,Lakeshore Express,2026-04-01,Rejected
+T501035,L100846,Harbor Point Haulers,2026-04-01,Rejected
+T501036,L100846,Blue Heron Transport,2026-04-01,Accepted
+T501037,L100847,Blue Heron Transport,2026-04-03,Accepted
+T501038,L100848,Blue Heron Transport,2026-04-04,Accepted
+T501039,L100849,Ridgeline Freight,2026-04-04,Accepted
+T501040,L100850,Copperline Carriers,2026-04-05,Accepted
+T501041,L100851,Ridgeline Freight,2026-04-03,Accepted
+T501042,L100852,Copperline Carriers,2026-04-04,Accepted
+T501043,L100853,Ridgeline Freight,2026-04-05,Accepted
+T501044,L100854,Summit Road Lines,2026-04-04,Rejected
+T501045,L100854,Copperline Carriers,2026-04-04,Accepted
+T501046,L100855,Blue Heron Transport,2026-04-03,Accepted
+T501047,L100856,Ridgeline Freight,2026-04-04,Accepted
+T501048,L100857,Summit Road Lines,2026-04-03,Accepted
+T501049,L100858,Blue Heron Transport,2026-04-04,Accepted
+T501050,L100859,Summit Road Lines,2026-04-05,Accepted
+T501051,L100860,Summit Road Lines,2026-04-04,Accepted
+T501052,L100861,Blue Heron Transport,2026-04-06,Accepted
+T501053,L100862,Pinecrest Logistics,2026-04-06,Accepted
+T501054,L100863,Summit Road Lines,2026-04-04,Accepted
+T501055,L100864,Copperline Carriers,2026-04-06,Accepted
+T501056,L100865,Summit Road Lines,2026-04-05,Accepted
+T501057,L100866,Summit Road Lines,2026-04-06,Accepted
+T501058,L100867,Ironwood Trucking,2026-04-06,Accepted
+T501059,L100868,Ironwood Trucking,2026-04-06,Accepted
+T501060,L100869,Ironwood Trucking,2026-04-06,Accepted
+T501061,L100870,Copperline Carriers,2026-04-06,Accepted
+T501062,L100871,Harbor Point Haulers,2026-04-05,Accepted
+T501063,L100872,Summit Road Lines,2026-04-06,Rejected
+T501064,L100872,Pinecrest Logistics,2026-04-06,Rejected
+T501065,L100872,Copperline Carriers,2026-04-06,Accepted
+T501066,L100873,Harbor Point Haulers,2026-04-05,Rejected
+T501067,L100873,Ironwood Trucking,2026-04-05,Accepted
+T501068,L100874,Summit Road Lines,2026-04-05,Rejected
+T501069,L100874,Pinecrest Logistics,2026-04-05,Accepted
+T501070,L100875,Ironwood Trucking,2026-04-06,Accepted
+T501071,L100876,Copperline Carriers,2026-04-06,Accepted
+T501072,L100877,Blue Heron Transport,2026-04-06,Rejected
+T501073,L100877,Summit Road Lines,2026-04-06,Accepted
+T501074,L100878,Pinecrest Logistics,2026-04-05,Accepted
+T501075,L100879,Pinecrest Logistics,2026-04-07,Accepted
+T501076,L100880,Summit Road Lines,2026-04-05,Accepted
+T501077,L100881,Blue Heron Transport,2026-04-07,Accepted
+T501078,L100882,Blue Heron Transport,2026-04-07,Accepted
+T501079,L100883,Ridgeline Freight,2026-04-07,Accepted
+T501080,L100884,Blue Heron Transport,2026-04-05,Accepted
+T501081,L100885,Summit Road Lines,2026-04-07,Accepted
+T501082,L100886,Blue Heron Transport,2026-04-07,Rejected
+T501083,L100886,Pinecrest Logistics,2026-04-07,Accepted
+T501084,L100887,Lakeshore Express,2026-04-08,Accepted
+T501085,L100888,Harbor Point Haulers,2026-04-07,Accepted
+T501086,L100889,Ironwood Trucking,2026-04-08,Accepted
+T501087,L100890,Ironwood Trucking,2026-04-07,Rejected
+T501088,L100890,Harbor Point Haulers,2026-04-07,Accepted
+T501089,L100891,Summit Road Lines,2026-04-07,Accepted
+T501090,L100892,Ridgeline Freight,2026-04-06,Accepted
+T501091,L100893,Ridgeline Freight,2026-04-08,Accepted
+T501092,L100894,Copperline Carriers,2026-04-08,Accepted
+T501093,L100895,Ridgeline Freight,2026-04-07,Accepted
+T501094,L100896,Pinecrest Logistics,2026-04-09,Accepted
+T501095,L100897,Copperline Carriers,2026-04-09,Accepted
+T501096,L100898,Pinecrest Logistics,2026-04-07,Accepted
+T501097,L100899,Harbor Point Haulers,2026-04-09,Accepted
+T501098,L100900,Harbor Point Haulers,2026-04-08,Accepted
+T501099,L100901,Ironwood Trucking,2026-04-07,Accepted
+T501100,L100902,Ironwood Trucking,2026-04-09,Accepted
+T501101,L100903,Summit Road Lines,2026-04-07,Accepted
+T501102,L100904,Copperline Carriers,2026-04-08,Accepted
+T501103,L100905,Ridgeline Freight,2026-04-09,Accepted
+T501104,L100906,Pinecrest Logistics,2026-04-08,Accepted
+T501105,L100907,Harbor Point Haulers,2026-04-07,Accepted
+T501106,L100908,Lakeshore Express,2026-04-07,Accepted
+T501107,L100909,Blue Heron Transport,2026-04-12,Accepted
+T501108,L100910,Pinecrest Logistics,2026-04-12,Accepted
+T501109,L100911,Ridgeline Freight,2026-04-12,Accepted
+T501110,L100912,Copperline Carriers,2026-04-11,Accepted
+T501111,L100913,Blue Heron Transport,2026-04-10,Accepted
+T501112,L100914,Blue Heron Transport,2026-04-10,Rejected
+T501113,L100914,Copperline Carriers,2026-04-10,Accepted
+T501114,L100915,Blue Heron Transport,2026-04-11,Rejected
+T501115,L100915,Summit Road Lines,2026-04-11,Accepted
+T501116,L100916,Summit Road Lines,2026-04-12,Accepted
+T501117,L100917,Blue Heron Transport,2026-04-12,Accepted
+T501118,L100918,Ridgeline Freight,2026-04-10,Accepted
+T501119,L100919,Blue Heron Transport,2026-04-11,Accepted
+T501120,L100920,Ridgeline Freight,2026-04-12,Accepted
+T501121,L100921,Pinecrest Logistics,2026-04-12,Rejected
+T501122,L100921,Lakeshore Express,2026-04-12,Accepted
+T501123,L100922,Ridgeline Freight,2026-04-11,Rejected
+T501124,L100922,Harbor Point Haulers,2026-04-11,Accepted
+T501125,L100923,Lakeshore Express,2026-04-12,Accepted
+T501126,L100924,Blue Heron Transport,2026-04-11,Accepted
+T501127,L100925,Harbor Point Haulers,2026-04-12,Accepted
+T501128,L100926,Copperline Carriers,2026-04-11,Accepted
+T501129,L100927,Copperline Carriers,2026-04-11,Accepted
+T501130,L100928,Ironwood Trucking,2026-04-11,Accepted
+T501131,L100929,Copperline Carriers,2026-04-13,Accepted
+T501132,L100930,Harbor Point Haulers,2026-04-13,Accepted
+T501133,L100931,Lakeshore Express,2026-04-13,Rejected
+T501134,L100931,Ridgeline Freight,2026-04-13,Accepted
+T501135,L100932,Ironwood Trucking,2026-04-13,Accepted
+T501136,L100933,Pinecrest Logistics,2026-04-11,Rejected
+T501137,L100933,Ironwood Trucking,2026-04-11,Accepted
+T501138,L100934,Ridgeline Freight,2026-04-14,Accepted
+T501139,L100935,Ridgeline Freight,2026-04-14,Rejected
+T501140,L100935,Summit Road Lines,2026-04-14,Accepted
+T501141,L100936,Pinecrest Logistics,2026-04-14,Rejected
+T501142,L100936,Blue Heron Transport,2026-04-14,Accepted
+T501143,L100937,Summit Road Lines,2026-04-13,Accepted
+T501144,L100938,Summit Road Lines,2026-04-13,Accepted
+T501145,L100939,Harbor Point Haulers,2026-04-13,Accepted
+T501146,L100940,Ridgeline Freight,2026-04-13,Accepted
+T501147,L100941,Ridgeline Freight,2026-04-13,Accepted
+T501148,L100942,Blue Heron Transport,2026-04-13,Accepted
+T501149,L100943,Harbor Point Haulers,2026-04-12,Accepted
+T501150,L100944,Copperline Carriers,2026-04-13,Accepted
+T501151,L100945,Ironwood Trucking,2026-04-14,Accepted
+T501152,L100946,Harbor Point Haulers,2026-04-14,Accepted
+T501153,L100947,Lakeshore Express,2026-04-13,Accepted
+T501154,L100948,Copperline Carriers,2026-04-13,Accepted
+T501155,L100949,Ironwood Trucking,2026-04-14,Accepted
+T501156,L100950,Ironwood Trucking,2026-04-15,Accepted
+T501157,L100951,Harbor Point Haulers,2026-04-14,Accepted
+T501158,L100952,Ironwood Trucking,2026-04-14,Accepted
+T501159,L100953,Copperline Carriers,2026-04-13,Accepted
+T501160,L100954,Summit Road Lines,2026-04-15,Accepted
+T501161,L100955,Copperline Carriers,2026-04-14,Accepted
+T501162,L100956,Copperline Carriers,2026-04-14,Accepted
+T501163,L100957,Pinecrest Logistics,2026-04-14,Accepted
+T501164,L100958,Ridgeline Freight,2026-04-15,Accepted
+T501165,L100959,Summit Road Lines,2026-04-15,Accepted
+T501166,L100960,Ridgeline Freight,2026-04-14,Accepted
+T501167,L100961,Ironwood Trucking,2026-04-15,Accepted
+T501168,L100962,Lakeshore Express,2026-04-16,Accepted
+T501169,L100963,Lakeshore Express,2026-04-15,Accepted
+T501170,L100964,Summit Road Lines,2026-04-16,Accepted
+T501171,L100965,Lakeshore Express,2026-04-14,Accepted
+T501172,L100966,Pinecrest Logistics,2026-04-15,Accepted
+T501173,L100967,Copperline Carriers,2026-04-15,Accepted
+T501174,L100968,Blue Heron Transport,2026-04-16,Accepted
+T501175,L100969,Summit Road Lines,2026-04-19,Accepted
+T501176,L100970,Ridgeline Freight,2026-04-18,Accepted
+T501177,L100971,Ridgeline Freight,2026-04-17,Accepted
+T501178,L100972,Summit Road Lines,2026-04-19,Accepted
+T501179,L100973,Harbor Point Haulers,2026-04-18,Accepted
+T501180,L100974,Ironwood Trucking,2026-04-19,Accepted
+T501181,L100975,Ridgeline Freight,2026-04-19,Accepted
+T501182,L100976,Ridgeline Freight,2026-04-18,Accepted
+T501183,L100977,Copperline Carriers,2026-04-17,Accepted
+T501184,L100978,Summit Road Lines,2026-04-19,Accepted
+T501185,L100979,Pinecrest Logistics,2026-04-18,Accepted
+T501186,L100980,Harbor Point Haulers,2026-04-18,Rejected
+T501187,L100980,Ironwood Trucking,2026-04-18,Accepted
+T501188,L100981,Ridgeline Freight,2026-04-18,Accepted
+T501189,L100982,Lakeshore Express,2026-04-20,Accepted
+T501190,L100983,Copperline Carriers,2026-04-19,Accepted
+T501191,L100984,Ironwood Trucking,2026-04-20,Accepted
+T501192,L100985,Pinecrest Logistics,2026-04-20,Accepted
+T501193,L100986,Ridgeline Freight,2026-04-19,Rejected
+T501194,L100986,Summit Road Lines,2026-04-19,Accepted
+T501195,L100987,Blue Heron Transport,2026-04-19,Accepted
+T501196,L100988,Blue Heron Transport,2026-04-18,Rejected
+T501197,L100988,Ridgeline Freight,2026-04-18,Rejected
+T501198,L100988,Harbor Point Haulers,2026-04-18,Accepted
+T501199,L100989,Pinecrest Logistics,2026-04-20,Rejected
+T501200,L100989,Ridgeline Freight,2026-04-20,Accepted
+T501201,L100990,Harbor Point Haulers,2026-04-19,Rejected
+T501202,L100990,Summit Road Lines,2026-04-19,Rejected
+T501203,L100990,Copperline Carriers,2026-04-19,Accepted
+T501204,L100991,Summit Road Lines,2026-04-20,Accepted
+T501205,L100992,Harbor Point Haulers,2026-04-20,Accepted
+T501206,L100993,Blue Heron Transport,2026-04-20,Accepted
+T501207,L100994,Harbor Point Haulers,2026-04-19,Accepted
+T501208,L100995,Pinecrest Logistics,2026-04-19,Accepted
+T501209,L100996,Ridgeline Freight,2026-04-19,Accepted
+T501210,L100997,Summit Road Lines,2026-04-20,Accepted
+T501211,L100998,Lakeshore Express,2026-04-21,Accepted
+T501212,L100999,Ironwood Trucking,2026-04-20,Accepted
+T501213,L101000,Blue Heron Transport,2026-04-21,Rejected
+T501214,L101000,Harbor Point Haulers,2026-04-21,Rejected
+T501215,L101000,Ridgeline Freight,2026-04-21,Accepted
+T501216,L101001,Ironwood Trucking,2026-04-19,Accepted
+T501217,L101002,Ironwood Trucking,2026-04-21,Accepted
+T501218,L101003,Harbor Point Haulers,2026-04-19,Accepted
+T501219,L101004,Harbor Point Haulers,2026-04-21,Accepted
+T501220,L101005,Lakeshore Express,2026-04-19,Accepted
+T501221,L101006,Blue Heron Transport,2026-04-21,Accepted
+T501222,L101007,Harbor Point Haulers,2026-04-19,Accepted
+T501223,L101008,Summit Road Lines,2026-04-21,Accepted
+T501224,L101009,Ironwood Trucking,2026-04-19,Accepted
+T501225,L101010,Copperline Carriers,2026-04-20,Accepted
+T501226,L101011,Ironwood Trucking,2026-04-20,Accepted
+T501227,L101012,Copperline Carriers,2026-04-21,Accepted
+T501228,L101013,Copperline Carriers,2026-04-21,Accepted
+T501229,L101014,Harbor Point Haulers,2026-04-22,Accepted
+T501230,L101015,Copperline Carriers,2026-04-22,Accepted
+T501231,L101016,Ironwood Trucking,2026-04-20,Accepted
+T501232,L101017,Summit Road Lines,2026-04-21,Accepted
+T501233,L101018,Ironwood Trucking,2026-04-22,Accepted
+T501234,L101019,Ironwood Trucking,2026-04-22,Accepted
+T501235,L101020,Summit Road Lines,2026-04-21,Accepted
+T501236,L101021,Summit Road Lines,2026-04-22,Accepted
+T501237,L101022,Harbor Point Haulers,2026-04-21,Accepted
+T501238,L101023,Lakeshore Express,2026-04-20,Accepted
+T501239,L101024,Harbor Point Haulers,2026-04-20,Rejected
+T501240,L101024,Lakeshore Express,2026-04-20,Rejected
+T501241,L101024,Ridgeline Freight,2026-04-20,Accepted
+T501242,L101025,Pinecrest Logistics,2026-04-22,Accepted
+T501243,L101026,Harbor Point Haulers,2026-04-21,Accepted
+T501244,L101027,Pinecrest Logistics,2026-04-21,Accepted
+T501245,L101028,Blue Heron Transport,2026-04-21,Rejected
+T501246,L101028,Copperline Carriers,2026-04-21,Accepted
+T501247,L101029,Summit Road Lines,2026-04-22,Accepted
+T501248,L101030,Ridgeline Freight,2026-04-22,Accepted
+T501249,L101031,Summit Road Lines,2026-04-23,Accepted
+T501250,L101032,Harbor Point Haulers,2026-04-22,Accepted
+T501251,L101033,Summit Road Lines,2026-04-22,Accepted
+T501252,L101034,Pinecrest Logistics,2026-04-21,Rejected
+T501253,L101034,Summit Road Lines,2026-04-21,Accepted
+T501254,L101035,Lakeshore Express,2026-04-22,Accepted
+T501255,L101036,Summit Road Lines,2026-04-22,Accepted
+T501256,L101037,Ridgeline Freight,2026-04-22,Accepted
+T501257,L101038,Ironwood Trucking,2026-04-22,Rejected
+T501258,L101038,Ridgeline Freight,2026-04-22,Accepted
+T501259,L101039,Lakeshore Express,2026-04-21,Rejected
+T501260,L101039,Ridgeline Freight,2026-04-21,Rejected
+T501261,L101039,Summit Road Lines,2026-04-21,Accepted
+T501262,L101040,Pinecrest Logistics,2026-04-22,Rejected
+T501263,L101040,Copperline Carriers,2026-04-22,Rejected
+T501264,L101040,Blue Heron Transport,2026-04-22,Accepted
+T501265,L101041,Summit Road Lines,2026-04-22,Accepted
+T501266,L101042,Pinecrest Logistics,2026-04-26,Accepted
+T501267,L101043,Summit Road Lines,2026-04-25,Accepted
+T501268,L101044,Lakeshore Express,2026-04-25,Accepted
+T501269,L101045,Blue Heron Transport,2026-04-26,Rejected
+T501270,L101045,Ridgeline Freight,2026-04-26,Accepted
+T501271,L101046,Pinecrest Logistics,2026-04-24,Accepted
+T501272,L101047,Ridgeline Freight,2026-04-26,Rejected
+T501273,L101047,Copperline Carriers,2026-04-26,Accepted
+T501274,L101048,Harbor Point Haulers,2026-04-25,Accepted
+T501275,L101049,Ridgeline Freight,2026-04-26,Accepted
+T501276,L101050,Blue Heron Transport,2026-04-24,Accepted
+T501277,L101051,Ridgeline Freight,2026-04-24,Accepted
+T501278,L101052,Ridgeline Freight,2026-04-26,Accepted
+T501279,L101053,Copperline Carriers,2026-04-26,Accepted
+T501280,L101054,Lakeshore Express,2026-04-26,Accepted
+T501281,L101055,Ridgeline Freight,2026-04-27,Accepted
+T501282,L101056,Copperline Carriers,2026-04-27,Rejected
+T501283,L101056,Ridgeline Freight,2026-04-27,Accepted
+T501284,L101057,Ironwood Trucking,2026-04-27,Accepted
+T501285,L101058,Blue Heron Transport,2026-04-26,Accepted
+T501286,L101059,Lakeshore Express,2026-04-25,Accepted
+T501287,L101060,Summit Road Lines,2026-04-25,Accepted
+T501288,L101061,Pinecrest Logistics,2026-04-25,Accepted
+T501289,L101062,Lakeshore Express,2026-04-28,Accepted
+T501290,L101063,Ridgeline Freight,2026-04-27,Accepted
+T501291,L101064,Pinecrest Logistics,2026-04-26,Accepted
+T501292,L101065,Copperline Carriers,2026-04-26,Accepted
+T501293,L101066,Pinecrest Logistics,2026-04-26,Accepted
+T501294,L101067,Copperline Carriers,2026-04-27,Accepted
+T501295,L101068,Blue Heron Transport,2026-04-26,Accepted
+T501296,L101069,Summit Road Lines,2026-04-26,Accepted
+T501297,L101070,Lakeshore Express,2026-04-26,Accepted
+T501298,L101071,Blue Heron Transport,2026-04-28,Accepted
+T501299,L101072,Blue Heron Transport,2026-04-26,Accepted
+T501300,L101073,Copperline Carriers,2026-04-27,Rejected
+T501301,L101073,Summit Road Lines,2026-04-27,Accepted
+T501302,L101074,Copperline Carriers,2026-04-26,Accepted
+T501303,L101075,Blue Heron Transport,2026-04-26,Rejected
+T501304,L101075,Ridgeline Freight,2026-04-26,Accepted
+T501305,L101076,Ridgeline Freight,2026-04-27,Accepted
+T501306,L101077,Pinecrest Logistics,2026-04-29,Accepted
+T501307,L101078,Summit Road Lines,2026-04-28,Accepted
+T501308,L101079,Harbor Point Haulers,2026-04-28,Accepted
+T501309,L101080,Harbor Point Haulers,2026-04-27,Accepted
+T501310,L101081,Copperline Carriers,2026-04-28,Rejected
+T501311,L101081,Lakeshore Express,2026-04-28,Accepted
+T501312,L101082,Ironwood Trucking,2026-04-28,Accepted
+T501313,L101083,Ridgeline Freight,2026-04-28,Accepted
+T501314,L101084,Summit Road Lines,2026-04-29,Accepted
+T501315,L101085,Copperline Carriers,2026-04-27,Rejected
+T501316,L101085,Ridgeline Freight,2026-04-27,Accepted
+T501317,L101086,Ridgeline Freight,2026-04-29,Accepted
+T501318,L101087,Harbor Point Haulers,2026-04-28,Accepted
+T501319,L101088,Copperline Carriers,2026-04-27,Accepted
+T501320,L101089,Lakeshore Express,2026-04-29,Accepted
+T501321,L101090,Blue Heron Transport,2026-04-30,Accepted
+T501322,L101091,Harbor Point Haulers,2026-04-29,Rejected
+T501323,L101091,Ironwood Trucking,2026-04-29,Accepted
+T501324,L101092,Harbor Point Haulers,2026-04-30,Accepted
+T501325,L101093,Ridgeline Freight,2026-04-28,Accepted
+T501326,L101094,Ridgeline Freight,2026-04-28,Accepted
+T501327,L101095,Blue Heron Transport,2026-04-30,Rejected
+T501328,L101095,Pinecrest Logistics,2026-04-30,Accepted
+T501329,L101096,Harbor Point Haulers,2026-04-29,Accepted
+T501330,L101097,Copperline Carriers,2026-04-28,Accepted
+T501331,L101098,Copperline Carriers,2026-04-28,Accepted
+T501332,L101099,Ridgeline Freight,2026-04-29,Accepted
+T501333,L101100,Blue Heron Transport,2026-04-29,Accepted
+T501334,L101101,Ironwood Trucking,2026-04-29,Accepted
+T501335,L101102,Harbor Point Haulers,2026-04-29,Accepted
+T501336,L101103,Copperline Carriers,2026-04-28,Accepted
+T501337,L101104,Pinecrest Logistics,2026-05-02,Accepted
+T501338,L101105,Blue Heron Transport,2026-05-03,Accepted
+T501339,L101106,Ironwood Trucking,2026-05-03,Accepted
+T501340,L101107,Copperline Carriers,2026-05-01,Accepted
+T501341,L101108,Summit Road Lines,2026-05-01,Accepted
+T501342,L101109,Harbor Point Haulers,2026-05-02,Accepted
+T501343,L101110,Ridgeline Freight,2026-05-01,Accepted
+T501344,L101111,Pinecrest Logistics,2026-05-01,Accepted
+T501345,L101112,Summit Road Lines,2026-05-02,Accepted
+T501346,L101113,Ridgeline Freight,2026-05-01,Accepted
+T501347,L101114,Summit Road Lines,2026-05-02,Accepted
+T501348,L101115,Copperline Carriers,2026-05-02,Rejected
+T501349,L101115,Ironwood Trucking,2026-05-02,Rejected
+T501350,L101115,Summit Road Lines,2026-05-02,Accepted
+T501351,L101116,Ridgeline Freight,2026-05-02,Accepted
+T501352,L101117,Harbor Point Haulers,2026-05-03,Rejected
+T501353,L101117,Summit Road Lines,2026-05-03,Accepted
+T501354,L101118,Copperline Carriers,2026-05-03,Accepted
+T501355,L101119,Ridgeline Freight,2026-05-03,Accepted
+T501356,L101120,Lakeshore Express,2026-05-03,Rejected
+T501357,L101120,Blue Heron Transport,2026-05-03,Accepted
+T501358,L101121,Pinecrest Logistics,2026-05-03,Accepted
+T501359,L101122,Pinecrest Logistics,2026-05-04,Accepted
+T501360,L101123,Ridgeline Freight,2026-05-02,Accepted
+T501361,L101124,Ridgeline Freight,2026-05-03,Accepted
+T501362,L101125,Blue Heron Transport,2026-05-03,Accepted
+T501363,L101126,Blue Heron Transport,2026-05-02,Accepted
+T501364,L101127,Ridgeline Freight,2026-05-03,Accepted
+T501365,L101128,Ridgeline Freight,2026-05-04,Accepted
+T501366,L101129,Pinecrest Logistics,2026-05-04,Accepted
+T501367,L101130,Harbor Point Haulers,2026-05-04,Accepted
+T501368,L101131,Harbor Point Haulers,2026-05-05,Rejected
+T501369,L101131,Blue Heron Transport,2026-05-05,Accepted
+T501370,L101132,Lakeshore Express,2026-05-03,Accepted
+T501371,L101133,Harbor Point Haulers,2026-05-05,Accepted
+T501372,L101134,Copperline Carriers,2026-05-03,Accepted
+T501373,L101135,Ironwood Trucking,2026-05-03,Rejected
+T501374,L101135,Blue Heron Transport,2026-05-03,Accepted
+T501375,L101136,Copperline Carriers,2026-05-04,Accepted
+T501376,L101137,Harbor Point Haulers,2026-05-03,Accepted
+T501377,L101138,Pinecrest Logistics,2026-05-04,Rejected
+T501378,L101138,Summit Road Lines,2026-05-04,Accepted
+T501379,L101139,Copperline Carriers,2026-05-04,Accepted
+T501380,L101140,Pinecrest Logistics,2026-05-04,Accepted
+T501381,L101141,Ironwood Trucking,2026-05-06,Rejected
+T501382,L101141,Harbor Point Haulers,2026-05-06,Accepted
+T501383,L101142,Ironwood Trucking,2026-05-06,Accepted
+T501384,L101143,Copperline Carriers,2026-05-05,Accepted
+T501385,L101144,Harbor Point Haulers,2026-05-06,Accepted
+T501386,L101145,Copperline Carriers,2026-05-04,Accepted
+T501387,L101146,Ironwood Trucking,2026-05-04,Accepted
+T501388,L101147,Pinecrest Logistics,2026-05-04,Accepted
+T501389,L101148,Ridgeline Freight,2026-05-06,Accepted
+T501390,L101149,Lakeshore Express,2026-05-05,Accepted
+T501391,L101150,Lakeshore Express,2026-05-05,Accepted
+T501392,L101151,Pinecrest Logistics,2026-05-06,Accepted
+T501393,L101152,Summit Road Lines,2026-05-05,Rejected
+T501394,L101152,Blue Heron Transport,2026-05-05,Accepted
+T501395,L101153,Harbor Point Haulers,2026-05-05,Accepted
+T501396,L101154,Harbor Point Haulers,2026-05-07,Accepted
+T501397,L101155,Copperline Carriers,2026-05-06,Accepted
+T501398,L101156,Summit Road Lines,2026-05-07,Accepted
+T501399,L101157,Ironwood Trucking,2026-05-05,Accepted
+T501400,L101158,Summit Road Lines,2026-05-07,Accepted
+T501401,L101159,Lakeshore Express,2026-05-06,Accepted
+T501402,L101160,Copperline Carriers,2026-05-05,Rejected
+T501403,L101160,Harbor Point Haulers,2026-05-05,Rejected
+T501404,L101160,Summit Road Lines,2026-05-05,Accepted
+T501405,L101161,Ridgeline Freight,2026-05-05,Accepted
+T501406,L101162,Ridgeline Freight,2026-05-07,Accepted
+T501407,L101163,Blue Heron Transport,2026-05-05,Rejected
+T501408,L101163,Ridgeline Freight,2026-05-05,Accepted
+T501409,L101164,Pinecrest Logistics,2026-05-05,Accepted
+T501410,L101165,Lakeshore Express,2026-05-07,Rejected
+T501411,L101165,Pinecrest Logistics,2026-05-07,Accepted
+T501412,L101166,Lakeshore Express,2026-05-06,Rejected
+T501413,L101166,Summit Road Lines,2026-05-06,Accepted
+T501414,L101167,Harbor Point Haulers,2026-05-09,Accepted
+T501415,L101168,Copperline Carriers,2026-05-08,Rejected
+T501416,L101168,Ridgeline Freight,2026-05-08,Accepted
+T501417,L101169,Ridgeline Freight,2026-05-09,Accepted
+T501418,L101170,Blue Heron Transport,2026-05-08,Accepted
+T501419,L101171,Blue Heron Transport,2026-05-10,Accepted
+T501420,L101172,Summit Road Lines,2026-05-08,Accepted
+T501421,L101173,Pinecrest Logistics,2026-05-10,Accepted
+T501422,L101174,Lakeshore Express,2026-05-10,Rejected
+T501423,L101174,Pinecrest Logistics,2026-05-10,Accepted
+T501424,L101175,Blue Heron Transport,2026-05-09,Accepted
+T501425,L101176,Copperline Carriers,2026-05-09,Rejected
+T501426,L101176,Pinecrest Logistics,2026-05-09,Accepted
+T501427,L101177,Blue Heron Transport,2026-05-09,Accepted
+T501428,L101178,Blue Heron Transport,2026-05-10,Rejected
+T501429,L101178,Summit Road Lines,2026-05-10,Accepted
+T501430,L101179,Pinecrest Logistics,2026-05-09,Accepted
+T501431,L101180,Lakeshore Express,2026-05-09,Rejected
+T501432,L101180,Blue Heron Transport,2026-05-09,Rejected
+T501433,L101180,Ironwood Trucking,2026-05-09,Accepted
+T501434,L101181,Pinecrest Logistics,2026-05-10,Rejected
+T501435,L101181,Blue Heron Transport,2026-05-10,Accepted
+T501436,L101182,Pinecrest Logistics,2026-05-10,Accepted
+T501437,L101183,Copperline Carriers,2026-05-11,Accepted
+T501438,L101184,Copperline Carriers,2026-05-11,Accepted
+T501439,L101185,Lakeshore Express,2026-05-09,Rejected
+T501440,L101185,Copperline Carriers,2026-05-09,Accepted
+T501441,L101186,Harbor Point Haulers,2026-05-11,Accepted
+T501442,L101187,Ironwood Trucking,2026-05-11,Rejected
+T501443,L101187,Blue Heron Transport,2026-05-11,Accepted
+T501444,L101188,Ridgeline Freight,2026-05-09,Accepted
+T501445,L101189,Blue Heron Transport,2026-05-11,Accepted
+T501446,L101190,Copperline Carriers,2026-05-09,Accepted
+T501447,L101191,Harbor Point Haulers,2026-05-09,Accepted
+T501448,L101192,Summit Road Lines,2026-05-12,Accepted
+T501449,L101193,Blue Heron Transport,2026-05-11,Accepted
+T501450,L101194,Ridgeline Freight,2026-05-12,Accepted
+T501451,L101195,Copperline Carriers,2026-05-11,Accepted
+T501452,L101196,Copperline Carriers,2026-05-11,Rejected
+T501453,L101196,Harbor Point Haulers,2026-05-11,Accepted
+T501454,L101197,Ridgeline Freight,2026-05-10,Accepted
+T501455,L101198,Summit Road Lines,2026-05-12,Accepted
+T501456,L101199,Summit Road Lines,2026-05-10,Accepted
+T501457,L101200,Ridgeline Freight,2026-05-12,Accepted
+T501458,L101201,Ironwood Trucking,2026-05-11,Accepted
+T501459,L101202,Lakeshore Express,2026-05-10,Rejected
+T501460,L101202,Ridgeline Freight,2026-05-10,Accepted
+T501461,L101203,Ridgeline Freight,2026-05-13,Accepted
+T501462,L101204,Harbor Point Haulers,2026-05-13,Rejected
+T501463,L101204,Blue Heron Transport,2026-05-13,Accepted
+T501464,L101205,Pinecrest Logistics,2026-05-11,Accepted
+T501465,L101206,Ironwood Trucking,2026-05-12,Accepted
+T501466,L101207,Summit Road Lines,2026-05-12,Rejected
+T501467,L101207,Harbor Point Haulers,2026-05-12,Accepted
+T501468,L101208,Summit Road Lines,2026-05-13,Rejected
+T501469,L101208,Pinecrest Logistics,2026-05-13,Accepted
+T501470,L101209,Ironwood Trucking,2026-05-11,Accepted
+T501471,L101210,Copperline Carriers,2026-05-11,Accepted
+T501472,L101211,Copperline Carriers,2026-05-11,Accepted
+T501473,L101212,Summit Road Lines,2026-05-11,Accepted
+T501474,L101213,Summit Road Lines,2026-05-11,Accepted
+T501475,L101214,Ironwood Trucking,2026-05-12,Accepted
+T501476,L101215,Harbor Point Haulers,2026-05-12,Accepted
+T501477,L101216,Harbor Point Haulers,2026-05-12,Accepted
+T501478,L101217,Blue Heron Transport,2026-05-13,Accepted
+T501479,L101218,Copperline Carriers,2026-05-14,Accepted
+T501480,L101219,Lakeshore Express,2026-05-13,Accepted
+T501481,L101220,Copperline Carriers,2026-05-14,Accepted
+T501482,L101221,Blue Heron Transport,2026-05-14,Accepted
+T501483,L101222,Ridgeline Freight,2026-05-14,Rejected
+T501484,L101222,Summit Road Lines,2026-05-14,Accepted
+T501485,L101223,Ironwood Trucking,2026-05-12,Accepted
+T501486,L101224,Ridgeline Freight,2026-05-13,Accepted
+T501487,L101225,Summit Road Lines,2026-05-14,Accepted
+T501488,L101226,Copperline Carriers,2026-05-13,Accepted
+T501489,L101227,Copperline Carriers,2026-05-14,Accepted
+T501490,L101228,Lakeshore Express,2026-05-14,Accepted
+T501491,L101229,Pinecrest Logistics,2026-05-13,Accepted
+T501492,L101230,Copperline Carriers,2026-05-14,Accepted
+T501493,L101231,Ridgeline Freight,2026-05-13,Accepted
+T501494,L101232,Ridgeline Freight,2026-05-17,Accepted
+T501495,L101233,Pinecrest Logistics,2026-05-15,Accepted
+T501496,L101234,Summit Road Lines,2026-05-17,Accepted
+T501497,L101235,Copperline Carriers,2026-05-15,Accepted
+T501498,L101236,Blue Heron Transport,2026-05-16,Rejected
+T501499,L101236,Pinecrest Logistics,2026-05-16,Accepted
+T501500,L101237,Blue Heron Transport,2026-05-17,Accepted
+T501501,L101238,Blue Heron Transport,2026-05-16,Accepted
+T501502,L101239,Summit Road Lines,2026-05-17,Accepted
+T501503,L101240,Ironwood Trucking,2026-05-17,Accepted
+T501504,L101241,Ridgeline Freight,2026-05-15,Accepted
+T501505,L101242,Ridgeline Freight,2026-05-17,Accepted
+T501506,L101243,Blue Heron Transport,2026-05-17,Accepted
+T501507,L101244,Copperline Carriers,2026-05-18,Accepted
+T501508,L101245,Summit Road Lines,2026-05-18,Accepted
+T501509,L101246,Ridgeline Freight,2026-05-18,Accepted
+T501510,L101247,Harbor Point Haulers,2026-05-16,Accepted
+T501511,L101248,Copperline Carriers,2026-05-16,Accepted
+T501512,L101249,Blue Heron Transport,2026-05-17,Accepted
+T501513,L101250,Summit Road Lines,2026-05-17,Rejected
+T501514,L101250,Copperline Carriers,2026-05-17,Accepted
+T501515,L101251,Summit Road Lines,2026-05-16,Rejected
+T501516,L101251,Harbor Point Haulers,2026-05-16,Accepted
+T501517,L101252,Ridgeline Freight,2026-05-18,Accepted
+T501518,L101253,Lakeshore Express,2026-05-16,Accepted
+T501519,L101254,Ridgeline Freight,2026-05-16,Accepted
+T501520,L101255,Harbor Point Haulers,2026-05-17,Accepted
+T501521,L101256,Copperline Carriers,2026-05-16,Accepted
+T501522,L101257,Ridgeline Freight,2026-05-19,Accepted
+T501523,L101258,Copperline Carriers,2026-05-18,Accepted
+T501524,L101259,Lakeshore Express,2026-05-18,Accepted
+T501525,L101260,Lakeshore Express,2026-05-19,Rejected
+T501526,L101260,Copperline Carriers,2026-05-19,Accepted
+T501527,L101261,Ridgeline Freight,2026-05-19,Accepted
+T501528,L101262,Pinecrest Logistics,2026-05-19,Accepted
+T501529,L101263,Copperline Carriers,2026-05-19,Accepted
+T501530,L101264,Ironwood Trucking,2026-05-18,Accepted
+T501531,L101265,Ironwood Trucking,2026-05-17,Accepted
+T501532,L101266,Pinecrest Logistics,2026-05-19,Accepted
+T501533,L101267,Harbor Point Haulers,2026-05-17,Rejected
+T501534,L101267,Summit Road Lines,2026-05-17,Rejected
+T501535,L101267,Ridgeline Freight,2026-05-17,Accepted
+T501536,L101268,Pinecrest Logistics,2026-05-19,Rejected
+T501537,L101268,Harbor Point Haulers,2026-05-19,Accepted
+T501538,L101269,Copperline Carriers,2026-05-18,Accepted
+T501539,L101270,Lakeshore Express,2026-05-17,Accepted
+T501540,L101271,Copperline Carriers,2026-05-20,Accepted
+T501541,L101272,Ironwood Trucking,2026-05-20,Accepted
+T501542,L101273,Blue Heron Transport,2026-05-19,Accepted
+T501543,L101274,Harbor Point Haulers,2026-05-20,Accepted
+T501544,L101275,Harbor Point Haulers,2026-05-20,Accepted
+T501545,L101276,Summit Road Lines,2026-05-18,Accepted
+T501546,L101277,Ironwood Trucking,2026-05-20,Accepted
+T501547,L101278,Copperline Carriers,2026-05-19,Accepted
+T501548,L101279,Copperline Carriers,2026-05-18,Accepted
+T501549,L101280,Harbor Point Haulers,2026-05-20,Accepted
+T501550,L101281,Lakeshore Express,2026-05-18,Accepted
+T501551,L101282,Blue Heron Transport,2026-05-19,Accepted
+T501552,L101283,Harbor Point Haulers,2026-05-21,Accepted
+T501553,L101284,Copperline Carriers,2026-05-21,Accepted
+T501554,L101285,Ridgeline Freight,2026-05-21,Accepted
+T501555,L101286,Harbor Point Haulers,2026-05-20,Accepted
+T501556,L101287,Blue Heron Transport,2026-05-21,Rejected
+T501557,L101287,Harbor Point Haulers,2026-05-21,Accepted
+T501558,L101288,Ridgeline Freight,2026-05-21,Accepted
+T501559,L101289,Ironwood Trucking,2026-05-19,Rejected
+T501560,L101289,Summit Road Lines,2026-05-19,Accepted
+T501561,L101290,Ironwood Trucking,2026-05-21,Rejected
+T501562,L101290,Summit Road Lines,2026-05-21,Accepted
+T501563,L101291,Harbor Point Haulers,2026-05-19,Accepted
+T501564,L101292,Pinecrest Logistics,2026-05-20,Accepted
+T501565,L101293,Lakeshore Express,2026-05-20,Accepted
+T501566,L101294,Pinecrest Logistics,2026-05-20,Accepted
+T501567,L101295,Blue Heron Transport,2026-05-20,Accepted
+T501568,L101296,Copperline Carriers,2026-05-19,Accepted
+T501569,L101297,Pinecrest Logistics,2026-05-21,Accepted
+T501570,L101298,Ridgeline Freight,2026-05-24,Accepted
+T501571,L101299,Ridgeline Freight,2026-05-23,Accepted
+T501572,L101300,Ridgeline Freight,2026-05-22,Accepted
+T501573,L101301,Blue Heron Transport,2026-05-22,Rejected
+T501574,L101301,Summit Road Lines,2026-05-22,Accepted
+T501575,L101302,Harbor Point Haulers,2026-05-22,Accepted
+T501576,L101303,Ironwood Trucking,2026-05-24,Rejected
+T501577,L101303,Blue Heron Transport,2026-05-24,Accepted
+T501578,L101304,Blue Heron Transport,2026-05-22,Accepted
+T501579,L101305,Pinecrest Logistics,2026-05-23,Accepted
+T501580,L101306,Blue Heron Transport,2026-05-23,Rejected
+T501581,L101306,Summit Road Lines,2026-05-23,Accepted
+T501582,L101307,Ironwood Trucking,2026-05-23,Accepted
+T501583,L101308,Summit Road Lines,2026-05-24,Accepted
+T501584,L101309,Summit Road Lines,2026-05-22,Rejected
+T501585,L101309,Copperline Carriers,2026-05-22,Accepted
+T501586,L101310,Copperline Carriers,2026-05-23,Accepted
+T501587,L101311,Harbor Point Haulers,2026-05-23,Accepted
+T501588,L101312,Ridgeline Freight,2026-05-24,Accepted
+T501589,L101313,Ridgeline Freight,2026-05-24,Accepted
+T501590,L101314,Pinecrest Logistics,2026-05-25,Accepted
+T501591,L101315,Ironwood Trucking,2026-05-25,Rejected
+T501592,L101315,Lakeshore Express,2026-05-25,Accepted
+T501593,L101316,Pinecrest Logistics,2026-05-25,Rejected
+T501594,L101316,Ridgeline Freight,2026-05-25,Accepted
+T501595,L101317,Copperline Carriers,2026-05-24,Accepted
+T501596,L101318,Blue Heron Transport,2026-05-24,Accepted
+T501597,L101319,Pinecrest Logistics,2026-05-23,Accepted
+T501598,L101320,Pinecrest Logistics,2026-05-25,Accepted
+T501599,L101321,Ironwood Trucking,2026-05-23,Accepted
+T501600,L101322,Blue Heron Transport,2026-05-25,Rejected
+T501601,L101322,Summit Road Lines,2026-05-25,Accepted
+T501602,L101323,Ironwood Trucking,2026-05-24,Rejected
+T501603,L101323,Copperline Carriers,2026-05-24,Accepted
+T501604,L101324,Pinecrest Logistics,2026-05-23,Accepted
+T501605,L101325,Pinecrest Logistics,2026-05-23,Accepted
+T501606,L101326,Harbor Point Haulers,2026-05-25,Accepted
+T501607,L101327,Lakeshore Express,2026-05-26,Accepted
+T501608,L101328,Summit Road Lines,2026-05-24,Accepted
+T501609,L101329,Blue Heron Transport,2026-05-24,Accepted
+T501610,L101330,Lakeshore Express,2026-05-25,Accepted
+T501611,L101331,Harbor Point Haulers,2026-05-26,Rejected
+T501612,L101331,Ridgeline Freight,2026-05-26,Accepted
+T501613,L101332,Pinecrest Logistics,2026-05-25,Accepted
+T501614,L101333,Harbor Point Haulers,2026-05-24,Rejected
+T501615,L101333,Lakeshore Express,2026-05-24,Rejected
+T501616,L101333,Summit Road Lines,2026-05-24,Accepted
+T501617,L101334,Copperline Carriers,2026-05-25,Accepted
+T501618,L101335,Ridgeline Freight,2026-05-25,Accepted
+T501619,L101336,Copperline Carriers,2026-05-26,Accepted
+T501620,L101337,Blue Heron Transport,2026-05-24,Accepted
+T501621,L101338,Harbor Point Haulers,2026-05-25,Accepted
+T501622,L101339,Summit Road Lines,2026-05-26,Accepted
+T501623,L101340,Ridgeline Freight,2026-05-26,Accepted
+T501624,L101341,Pinecrest Logistics,2026-05-25,Accepted
+T501625,L101342,Ridgeline Freight,2026-05-27,Accepted
+T501626,L101343,Ridgeline Freight,2026-05-26,Accepted
+T501627,L101344,Summit Road Lines,2026-05-25,Accepted
+T501628,L101345,Ridgeline Freight,2026-05-25,Accepted
+T501629,L101346,Harbor Point Haulers,2026-05-25,Accepted
+T501630,L101347,Blue Heron Transport,2026-05-25,Accepted
+T501631,L101348,Copperline Carriers,2026-05-25,Accepted
+T501632,L101349,Ridgeline Freight,2026-05-27,Accepted
+T501633,L101350,Copperline Carriers,2026-05-27,Accepted
+T501634,L101351,Ridgeline Freight,2026-05-27,Accepted
+T501635,L101352,Ironwood Trucking,2026-05-25,Accepted
+T501636,L101353,Lakeshore Express,2026-05-27,Accepted
+T501637,L101354,Blue Heron Transport,2026-05-27,Accepted
+T501638,L101355,Copperline Carriers,2026-05-26,Accepted
+T501639,L101356,Ridgeline Freight,2026-05-28,Accepted
+T501640,L101357,Harbor Point Haulers,2026-05-27,Rejected
+T501641,L101357,Ridgeline Freight,2026-05-27,Accepted
+T501642,L101358,Summit Road Lines,2026-05-26,Accepted
+T501643,L101359,Pinecrest Logistics,2026-05-28,Rejected
+T501644,L101359,Summit Road Lines,2026-05-28,Rejected
+T501645,L101359,Ridgeline Freight,2026-05-28,Rejected
+T501646,L101359,Blue Heron Transport,2026-05-28,Accepted
+T501647,L101360,Harbor Point Haulers,2026-05-27,Rejected
+T501648,L101360,Lakeshore Express,2026-05-27,Accepted
+T501649,L101361,Ridgeline Freight,2026-05-26,Accepted
+T501650,L101362,Blue Heron Transport,2026-05-26,Accepted
+T501651,L101363,Summit Road Lines,2026-05-27,Accepted
+T501652,L101364,Ironwood Trucking,2026-05-28,Accepted
+T501653,L101365,Summit Road Lines,2026-05-27,Accepted
+T501654,L101366,Ridgeline Freight,2026-05-31,Accepted
+T501655,L101367,Blue Heron Transport,2026-05-31,Accepted
+T501656,L101368,Pinecrest Logistics,2026-05-30,Rejected
+T501657,L101368,Blue Heron Transport,2026-05-30,Accepted
+T501658,L101369,Blue Heron Transport,2026-05-31,Accepted
+T501659,L101370,Blue Heron Transport,2026-05-29,Rejected
+T501660,L101370,Harbor Point Haulers,2026-05-29,Rejected
+T501661,L101370,Copperline Carriers,2026-05-29,Accepted
+T501662,L101371,Summit Road Lines,2026-05-29,Accepted
+T501663,L101372,Ridgeline Freight,2026-05-29,Accepted
+T501664,L101373,Summit Road Lines,2026-05-30,Accepted
+T501665,L101374,Blue Heron Transport,2026-05-31,Accepted
+T501666,L101375,Copperline Carriers,2026-05-31,Accepted
+T501667,L101376,Ridgeline Freight,2026-05-31,Accepted
+T501668,L101377,Lakeshore Express,2026-05-30,Accepted
+T501669,L101378,Copperline Carriers,2026-05-31,Accepted
+T501670,L101379,Harbor Point Haulers,2026-05-29,Accepted
+T501671,L101380,Blue Heron Transport,2026-05-31,Accepted
+T501672,L101381,Copperline Carriers,2026-05-30,Rejected
+T501673,L101381,Harbor Point Haulers,2026-05-30,Accepted
+T501674,L101382,Harbor Point Haulers,2026-05-30,Accepted
+T501675,L101383,Summit Road Lines,2026-05-31,Accepted
+T501676,L101384,Harbor Point Haulers,2026-05-31,Accepted
+T501677,L101385,Ironwood Trucking,2026-05-31,Accepted
+T501678,L101386,Ridgeline Freight,2026-06-01,Accepted
+T501679,L101387,Summit Road Lines,2026-05-30,Rejected
+T501680,L101387,Ironwood Trucking,2026-05-30,Rejected
+T501681,L101387,Ridgeline Freight,2026-05-30,Accepted
+T501682,L101388,Ridgeline Freight,2026-05-31,Accepted
+T501683,L101389,Lakeshore Express,2026-05-30,Rejected
+T501684,L101389,Summit Road Lines,2026-05-30,Accepted
+T501685,L101390,Summit Road Lines,2026-06-01,Accepted
+T501686,L101391,Copperline Carriers,2026-06-01,Accepted
+T501687,L101392,Lakeshore Express,2026-05-31,Accepted
+T501688,L101393,Harbor Point Haulers,2026-06-02,Rejected
+T501689,L101393,Ridgeline Freight,2026-06-02,Accepted
+T501690,L101394,Harbor Point Haulers,2026-06-01,Accepted
+T501691,L101395,Ridgeline Freight,2026-06-02,Accepted
+T501692,L101396,Pinecrest Logistics,2026-06-01,Accepted
+T501693,L101397,Pinecrest Logistics,2026-06-01,Accepted
+T501694,L101398,Pinecrest Logistics,2026-06-02,Accepted
+T501695,L101399,Ridgeline Freight,2026-05-31,Accepted
+T501696,L101400,Summit Road Lines,2026-05-31,Accepted
+T501697,L101401,Blue Heron Transport,2026-06-01,Accepted
+T501698,L101402,Copperline Carriers,2026-06-01,Rejected
+T501699,L101402,Blue Heron Transport,2026-06-01,Accepted
+T501700,L101403,Ridgeline Freight,2026-06-02,Accepted
+T501701,L101404,Harbor Point Haulers,2026-06-02,Accepted
+T501702,L101405,Summit Road Lines,2026-06-03,Accepted
+T501703,L101406,Lakeshore Express,2026-06-03,Accepted
+T501704,L101407,Ridgeline Freight,2026-06-02,Accepted
+T501705,L101408,Blue Heron Transport,2026-06-03,Accepted
+T501706,L101409,Ironwood Trucking,2026-06-03,Accepted
+T501707,L101410,Copperline Carriers,2026-06-01,Accepted
+T501708,L101411,Harbor Point Haulers,2026-06-03,Accepted
+T501709,L101412,Copperline Carriers,2026-06-03,Rejected
+T501710,L101412,Pinecrest Logistics,2026-06-03,Accepted
+T501711,L101413,Ridgeline Freight,2026-06-01,Accepted
+T501712,L101414,Summit Road Lines,2026-06-03,Accepted
+T501713,L101415,Copperline Carriers,2026-06-03,Accepted
+T501714,L101416,Lakeshore Express,2026-06-01,Accepted
+T501715,L101417,Copperline Carriers,2026-06-03,Rejected
+T501716,L101417,Ridgeline Freight,2026-06-03,Rejected
+T501717,L101417,Summit Road Lines,2026-06-03,Accepted
+T501718,L101418,Copperline Carriers,2026-06-03,Accepted
+T501719,L101419,Harbor Point Haulers,2026-06-02,Accepted
+T501720,L101420,Ridgeline Freight,2026-06-02,Accepted
+T501721,L101421,Ridgeline Freight,2026-06-02,Accepted
+T501722,L101422,Pinecrest Logistics,2026-06-02,Accepted
+T501723,L101423,Pinecrest Logistics,2026-06-04,Accepted
+T501724,L101424,Copperline Carriers,2026-06-03,Accepted
+T501725,L101425,Copperline Carriers,2026-06-04,Accepted
+T501726,L101426,Harbor Point Haulers,2026-06-02,Accepted
+T501727,L101427,Ridgeline Freight,2026-06-02,Accepted
+T501728,L101428,Summit Road Lines,2026-06-02,Rejected
+T501729,L101428,Harbor Point Haulers,2026-06-02,Accepted
+T501730,L101429,Blue Heron Transport,2026-06-04,Accepted
+T501731,L101430,Ridgeline Freight,2026-06-04,Accepted
+T501732,L101431,Harbor Point Haulers,2026-06-04,Accepted
+T501733,L101432,Lakeshore Express,2026-06-02,Accepted
+T501734,L101433,Copperline Carriers,2026-06-06,Rejected
+T501735,L101433,Summit Road Lines,2026-06-06,Accepted
+T501736,L101434,Ridgeline Freight,2026-06-07,Rejected
+T501737,L101434,Summit Road Lines,2026-06-07,Accepted
+T501738,L101435,Ridgeline Freight,2026-06-07,Rejected
+T501739,L101435,Ironwood Trucking,2026-06-07,Rejected
+T501740,L101435,Copperline Carriers,2026-06-07,Accepted
+T501741,L101436,Copperline Carriers,2026-06-07,Accepted
+T501742,L101437,Copperline Carriers,2026-06-05,Accepted
+T501743,L101438,Blue Heron Transport,2026-06-05,Accepted
+T501744,L101439,Pinecrest Logistics,2026-06-07,Accepted
+T501745,L101440,Ironwood Trucking,2026-06-05,Accepted
+T501746,L101441,Ridgeline Freight,2026-06-06,Accepted
+T501747,L101442,Blue Heron Transport,2026-06-06,Rejected
+T501748,L101442,Summit Road Lines,2026-06-06,Rejected
+T501749,L101442,Pinecrest Logistics,2026-06-06,Rejected
+T501750,L101442,Lakeshore Express,2026-06-06,Accepted
+T501751,L101443,Lakeshore Express,2026-06-07,Accepted
+T501752,L101444,Pinecrest Logistics,2026-06-06,Accepted
+T501753,L101445,Copperline Carriers,2026-06-06,Rejected
+T501754,L101445,Harbor Point Haulers,2026-06-06,Accepted
+T501755,L101446,Ridgeline Freight,2026-06-06,Accepted
+T501756,L101447,Blue Heron Transport,2026-06-06,Accepted
+T501757,L101448,Blue Heron Transport,2026-06-07,Rejected
+T501758,L101448,Harbor Point Haulers,2026-06-07,Accepted
+T501759,L101449,Lakeshore Express,2026-06-08,Accepted
+T501760,L101450,Ironwood Trucking,2026-06-06,Accepted
+T501761,L101451,Pinecrest Logistics,2026-06-08,Accepted
+T501762,L101452,Pinecrest Logistics,2026-06-08,Accepted
+T501763,L101453,Summit Road Lines,2026-06-06,Accepted
+T501764,L101454,Ridgeline Freight,2026-06-06,Accepted
+T501765,L101455,Pinecrest Logistics,2026-06-08,Accepted
+T501766,L101456,Ridgeline Freight,2026-06-09,Accepted
+T501767,L101457,Harbor Point Haulers,2026-06-08,Accepted
+T501768,L101458,Summit Road Lines,2026-06-08,Accepted
+T501769,L101459,Lakeshore Express,2026-06-07,Rejected
+T501770,L101459,Ironwood Trucking,2026-06-07,Accepted
+T501771,L101460,Blue Heron Transport,2026-06-08,Accepted
+T501772,L101461,Pinecrest Logistics,2026-06-08,Accepted
+T501773,L101462,Blue Heron Transport,2026-06-07,Accepted
+T501774,L101463,Ironwood Trucking,2026-06-09,Accepted
+T501775,L101464,Lakeshore Express,2026-06-08,Accepted
+T501776,L101465,Lakeshore Express,2026-06-08,Rejected
+T501777,L101465,Ironwood Trucking,2026-06-08,Rejected
+T501778,L101465,Copperline Carriers,2026-06-08,Accepted
+T501779,L101466,Summit Road Lines,2026-06-07,Rejected
+T501780,L101466,Copperline Carriers,2026-06-07,Accepted
+T501781,L101467,Ridgeline Freight,2026-06-08,Accepted
+T501782,L101468,Blue Heron Transport,2026-06-08,Rejected
+T501783,L101468,Harbor Point Haulers,2026-06-08,Accepted
+T501784,L101469,Harbor Point Haulers,2026-06-07,Accepted
+T501785,L101470,Pinecrest Logistics,2026-06-09,Accepted
+T501786,L101471,Harbor Point Haulers,2026-06-08,Accepted
+T501787,L101472,Ridgeline Freight,2026-06-09,Accepted
+T501788,L101473,Summit Road Lines,2026-06-10,Accepted
+T501789,L101474,Copperline Carriers,2026-06-09,Accepted
+T501790,L101475,Copperline Carriers,2026-06-10,Accepted
+T501791,L101476,Summit Road Lines,2026-06-10,Accepted
+T501792,L101477,Harbor Point Haulers,2026-06-09,Accepted
+T501793,L101478,Ridgeline Freight,2026-06-09,Accepted
+T501794,L101479,Ridgeline Freight,2026-06-08,Accepted
+T501795,L101480,Lakeshore Express,2026-06-08,Accepted
+T501796,L101481,Lakeshore Express,2026-06-08,Accepted
+T501797,L101482,Harbor Point Haulers,2026-06-09,Accepted
+T501798,L101483,Summit Road Lines,2026-06-10,Accepted
+T501799,L101484,Blue Heron Transport,2026-06-09,Rejected
+T501800,L101484,Copperline Carriers,2026-06-09,Accepted
+T501801,L101485,Pinecrest Logistics,2026-06-10,Rejected
+T501802,L101485,Copperline Carriers,2026-06-10,Accepted
+T501803,L101486,Blue Heron Transport,2026-06-09,Accepted
+T501804,L101487,Blue Heron Transport,2026-06-11,Accepted
+T501805,L101488,Blue Heron Transport,2026-06-10,Accepted
+T501806,L101489,Ironwood Trucking,2026-06-11,Accepted
+T501807,L101490,Summit Road Lines,2026-06-09,Accepted
+T501808,L101491,Ridgeline Freight,2026-06-11,Accepted
+T501809,L101492,Harbor Point Haulers,2026-06-10,Accepted
+T501810,L101493,Summit Road Lines,2026-06-11,Accepted
+T501811,L101494,Ridgeline Freight,2026-06-10,Rejected
+T501812,L101494,Blue Heron Transport,2026-06-10,Accepted
+T501813,L101495,Ironwood Trucking,2026-06-11,Accepted
+T501814,L101496,Blue Heron Transport,2026-06-10,Accepted
+T501815,L101497,Copperline Carriers,2026-06-10,Accepted
+T501816,L101498,Summit Road Lines,2026-06-09,Accepted
+T501817,L101499,Ridgeline Freight,2026-06-11,Accepted
+T501818,L101500,Ironwood Trucking,2026-06-13,Rejected
+T501819,L101500,Blue Heron Transport,2026-06-13,Accepted
+T501820,L101501,Blue Heron Transport,2026-06-13,Accepted
+T501821,L101502,Ironwood Trucking,2026-06-12,Accepted
+T501822,L101503,Ironwood Trucking,2026-06-14,Rejected
+T501823,L101503,Ridgeline Freight,2026-06-14,Accepted
+T501824,L101504,Ridgeline Freight,2026-06-12,Accepted
+T501825,L101505,Lakeshore Express,2026-06-12,Rejected
+T501826,L101505,Harbor Point Haulers,2026-06-12,Accepted
+T501827,L101506,Summit Road Lines,2026-06-12,Accepted
+T501828,L101507,Blue Heron Transport,2026-06-13,Accepted
+T501829,L101508,Harbor Point Haulers,2026-06-13,Accepted
+T501830,L101509,Blue Heron Transport,2026-06-13,Accepted
+T501831,L101510,Ridgeline Freight,2026-06-14,Accepted
+T501832,L101511,Harbor Point Haulers,2026-06-15,Accepted
+T501833,L101512,Summit Road Lines,2026-06-15,Accepted
+T501834,L101513,Copperline Carriers,2026-06-15,Accepted
+T501835,L101514,Lakeshore Express,2026-06-13,Accepted
+T501836,L101515,Blue Heron Transport,2026-06-14,Rejected
+T501837,L101515,Ridgeline Freight,2026-06-14,Accepted
+T501838,L101516,Ridgeline Freight,2026-06-14,Accepted
+T501839,L101517,Copperline Carriers,2026-06-14,Accepted
+T501840,L101518,Pinecrest Logistics,2026-06-13,Accepted
+T501841,L101519,Copperline Carriers,2026-06-15,Accepted
+T501842,L101520,Harbor Point Haulers,2026-06-15,Rejected
+T501843,L101520,Copperline Carriers,2026-06-15,Accepted
+T501844,L101521,Harbor Point Haulers,2026-06-13,Accepted
+T501845,L101522,Blue Heron Transport,2026-06-13,Accepted
+T501846,L101523,Summit Road Lines,2026-06-13,Rejected
+T501847,L101523,Copperline Carriers,2026-06-13,Accepted
+T501848,L101524,Blue Heron Transport,2026-06-13,Accepted
+T501849,L101525,Ironwood Trucking,2026-06-13,Accepted
+T501850,L101526,Pinecrest Logistics,2026-06-15,Accepted
+T501851,L101527,Summit Road Lines,2026-06-15,Rejected
+T501852,L101527,Copperline Carriers,2026-06-15,Accepted
+T501853,L101528,Ironwood Trucking,2026-06-16,Accepted
+T501854,L101529,Ridgeline Freight,2026-06-16,Accepted
+T501855,L101530,Summit Road Lines,2026-06-16,Accepted
+T501856,L101531,Summit Road Lines,2026-06-15,Rejected
+T501857,L101531,Copperline Carriers,2026-06-15,Accepted
+T501858,L101532,Ridgeline Freight,2026-06-14,Rejected
+T501859,L101532,Lakeshore Express,2026-06-14,Accepted
+T501860,L101533,Summit Road Lines,2026-06-14,Accepted
+T501861,L101534,Lakeshore Express,2026-06-14,Accepted
+T501862,L101535,Summit Road Lines,2026-06-15,Accepted
+T501863,L101536,Blue Heron Transport,2026-06-15,Accepted
+T501864,L101537,Summit Road Lines,2026-06-16,Accepted
+T501865,L101538,Summit Road Lines,2026-06-16,Accepted
+T501866,L101539,Ironwood Trucking,2026-06-14,Rejected
+T501867,L101539,Pinecrest Logistics,2026-06-14,Accepted
+T501868,L101540,Pinecrest Logistics,2026-06-17,Accepted
+T501869,L101541,Harbor Point Haulers,2026-06-17,Accepted
+T501870,L101542,Ridgeline Freight,2026-06-16,Accepted
+T501871,L101543,Pinecrest Logistics,2026-06-17,Accepted
+T501872,L101544,Blue Heron Transport,2026-06-15,Accepted
+T501873,L101545,Pinecrest Logistics,2026-06-15,Rejected
+T501874,L101545,Summit Road Lines,2026-06-15,Rejected
+T501875,L101545,Ironwood Trucking,2026-06-15,Accepted
+T501876,L101546,Ironwood Trucking,2026-06-16,Accepted
+T501877,L101547,Copperline Carriers,2026-06-15,Accepted
+T501878,L101548,Ridgeline Freight,2026-06-17,Accepted
+T501879,L101549,Pinecrest Logistics,2026-06-15,Accepted
+T501880,L101550,Copperline Carriers,2026-06-16,Accepted
+T501881,L101551,Summit Road Lines,2026-06-18,Accepted
+T501882,L101552,Pinecrest Logistics,2026-06-17,Accepted
+T501883,L101553,Blue Heron Transport,2026-06-18,Accepted
+T501884,L101554,Harbor Point Haulers,2026-06-17,Accepted
+T501885,L101555,Copperline Carriers,2026-06-18,Accepted
+T501886,L101556,Harbor Point Haulers,2026-06-16,Rejected
+T501887,L101556,Copperline Carriers,2026-06-16,Accepted
+T501888,L101557,Ironwood Trucking,2026-06-17,Accepted
+T501889,L101558,Harbor Point Haulers,2026-06-16,Accepted
+T501890,L101559,Summit Road Lines,2026-06-17,Rejected
+T501891,L101559,Pinecrest Logistics,2026-06-17,Accepted
+T501892,L101560,Lakeshore Express,2026-06-16,Accepted
+T501893,L101561,Blue Heron Transport,2026-06-16,Accepted
+T501894,L101562,Lakeshore Express,2026-06-16,Accepted
+T501895,L101563,Blue Heron Transport,2026-06-18,Accepted
+T501896,L101564,Blue Heron Transport,2026-06-16,Accepted
+T501897,L101565,Ironwood Trucking,2026-06-16,Accepted
+T501898,L101566,Pinecrest Logistics,2026-06-20,Accepted
+T501899,L101567,Ridgeline Freight,2026-06-20,Accepted
+T501900,L101568,Harbor Point Haulers,2026-06-19,Accepted
+T501901,L101569,Pinecrest Logistics,2026-06-21,Accepted
+T501902,L101570,Lakeshore Express,2026-06-20,Accepted
+T501903,L101571,Copperline Carriers,2026-06-20,Accepted
+T501904,L101572,Copperline Carriers,2026-06-20,Accepted
+T501905,L101573,Harbor Point Haulers,2026-06-21,Accepted
+T501906,L101574,Harbor Point Haulers,2026-06-19,Rejected
+T501907,L101574,Copperline Carriers,2026-06-19,Rejected
+T501908,L101574,Ironwood Trucking,2026-06-19,Accepted
+T501909,L101575,Pinecrest Logistics,2026-06-20,Rejected
+T501910,L101575,Ironwood Trucking,2026-06-20,Rejected
+T501911,L101575,Copperline Carriers,2026-06-20,Accepted
+T501912,L101576,Blue Heron Transport,2026-06-21,Accepted
+T501913,L101577,Ridgeline Freight,2026-06-19,Accepted
+T501914,L101578,Ridgeline Freight,2026-06-19,Accepted
+T501915,L101579,Ironwood Trucking,2026-06-20,Accepted
+T501916,L101580,Summit Road Lines,2026-06-20,Rejected
+T501917,L101580,Blue Heron Transport,2026-06-20,Accepted
+T501918,L101581,Blue Heron Transport,2026-06-20,Accepted
+T501919,L101582,Lakeshore Express,2026-06-21,Rejected
+T501920,L101582,Pinecrest Logistics,2026-06-21,Accepted
+T501921,L101583,Pinecrest Logistics,2026-06-20,Accepted
+T501922,L101584,Ironwood Trucking,2026-06-20,Rejected
+T501923,L101584,Ridgeline Freight,2026-06-20,Accepted
+T501924,L101585,Summit Road Lines,2026-06-21,Rejected
+T501925,L101585,Ridgeline Freight,2026-06-21,Accepted
+T501926,L101586,Harbor Point Haulers,2026-06-22,Accepted
+T501927,L101587,Copperline Carriers,2026-06-20,Accepted
+T501928,L101588,Ridgeline Freight,2026-06-22,Accepted
+T501929,L101589,Blue Heron Transport,2026-06-21,Accepted
+T501930,L101590,Ridgeline Freight,2026-06-20,Accepted
+T501931,L101591,Copperline Carriers,2026-06-22,Accepted
+T501932,L101592,Ironwood Trucking,2026-06-22,Rejected
+T501933,L101592,Blue Heron Transport,2026-06-22,Accepted
+T501934,L101593,Harbor Point Haulers,2026-06-21,Accepted
+T501935,L101594,Pinecrest Logistics,2026-06-22,Rejected
+T501936,L101594,Blue Heron Transport,2026-06-22,Accepted
+T501937,L101595,Blue Heron Transport,2026-06-22,Accepted
+T501938,L101596,Copperline Carriers,2026-06-20,Accepted
+T501939,L101597,Pinecrest Logistics,2026-06-23,Accepted
+T501940,L101598,Ridgeline Freight,2026-06-21,Accepted
+T501941,L101599,Ridgeline Freight,2026-06-22,Accepted
+T501942,L101600,Copperline Carriers,2026-06-22,Accepted
+T501943,L101601,Blue Heron Transport,2026-06-22,Accepted
+T501944,L101602,Blue Heron Transport,2026-06-23,Rejected
+T501945,L101602,Lakeshore Express,2026-06-23,Accepted
+T501946,L101603,Copperline Carriers,2026-06-23,Accepted
+T501947,L101604,Copperline Carriers,2026-06-23,Accepted
+T501948,L101605,Ridgeline Freight,2026-06-23,Accepted
+T501949,L101606,Harbor Point Haulers,2026-06-21,Accepted
+T501950,L101607,Ironwood Trucking,2026-06-22,Accepted
+T501951,L101608,Harbor Point Haulers,2026-06-23,Accepted
+T501952,L101609,Blue Heron Transport,2026-06-23,Accepted
+T501953,L101610,Pinecrest Logistics,2026-06-22,Accepted
+T501954,L101611,Copperline Carriers,2026-06-24,Accepted
+T501955,L101612,Ridgeline Freight,2026-06-22,Accepted
+T501956,L101613,Harbor Point Haulers,2026-06-24,Accepted
+T501957,L101614,Copperline Carriers,2026-06-23,Accepted
+T501958,L101615,Ridgeline Freight,2026-06-23,Accepted
+T501959,L101616,Summit Road Lines,2026-06-24,Accepted
+T501960,L101617,Blue Heron Transport,2026-06-22,Accepted
+T501961,L101618,Copperline Carriers,2026-06-24,Accepted
+T501962,L101619,Lakeshore Express,2026-06-24,Rejected
+T501963,L101619,Pinecrest Logistics,2026-06-24,Rejected
+T501964,L101619,Ironwood Trucking,2026-06-24,Rejected
+T501965,L101619,Ridgeline Freight,2026-06-24,Accepted
+T501966,L101620,Pinecrest Logistics,2026-06-22,Accepted
+T501967,L101621,Ridgeline Freight,2026-06-23,Accepted
+T501968,L101622,Summit Road Lines,2026-06-22,Accepted
+T501969,L101623,Summit Road Lines,2026-06-25,Accepted
+T501970,L101624,Summit Road Lines,2026-06-25,Accepted
+T501971,L101625,Blue Heron Transport,2026-06-23,Accepted
+T501972,L101626,Lakeshore Express,2026-06-23,Accepted
+T501973,L101627,Blue Heron Transport,2026-06-24,Accepted
+T501974,L101628,Blue Heron Transport,2026-06-23,Accepted
+T501975,L101629,Harbor Point Haulers,2026-06-25,Accepted
+T501976,L101630,Harbor Point Haulers,2026-06-23,Accepted
+T501977,L101631,Summit Road Lines,2026-06-24,Accepted
+T501978,L101632,Ridgeline Freight,2026-06-25,Accepted
+T501979,L101633,Ridgeline Freight,2026-06-28,Accepted
+T501980,L101634,Ironwood Trucking,2026-06-26,Accepted
+T501981,L101635,Lakeshore Express,2026-06-28,Accepted
+T501982,L101636,Ridgeline Freight,2026-06-27,Rejected
+T501983,L101636,Lakeshore Express,2026-06-27,Rejected
+T501984,L101636,Pinecrest Logistics,2026-06-27,Rejected
+T501985,L101636,Copperline Carriers,2026-06-27,Accepted
+T501986,L101637,Summit Road Lines,2026-06-26,Accepted
+T501987,L101638,Lakeshore Express,2026-06-28,Accepted
+T501988,L101639,Lakeshore Express,2026-06-28,Accepted
+T501989,L101640,Copperline Carriers,2026-06-26,Accepted
+T501990,L101641,Summit Road Lines,2026-06-26,Accepted
+T501991,L101642,Ridgeline Freight,2026-06-28,Accepted
+T501992,L101643,Copperline Carriers,2026-06-26,Accepted
+T501993,L101644,Ironwood Trucking,2026-06-26,Rejected
+T501994,L101644,Copperline Carriers,2026-06-26,Accepted
+T501995,L101645,Harbor Point Haulers,2026-06-27,Accepted
+T501996,L101646,Ridgeline Freight,2026-06-26,Accepted
+T501997,L101647,Blue Heron Transport,2026-06-28,Accepted
+T501998,L101648,Blue Heron Transport,2026-06-28,Accepted
+T501999,L101649,Harbor Point Haulers,2026-06-29,Accepted
+T502000,L101650,Ridgeline Freight,2026-06-29,Accepted
+T502001,L101651,Copperline Carriers,2026-06-29,Accepted
+T502002,L101652,Pinecrest Logistics,2026-06-29,Accepted
+T502003,L101653,Harbor Point Haulers,2026-06-27,Accepted
+T502004,L101654,Blue Heron Transport,2026-06-28,Accepted
+T502005,L101655,Harbor Point Haulers,2026-06-29,Rejected
+T502006,L101655,Ridgeline Freight,2026-06-29,Rejected
+T502007,L101655,Ironwood Trucking,2026-06-29,Rejected
+T502008,L101655,Copperline Carriers,2026-06-29,Accepted
+T502009,L101656,Pinecrest Logistics,2026-06-27,Accepted
+T502010,L101657,Copperline Carriers,2026-06-30,Accepted
+T502011,L101658,Blue Heron Transport,2026-06-28,Accepted
+T502012,L101659,Blue Heron Transport,2026-06-29,Accepted
+T502013,L101660,Ironwood Trucking,2026-06-30,Rejected
+T502014,L101660,Pinecrest Logistics,2026-06-30,Rejected
+T502015,L101660,Copperline Carriers,2026-06-30,Accepted
+T502016,L101661,Lakeshore Express,2026-06-29,Accepted
+T502017,L101662,Copperline Carriers,2026-06-29,Accepted
+T502018,L101663,Ridgeline Freight,2026-06-28,Rejected
+T502019,L101663,Pinecrest Logistics,2026-06-28,Accepted
+T502020,L101664,Copperline Carriers,2026-06-30,Accepted
+T502021,L101665,Copperline Carriers,2026-06-28,Accepted
+T502022,L101666,Blue Heron Transport,2026-06-29,Accepted
+T502023,L101667,Ridgeline Freight,2026-06-29,Accepted
+T502024,L101668,Pinecrest Logistics,2026-06-29,Accepted
+T502025,L101669,Pinecrest Logistics,2026-06-30,Accepted
+T502026,L101670,Ridgeline Freight,2026-06-29,Accepted
+T502027,L101671,Lakeshore Express,2026-07-01,Accepted
+T502028,L101672,Ironwood Trucking,2026-06-29,Accepted
+T502029,L101673,Summit Road Lines,2026-06-30,Accepted
+T502030,L101674,Ridgeline Freight,2026-06-30,Accepted
+T502031,L101675,Lakeshore Express,2026-07-01,Accepted
+T502032,L101676,Ridgeline Freight,2026-06-29,Accepted
+T502033,L101677,Ridgeline Freight,2026-06-29,Accepted
+T502034,L101678,Lakeshore Express,2026-06-30,Accepted
+T502035,L101679,Blue Heron Transport,2026-06-30,Accepted
+T502036,L101680,Pinecrest Logistics,2026-07-01,Accepted
+T502037,L101681,Lakeshore Express,2026-07-01,Accepted
+T502038,L101682,Blue Heron Transport,2026-07-01,Accepted
+T502039,L101683,Harbor Point Haulers,2026-07-02,Accepted
+T502040,L101684,Summit Road Lines,2026-07-01,Accepted
+T502041,L101685,Ridgeline Freight,2026-07-02,Accepted
+T502042,L101686,Harbor Point Haulers,2026-07-01,Accepted
+T502043,L101687,Lakeshore Express,2026-07-01,Accepted
+T502044,L101688,Summit Road Lines,2026-06-30,Accepted
+T502045,L101689,Copperline Carriers,2026-06-30,Accepted
+T502046,L101690,Pinecrest Logistics,2026-06-30,Accepted
+T502047,L101691,Ridgeline Freight,2026-07-02,Accepted
+T502048,L101692,Pinecrest Logistics,2026-06-30,Accepted
+T502049,L101693,Ironwood Trucking,2026-07-02,Accepted
+T502050,L101694,Blue Heron Transport,2026-07-01,Accepted
+T502051,L101695,Lakeshore Express,2026-07-03,Rejected
+T502052,L101695,Summit Road Lines,2026-07-03,Accepted
+T502053,L101696,Ridgeline Freight,2026-07-03,Accepted
+T502054,L101697,Summit Road Lines,2026-07-05,Accepted
+T502055,L101698,Pinecrest Logistics,2026-07-03,Accepted
+T502056,L101699,Blue Heron Transport,2026-07-05,Accepted
+T502057,L101700,Blue Heron Transport,2026-07-04,Accepted
+T502058,L101701,Ridgeline Freight,2026-07-03,Accepted
+T502059,L101702,Ridgeline Freight,2026-07-04,Accepted
+T502060,L101703,Pinecrest Logistics,2026-07-04,Accepted
+T502061,L101704,Blue Heron Transport,2026-07-04,Accepted
+T502062,L101705,Ridgeline Freight,2026-07-04,Accepted
+T502063,L101706,Ridgeline Freight,2026-07-04,Accepted
+T502064,L101707,Ridgeline Freight,2026-07-05,Accepted
+T502065,L101708,Summit Road Lines,2026-07-04,Accepted
+T502066,L101709,Blue Heron Transport,2026-07-05,Accepted
+T502067,L101710,Summit Road Lines,2026-07-05,Accepted
+T502068,L101711,Copperline Carriers,2026-07-04,Accepted
+T502069,L101712,Summit Road Lines,2026-07-04,Rejected
+T502070,L101712,Ridgeline Freight,2026-07-04,Accepted
+T502071,L101713,Lakeshore Express,2026-07-06,Rejected
+T502072,L101713,Ironwood Trucking,2026-07-06,Accepted
+T502073,L101714,Copperline Carriers,2026-07-05,Accepted
+T502074,L101715,Harbor Point Haulers,2026-07-05,Accepted
+T502075,L101716,Copperline Carriers,2026-07-05,Accepted
+T502076,L101717,Harbor Point Haulers,2026-07-05,Accepted
+T502077,L101718,Ridgeline Freight,2026-07-05,Accepted
+T502078,L101719,Summit Road Lines,2026-07-06,Accepted
+T502079,L101720,Pinecrest Logistics,2026-07-06,Rejected
+T502080,L101720,Blue Heron Transport,2026-07-06,Rejected
+T502081,L101720,Ridgeline Freight,2026-07-06,Accepted
+T502082,L101721,Ridgeline Freight,2026-07-04,Accepted
+T502083,L101722,Ironwood Trucking,2026-07-05,Accepted
+T502084,L101723,Copperline Carriers,2026-07-06,Rejected
+T502085,L101723,Harbor Point Haulers,2026-07-06,Accepted
+T502086,L101724,Blue Heron Transport,2026-07-04,Accepted
+T502087,L101725,Summit Road Lines,2026-07-05,Accepted
+T502088,L101726,Ironwood Trucking,2026-07-05,Rejected
+T502089,L101726,Copperline Carriers,2026-07-05,Accepted
+T502090,L101727,Copperline Carriers,2026-07-05,Accepted
+T502091,L101728,Pinecrest Logistics,2026-07-07,Accepted
+T502092,L101729,Summit Road Lines,2026-07-05,Accepted
+T502093,L101730,Blue Heron Transport,2026-07-06,Accepted
+T502094,L101731,Summit Road Lines,2026-07-06,Accepted
+T502095,L101732,Blue Heron Transport,2026-07-07,Accepted
+T502096,L101733,Harbor Point Haulers,2026-07-05,Accepted
+T502097,L101734,Pinecrest Logistics,2026-07-07,Rejected
+T502098,L101734,Ironwood Trucking,2026-07-07,Rejected
+T502099,L101734,Blue Heron Transport,2026-07-07,Rejected
+T502100,L101734,Ridgeline Freight,2026-07-07,Accepted
+T502101,L101735,Ridgeline Freight,2026-07-06,Accepted
+T502102,L101736,Lakeshore Express,2026-07-05,Accepted
+T502103,L101737,Ironwood Trucking,2026-07-08,Accepted
+T502104,L101738,Harbor Point Haulers,2026-07-08,Rejected
+T502105,L101738,Ironwood Trucking,2026-07-08,Accepted
+T502106,L101739,Summit Road Lines,2026-07-07,Accepted
+T502107,L101740,Summit Road Lines,2026-07-06,Rejected
+T502108,L101740,Ironwood Trucking,2026-07-06,Accepted
+T502109,L101741,Copperline Carriers,2026-07-07,Accepted
+T502110,L101742,Harbor Point Haulers,2026-07-06,Accepted
+T502111,L101743,Pinecrest Logistics,2026-07-07,Accepted
+T502112,L101744,Summit Road Lines,2026-07-06,Accepted
+T502113,L101745,Blue Heron Transport,2026-07-07,Accepted
+T502114,L101746,Ridgeline Freight,2026-07-08,Accepted
+T502115,L101747,Copperline Carriers,2026-07-08,Accepted
+T502116,L101748,Summit Road Lines,2026-07-08,Accepted
+T502117,L101749,Copperline Carriers,2026-07-07,Accepted
+T502118,L101750,Summit Road Lines,2026-07-08,Accepted
+T502119,L101751,Pinecrest Logistics,2026-07-07,Rejected
+T502120,L101751,Harbor Point Haulers,2026-07-07,Accepted
+T502121,L101752,Summit Road Lines,2026-07-06,Accepted
+T502122,L101753,Summit Road Lines,2026-07-09,Rejected
+T502123,L101753,Harbor Point Haulers,2026-07-09,Accepted
+T502124,L101754,Summit Road Lines,2026-07-07,Accepted
+T502125,L101755,Ridgeline Freight,2026-07-09,Accepted
+T502126,L101756,Copperline Carriers,2026-07-07,Accepted
+T502127,L101757,Harbor Point Haulers,2026-07-08,Accepted
+T502128,L101758,Blue Heron Transport,2026-07-08,Accepted
+T502129,L101759,Blue Heron Transport,2026-07-08,Accepted
+T502130,L101760,Summit Road Lines,2026-07-09,Accepted
+T502131,L101761,Blue Heron Transport,2026-07-07,Accepted
+T502132,L101762,Copperline Carriers,2026-07-07,Accepted
+T502133,L101763,Ironwood Trucking,2026-07-08,Accepted
+T502134,L101764,Ironwood Trucking,2026-07-08,Accepted
+T502135,L101765,Harbor Point Haulers,2026-07-11,Accepted
+T502136,L101766,Ridgeline Freight,2026-07-12,Accepted
+T502137,L101767,Lakeshore Express,2026-07-10,Rejected
+T502138,L101767,Summit Road Lines,2026-07-10,Accepted
+T502139,L101768,Pinecrest Logistics,2026-07-10,Accepted
+T502140,L101769,Pinecrest Logistics,2026-07-11,Accepted
+T502141,L101770,Blue Heron Transport,2026-07-10,Accepted
+T502142,L101771,Harbor Point Haulers,2026-07-12,Accepted
+T502143,L101772,Harbor Point Haulers,2026-07-12,Accepted
+T502144,L101773,Summit Road Lines,2026-07-11,Accepted
+T502145,L101774,Harbor Point Haulers,2026-07-11,Accepted
+T502146,L101775,Harbor Point Haulers,2026-07-13,Accepted
+T502147,L101776,Ironwood Trucking,2026-07-12,Accepted
+T502148,L101777,Blue Heron Transport,2026-07-13,Accepted
+T502149,L101778,Blue Heron Transport,2026-07-13,Accepted
+T502150,L101779,Summit Road Lines,2026-07-11,Accepted
+T502151,L101780,Blue Heron Transport,2026-07-11,Accepted
+T502152,L101781,Pinecrest Logistics,2026-07-12,Accepted
+T502153,L101782,Harbor Point Haulers,2026-07-12,Rejected
+T502154,L101782,Lakeshore Express,2026-07-12,Accepted
+T502155,L101783,Blue Heron Transport,2026-07-13,Accepted
+T502156,L101784,Pinecrest Logistics,2026-07-13,Accepted
+T502157,L101785,Copperline Carriers,2026-07-12,Accepted
+T502158,L101786,Copperline Carriers,2026-07-13,Rejected
+T502159,L101786,Ridgeline Freight,2026-07-13,Accepted
+T502160,L101787,Summit Road Lines,2026-07-14,Accepted
+T502161,L101788,Summit Road Lines,2026-07-13,Accepted
+T502162,L101789,Ironwood Trucking,2026-07-13,Accepted
+T502163,L101790,Copperline Carriers,2026-07-14,Accepted
+T502164,L101791,Ridgeline Freight,2026-07-13,Accepted
+T502165,L101792,Blue Heron Transport,2026-07-12,Accepted
+T502166,L101793,Pinecrest Logistics,2026-07-12,Accepted
+T502167,L101794,Lakeshore Express,2026-07-13,Accepted
+T502168,L101795,Harbor Point Haulers,2026-07-14,Accepted
+T502169,L101796,Summit Road Lines,2026-07-14,Accepted
+T502170,L101797,Blue Heron Transport,2026-07-14,Rejected
+T502171,L101797,Ridgeline Freight,2026-07-14,Rejected
+T502172,L101797,Lakeshore Express,2026-07-14,Accepted
+T502173,L101798,Ridgeline Freight,2026-07-13,Accepted
+T502174,L101799,Blue Heron Transport,2026-07-13,Accepted
+T502175,L101800,Copperline Carriers,2026-07-14,Accepted
+T502176,L101801,Ridgeline Freight,2026-07-13,Accepted
+T502177,L101802,Ironwood Trucking,2026-07-15,Accepted
+T502178,L101803,Summit Road Lines,2026-07-14,Accepted
+T502179,L101804,Harbor Point Haulers,2026-07-15,Accepted
+T502180,L101805,Ridgeline Freight,2026-07-14,Accepted
+T502181,L101806,Summit Road Lines,2026-07-15,Accepted
+T502182,L101807,Ironwood Trucking,2026-07-15,Accepted
+T502183,L101808,Pinecrest Logistics,2026-07-13,Rejected
+T502184,L101808,Copperline Carriers,2026-07-13,Accepted
+T502185,L101809,Ironwood Trucking,2026-07-14,Accepted
+T502186,L101810,Lakeshore Express,2026-07-14,Accepted
+T502187,L101811,Copperline Carriers,2026-07-16,Accepted
+T502188,L101812,Ridgeline Freight,2026-07-14,Accepted
+T502189,L101813,Ironwood Trucking,2026-07-16,Accepted
+T502190,L101814,Harbor Point Haulers,2026-07-15,Accepted
+T502191,L101815,Ridgeline Freight,2026-07-15,Accepted
+T502192,L101816,Ironwood Trucking,2026-07-14,Accepted
+T502193,L101817,Ridgeline Freight,2026-07-14,Accepted
+T502194,L101818,Ironwood Trucking,2026-07-16,Accepted
+T502195,L101819,Summit Road Lines,2026-07-16,Accepted
+T502196,L101820,Harbor Point Haulers,2026-07-15,Accepted
+T502197,L101821,Summit Road Lines,2026-07-15,Accepted
+T502198,L101822,Lakeshore Express,2026-07-17,Accepted
+T502199,L101823,Ironwood Trucking,2026-07-18,Accepted
+T502200,L101824,Lakeshore Express,2026-07-17,Accepted
+T502201,L101825,Blue Heron Transport,2026-07-19,Accepted
+T502202,L101826,Lakeshore Express,2026-07-19,Accepted
+T502203,L101827,Summit Road Lines,2026-07-18,Rejected
+T502204,L101827,Ridgeline Freight,2026-07-18,Accepted
+T502205,L101828,Lakeshore Express,2026-07-18,Accepted
+T502206,L101829,Summit Road Lines,2026-07-18,Accepted
+T502207,L101830,Ridgeline Freight,2026-07-17,Accepted
+T502208,L101831,Harbor Point Haulers,2026-07-17,Accepted
+T502209,L101832,Summit Road Lines,2026-07-20,Accepted
+T502210,L101833,Harbor Point Haulers,2026-07-18,Accepted
+T502211,L101834,Blue Heron Transport,2026-07-20,Accepted
+T502212,L101835,Summit Road Lines,2026-07-18,Accepted
+T502213,L101836,Summit Road Lines,2026-07-19,Accepted
+T502214,L101837,Copperline Carriers,2026-07-19,Accepted
+T502215,L101838,Blue Heron Transport,2026-07-19,Accepted
+T502216,L101839,Copperline Carriers,2026-07-18,Accepted
+T502217,L101840,Ridgeline Freight,2026-07-19,Accepted
+T502218,L101841,Copperline Carriers,2026-07-19,Accepted
+T502219,L101842,Ridgeline Freight,2026-07-18,Accepted
+T502220,L101843,Pinecrest Logistics,2026-07-20,Accepted
+T502221,L101844,Lakeshore Express,2026-07-21,Accepted
+T502222,L101845,Pinecrest Logistics,2026-07-20,Accepted
+T502223,L101846,Harbor Point Haulers,2026-07-21,Accepted
+T502224,L101847,Ironwood Trucking,2026-07-21,Accepted
+T502225,L101848,Ridgeline Freight,2026-07-20,Accepted
+T502226,L101849,Ridgeline Freight,2026-07-19,Accepted
+T502227,L101850,Blue Heron Transport,2026-07-19,Accepted
+T502228,L101851,Ridgeline Freight,2026-07-19,Accepted
+T502229,L101852,Copperline Carriers,2026-07-21,Accepted
+T502230,L101853,Ironwood Trucking,2026-07-20,Accepted
+T502231,L101854,Copperline Carriers,2026-07-19,Accepted
+T502232,L101855,Lakeshore Express,2026-07-20,Accepted
+T502233,L101856,Ridgeline Freight,2026-07-22,Accepted
+T502234,L101857,Lakeshore Express,2026-07-20,Accepted
+T502235,L101858,Summit Road Lines,2026-07-21,Accepted
+T502236,L101859,Copperline Carriers,2026-07-21,Accepted
+T502237,L101860,Lakeshore Express,2026-07-20,Rejected
+T502238,L101860,Ridgeline Freight,2026-07-20,Accepted
+T502239,L101861,Copperline Carriers,2026-07-22,Accepted
+T502240,L101862,Copperline Carriers,2026-07-22,Accepted
+T502241,L101863,Copperline Carriers,2026-07-22,Accepted
+T502242,L101864,Blue Heron Transport,2026-07-22,Accepted
+T502243,L101865,Lakeshore Express,2026-07-21,Rejected
+T502244,L101865,Summit Road Lines,2026-07-21,Rejected
+T502245,L101865,Ridgeline Freight,2026-07-21,Accepted
+T502246,L101866,Ridgeline Freight,2026-07-20,Accepted
+T502247,L101867,Harbor Point Haulers,2026-07-20,Rejected
+T502248,L101867,Ironwood Trucking,2026-07-20,Accepted
+T502249,L101868,Copperline Carriers,2026-07-22,Accepted
+T502250,L101869,Summit Road Lines,2026-07-23,Accepted
+T502251,L101870,Lakeshore Express,2026-07-23,Accepted
+T502252,L101871,Summit Road Lines,2026-07-21,Accepted
+T502253,L101872,Harbor Point Haulers,2026-07-21,Rejected
+T502254,L101872,Ironwood Trucking,2026-07-21,Accepted
+T502255,L101873,Blue Heron Transport,2026-07-21,Accepted
+T502256,L101874,Ridgeline Freight,2026-07-22,Accepted
+T502257,L101875,Lakeshore Express,2026-07-22,Rejected
+T502258,L101875,Copperline Carriers,2026-07-22,Accepted
+T502259,L101876,Pinecrest Logistics,2026-07-21,Accepted
+T502260,L101877,Ridgeline Freight,2026-07-22,Accepted
+T502261,L101878,Ridgeline Freight,2026-07-22,Accepted
+T502262,L101879,Lakeshore Express,2026-07-23,Rejected
+T502263,L101879,Ridgeline Freight,2026-07-23,Accepted
+T502264,L101880,Summit Road Lines,2026-07-22,Accepted
+T502265,L101881,Copperline Carriers,2026-07-23,Rejected
+T502266,L101881,Harbor Point Haulers,2026-07-23,Accepted
+T502267,L101882,Blue Heron Transport,2026-07-26,Accepted
+T502268,L101883,Harbor Point Haulers,2026-07-26,Accepted
+T502269,L101884,Summit Road Lines,2026-07-26,Accepted
+T502270,L101885,Summit Road Lines,2026-07-26,Accepted
+T502271,L101886,Ridgeline Freight,2026-07-26,Accepted
+T502272,L101887,Harbor Point Haulers,2026-07-26,Accepted
+T502273,L101888,Ridgeline Freight,2026-07-24,Accepted
+T502274,L101889,Copperline Carriers,2026-07-26,Accepted
+T502275,L101890,Copperline Carriers,2026-07-26,Accepted
+T502276,L101891,Ridgeline Freight,2026-07-25,Accepted
+T502277,L101892,Copperline Carriers,2026-07-25,Accepted
+T502278,L101893,Summit Road Lines,2026-07-26,Accepted
+T502279,L101894,Blue Heron Transport,2026-07-27,Accepted
+T502280,L101895,Pinecrest Logistics,2026-07-25,Rejected
+T502281,L101895,Lakeshore Express,2026-07-25,Rejected
+T502282,L101895,Blue Heron Transport,2026-07-25,Accepted
+T502283,L101896,Copperline Carriers,2026-07-26,Accepted
+T502284,L101897,Copperline Carriers,2026-07-27,Accepted
+T502285,L101898,Copperline Carriers,2026-07-27,Accepted
+T502286,L101899,Pinecrest Logistics,2026-07-26,Rejected
+T502287,L101899,Blue Heron Transport,2026-07-26,Rejected
+T502288,L101899,Lakeshore Express,2026-07-26,Accepted
+T502289,L101900,Copperline Carriers,2026-07-25,Rejected
+T502290,L101900,Summit Road Lines,2026-07-25,Accepted
+T502291,L101901,Blue Heron Transport,2026-07-27,Accepted
+T502292,L101902,Pinecrest Logistics,2026-07-26,Accepted
+T502293,L101903,Pinecrest Logistics,2026-07-26,Accepted
+T502294,L101904,Harbor Point Haulers,2026-07-26,Accepted
+T502295,L101905,Harbor Point Haulers,2026-07-27,Accepted
+T502296,L101906,Ironwood Trucking,2026-07-28,Accepted
+T502297,L101907,Ridgeline Freight,2026-07-28,Accepted
+T502298,L101908,Harbor Point Haulers,2026-07-27,Accepted
+T502299,L101909,Lakeshore Express,2026-07-26,Accepted
+T502300,L101910,Summit Road Lines,2026-07-28,Accepted
+T502301,L101911,Ironwood Trucking,2026-07-28,Accepted
+T502302,L101912,Ridgeline Freight,2026-07-26,Accepted
+T502303,L101913,Harbor Point Haulers,2026-07-27,Rejected
+T502304,L101913,Ridgeline Freight,2026-07-27,Accepted
+T502305,L101914,Summit Road Lines,2026-07-28,Accepted
+T502306,L101915,Copperline Carriers,2026-07-26,Accepted
+T502307,L101916,Copperline Carriers,2026-07-27,Accepted
+T502308,L101917,Lakeshore Express,2026-07-28,Accepted
+T502309,L101918,Ironwood Trucking,2026-07-27,Accepted
+T502310,L101919,Pinecrest Logistics,2026-07-27,Accepted
+T502311,L101920,Ridgeline Freight,2026-07-28,Accepted
+T502312,L101921,Summit Road Lines,2026-07-28,Rejected
+T502313,L101921,Harbor Point Haulers,2026-07-28,Accepted
+T502314,L101922,Lakeshore Express,2026-07-29,Rejected
+T502315,L101922,Copperline Carriers,2026-07-29,Accepted
+T502316,L101923,Blue Heron Transport,2026-07-28,Accepted
+T502317,L101924,Pinecrest Logistics,2026-07-27,Accepted
+T502318,L101925,Blue Heron Transport,2026-07-27,Accepted
+T502319,L101926,Harbor Point Haulers,2026-07-28,Accepted
+T502320,L101927,Copperline Carriers,2026-07-28,Accepted
+T502321,L101928,Ironwood Trucking,2026-07-30,Rejected
+T502322,L101928,Ridgeline Freight,2026-07-30,Accepted
+T502323,L101929,Blue Heron Transport,2026-07-28,Accepted
+T502324,L101930,Lakeshore Express,2026-07-29,Rejected
+T502325,L101930,Ironwood Trucking,2026-07-29,Accepted
+T502326,L101931,Ridgeline Freight,2026-07-28,Rejected
+T502327,L101931,Blue Heron Transport,2026-07-28,Accepted
+T502328,L101932,Pinecrest Logistics,2026-07-29,Accepted
+T502329,L101933,Lakeshore Express,2026-07-28,Accepted
+T502330,L101934,Blue Heron Transport,2026-07-30,Accepted
+T502331,L101935,Pinecrest Logistics,2026-07-28,Rejected
+T502332,L101935,Copperline Carriers,2026-07-28,Accepted
+T502333,L101936,Copperline Carriers,2026-07-30,Rejected
+T502334,L101936,Ridgeline Freight,2026-07-30,Accepted
+T502335,L101937,Copperline Carriers,2026-07-29,Rejected
+T502336,L101937,Lakeshore Express,2026-07-29,Rejected
+T502337,L101937,Summit Road Lines,2026-07-29,Accepted
+T502338,L101938,Ironwood Trucking,2026-08-01,Accepted
+T502339,L101939,Ridgeline Freight,2026-08-01,Accepted
+T502340,L101940,Summit Road Lines,2026-08-01,Accepted
+T502341,L101941,Copperline Carriers,2026-08-01,Accepted
+T502342,L101942,Ridgeline Freight,2026-08-01,Accepted
+T502343,L101943,Copperline Carriers,2026-08-01,Accepted
+T502344,L101944,Copperline Carriers,2026-08-01,Accepted
+T502345,L101945,Blue Heron Transport,2026-08-02,Accepted
+T502346,L101946,Ironwood Trucking,2026-08-02,Rejected
+T502347,L101946,Ridgeline Freight,2026-08-02,Accepted
+T502348,L101947,Lakeshore Express,2026-07-31,Rejected
+T502349,L101947,Ridgeline Freight,2026-07-31,Accepted
+T502350,L101948,Pinecrest Logistics,2026-08-01,Accepted
+T502351,L101949,Copperline Carriers,2026-07-31,Accepted
+T502352,L101950,Copperline Carriers,2026-07-31,Rejected
+T502353,L101950,Harbor Point Haulers,2026-07-31,Accepted
+T502354,L101951,Summit Road Lines,2026-08-01,Accepted
+T502355,L101952,Ironwood Trucking,2026-07-31,Accepted
+T502356,L101953,Ridgeline Freight,2026-08-02,Accepted
+T502357,L101954,Copperline Carriers,2026-08-02,Accepted
+T502358,L101955,Ridgeline Freight,2026-08-02,Accepted
+T502359,L101956,Harbor Point Haulers,2026-08-02,Accepted
+T502360,L101957,Ridgeline Freight,2026-08-01,Accepted
+T502361,L101958,Harbor Point Haulers,2026-08-02,Accepted
+T502362,L101959,Summit Road Lines,2026-08-03,Accepted
+T502363,L101960,Summit Road Lines,2026-08-03,Accepted
+T502364,L101961,Harbor Point Haulers,2026-08-03,Accepted
+T502365,L101962,Harbor Point Haulers,2026-08-01,Accepted
+T502366,L101963,Lakeshore Express,2026-08-01,Accepted
+T502367,L101964,Blue Heron Transport,2026-08-01,Accepted
+T502368,L101965,Lakeshore Express,2026-08-02,Accepted
+T502369,L101966,Lakeshore Express,2026-08-03,Accepted
+T502370,L101967,Pinecrest Logistics,2026-08-02,Accepted
+T502371,L101968,Pinecrest Logistics,2026-08-02,Rejected
+T502372,L101968,Ridgeline Freight,2026-08-02,Accepted
+T502373,L101969,Pinecrest Logistics,2026-08-04,Accepted
+T502374,L101970,Blue Heron Transport,2026-08-03,Accepted
+T502375,L101971,Summit Road Lines,2026-08-04,Accepted
+T502376,L101972,Lakeshore Express,2026-08-03,Accepted
+T502377,L101973,Ridgeline Freight,2026-08-04,Accepted
+T502378,L101974,Ironwood Trucking,2026-08-03,Rejected
+T502379,L101974,Harbor Point Haulers,2026-08-03,Accepted
+T502380,L101975,Lakeshore Express,2026-08-02,Accepted
+T502381,L101976,Harbor Point Haulers,2026-08-02,Accepted
+T502382,L101977,Copperline Carriers,2026-08-04,Accepted
+T502383,L101978,Summit Road Lines,2026-08-04,Accepted
+T502384,L101979,Summit Road Lines,2026-08-05,Accepted
+T502385,L101980,Blue Heron Transport,2026-08-05,Accepted
+T502386,L101981,Blue Heron Transport,2026-08-05,Accepted
+T502387,L101982,Ironwood Trucking,2026-08-04,Rejected
+T502388,L101982,Lakeshore Express,2026-08-04,Accepted
+T502389,L101983,Summit Road Lines,2026-08-05,Accepted
+T502390,L101984,Blue Heron Transport,2026-08-04,Rejected
+T502391,L101984,Summit Road Lines,2026-08-04,Rejected
+T502392,L101984,Ironwood Trucking,2026-08-04,Accepted
+T502393,L101985,Summit Road Lines,2026-08-05,Rejected
+T502394,L101985,Ironwood Trucking,2026-08-05,Accepted
+T502395,L101986,Ridgeline Freight,2026-08-03,Accepted
+T502396,L101987,Ironwood Trucking,2026-08-04,Accepted
+T502397,L101988,Harbor Point Haulers,2026-08-04,Accepted
+T502398,L101989,Lakeshore Express,2026-08-04,Accepted
+T502399,L101990,Ridgeline Freight,2026-08-03,Accepted
+T502400,L101991,Harbor Point Haulers,2026-08-03,Accepted
+T502401,L101992,Summit Road Lines,2026-08-03,Accepted
+T502402,L101993,Summit Road Lines,2026-08-03,Accepted
+T502403,L101994,Summit Road Lines,2026-08-05,Accepted
+T502404,L101995,Harbor Point Haulers,2026-08-06,Accepted
+T502405,L101996,Pinecrest Logistics,2026-08-05,Accepted
+T502406,L101997,Pinecrest Logistics,2026-08-06,Accepted
+T502407,L101998,Ridgeline Freight,2026-08-06,Accepted
+T502408,L101999,Harbor Point Haulers,2026-08-05,Rejected
+T502409,L101999,Summit Road Lines,2026-08-05,Rejected
+T502410,L101999,Ridgeline Freight,2026-08-05,Rejected
+T502411,L101999,Copperline Carriers,2026-08-05,Accepted
+T502412,L102000,Blue Heron Transport,2026-08-04,Accepted
+T502413,L102001,Pinecrest Logistics,2026-08-05,Accepted
+T502414,L102002,Copperline Carriers,2026-08-05,Rejected
+T502415,L102002,Harbor Point Haulers,2026-08-05,Accepted
+T502416,L102003,Blue Heron Transport,2026-08-06,Accepted
+T502417,L102004,Ironwood Trucking,2026-08-05,Accepted
+T502418,L102005,Blue Heron Transport,2026-08-04,Accepted
+T502419,L102006,Copperline Carriers,2026-08-08,Accepted
+T502420,L102007,Ridgeline Freight,2026-08-09,Accepted
+T502421,L102008,Harbor Point Haulers,2026-08-07,Rejected
+T502422,L102008,Ridgeline Freight,2026-08-07,Accepted
+T502423,L102009,Blue Heron Transport,2026-08-09,Accepted
+T502424,L102010,Harbor Point Haulers,2026-08-07,Rejected
+T502425,L102010,Ironwood Trucking,2026-08-07,Rejected
+T502426,L102010,Pinecrest Logistics,2026-08-07,Accepted
+T502427,L102011,Ironwood Trucking,2026-08-08,Rejected
+T502428,L102011,Lakeshore Express,2026-08-08,Rejected
+T502429,L102011,Ridgeline Freight,2026-08-08,Accepted
+T502430,L102012,Blue Heron Transport,2026-08-08,Accepted
+T502431,L102013,Summit Road Lines,2026-08-07,Accepted
+T502432,L102014,Ridgeline Freight,2026-08-07,Accepted
+T502433,L102015,Summit Road Lines,2026-08-08,Accepted
+T502434,L102016,Lakeshore Express,2026-08-08,Accepted
+T502435,L102017,Lakeshore Express,2026-08-10,Accepted
+T502436,L102018,Harbor Point Haulers,2026-08-08,Accepted
+T502437,L102019,Blue Heron Transport,2026-08-10,Accepted
+T502438,L102020,Ridgeline Freight,2026-08-09,Accepted
+T502439,L102021,Lakeshore Express,2026-08-09,Rejected
+T502440,L102021,Summit Road Lines,2026-08-09,Accepted
+T502441,L102022,Ironwood Trucking,2026-08-09,Rejected
+T502442,L102022,Summit Road Lines,2026-08-09,Accepted
+T502443,L102023,Copperline Carriers,2026-08-09,Rejected
+T502444,L102023,Pinecrest Logistics,2026-08-09,Accepted
+T502445,L102024,Harbor Point Haulers,2026-08-08,Accepted
+T502446,L102025,Pinecrest Logistics,2026-08-09,Rejected
+T502447,L102025,Ridgeline Freight,2026-08-09,Rejected
+T502448,L102025,Copperline Carriers,2026-08-09,Accepted
+T502449,L102026,Ironwood Trucking,2026-08-09,Accepted
+T502450,L102027,Ridgeline Freight,2026-08-09,Rejected
+T502451,L102027,Blue Heron Transport,2026-08-09,Accepted
+T502452,L102028,Harbor Point Haulers,2026-08-08,Accepted
+T502453,L102029,Lakeshore Express,2026-08-09,Accepted
+T502454,L102030,Ridgeline Freight,2026-08-09,Accepted
+T502455,L102031,Ironwood Trucking,2026-08-11,Accepted
+T502456,L102032,Ridgeline Freight,2026-08-10,Accepted
+T502457,L102033,Lakeshore Express,2026-08-10,Rejected
+T502458,L102033,Pinecrest Logistics,2026-08-10,Accepted
+T502459,L102034,Harbor Point Haulers,2026-08-11,Rejected
+T502460,L102034,Copperline Carriers,2026-08-11,Accepted
+T502461,L102035,Ridgeline Freight,2026-08-11,Accepted
+T502462,L102036,Copperline Carriers,2026-08-11,Accepted
+T502463,L102037,Copperline Carriers,2026-08-09,Accepted
+T502464,L102038,Ironwood Trucking,2026-08-10,Rejected
+T502465,L102038,Blue Heron Transport,2026-08-10,Accepted
+T502466,L102039,Summit Road Lines,2026-08-09,Accepted
+T502467,L102040,Copperline Carriers,2026-08-10,Accepted
+T502468,L102041,Summit Road Lines,2026-08-11,Accepted
+T502469,L102042,Ironwood Trucking,2026-08-11,Accepted
+T502470,L102043,Ridgeline Freight,2026-08-11,Accepted
+T502471,L102044,Ridgeline Freight,2026-08-10,Accepted
+T502472,L102045,Lakeshore Express,2026-08-10,Rejected
+T502473,L102045,Pinecrest Logistics,2026-08-10,Accepted
+T502474,L102046,Ridgeline Freight,2026-08-12,Accepted
+T502475,L102047,Lakeshore Express,2026-08-10,Rejected
+T502476,L102047,Ironwood Trucking,2026-08-10,Accepted
+T502477,L102048,Ironwood Trucking,2026-08-12,Accepted
+T502478,L102049,Summit Road Lines,2026-08-11,Accepted
+T502479,L102050,Lakeshore Express,2026-08-10,Accepted
+T502480,L102051,Pinecrest Logistics,2026-08-10,Accepted
+T502481,L102052,Summit Road Lines,2026-08-11,Accepted
+T502482,L102053,Lakeshore Express,2026-08-12,Rejected
+T502483,L102053,Pinecrest Logistics,2026-08-12,Accepted
+T502484,L102054,Blue Heron Transport,2026-08-11,Rejected
+T502485,L102054,Ridgeline Freight,2026-08-11,Accepted
+T502486,L102055,Ridgeline Freight,2026-08-11,Accepted
+T502487,L102056,Lakeshore Express,2026-08-12,Accepted
+T502488,L102057,Pinecrest Logistics,2026-08-12,Accepted
+T502489,L102058,Ridgeline Freight,2026-08-11,Accepted
+T502490,L102059,Blue Heron Transport,2026-08-11,Accepted
+T502491,L102060,Ridgeline Freight,2026-08-12,Accepted
+T502492,L102061,Ironwood Trucking,2026-08-13,Accepted
+T502493,L102062,Summit Road Lines,2026-08-11,Accepted
+T502494,L102063,Summit Road Lines,2026-08-11,Accepted
+T502495,L102064,Lakeshore Express,2026-08-13,Accepted
+T502496,L102065,Copperline Carriers,2026-08-11,Accepted
+T502497,L102066,Ironwood Trucking,2026-08-13,Accepted
+T502498,L102067,Harbor Point Haulers,2026-08-11,Accepted
+T502499,L102068,Harbor Point Haulers,2026-08-11,Accepted
+T502500,L102069,Ridgeline Freight,2026-08-12,Accepted
+T502501,L102070,Copperline Carriers,2026-08-11,Accepted
+T502502,L102071,Ridgeline Freight,2026-08-16,Accepted
+T502503,L102072,Pinecrest Logistics,2026-08-16,Accepted
+T502504,L102073,Lakeshore Express,2026-08-15,Rejected
+T502505,L102073,Copperline Carriers,2026-08-15,Accepted
+T502506,L102074,Copperline Carriers,2026-08-14,Accepted
+T502507,L102075,Copperline Carriers,2026-08-16,Accepted
+T502508,L102076,Summit Road Lines,2026-08-15,Accepted
+T502509,L102077,Copperline Carriers,2026-08-14,Accepted
+T502510,L102078,Harbor Point Haulers,2026-08-14,Accepted
+T502511,L102079,Harbor Point Haulers,2026-08-14,Accepted
+T502512,L102080,Lakeshore Express,2026-08-14,Accepted
+T502513,L102081,Summit Road Lines,2026-08-15,Accepted
+T502514,L102082,Harbor Point Haulers,2026-08-15,Rejected
+T502515,L102082,Ridgeline Freight,2026-08-15,Accepted
+T502516,L102083,Blue Heron Transport,2026-08-15,Accepted
+T502517,L102084,Copperline Carriers,2026-08-15,Accepted
+T502518,L102085,Harbor Point Haulers,2026-08-15,Accepted
+T502519,L102086,Pinecrest Logistics,2026-08-14,Rejected
+T502520,L102086,Ironwood Trucking,2026-08-14,Accepted
+T502521,L102087,Ironwood Trucking,2026-08-16,Rejected
+T502522,L102087,Summit Road Lines,2026-08-16,Rejected
+T502523,L102087,Harbor Point Haulers,2026-08-16,Accepted
+T502524,L102088,Ironwood Trucking,2026-08-17,Accepted
+T502525,L102089,Blue Heron Transport,2026-08-17,Rejected
+T502526,L102089,Summit Road Lines,2026-08-17,Accepted
+T502527,L102090,Copperline Carriers,2026-08-16,Rejected
+T502528,L102090,Harbor Point Haulers,2026-08-16,Accepted
+T502529,L102091,Summit Road Lines,2026-08-17,Rejected
+T502530,L102091,Ironwood Trucking,2026-08-17,Rejected
+T502531,L102091,Ridgeline Freight,2026-08-17,Accepted
+T502532,L102092,Summit Road Lines,2026-08-17,Accepted
+T502533,L102093,Copperline Carriers,2026-08-15,Accepted
+T502534,L102094,Harbor Point Haulers,2026-08-17,Accepted
+T502535,L102095,Ironwood Trucking,2026-08-16,Accepted
+T502536,L102096,Ridgeline Freight,2026-08-16,Accepted
+T502537,L102097,Pinecrest Logistics,2026-08-17,Accepted
+T502538,L102098,Copperline Carriers,2026-08-18,Accepted
+T502539,L102099,Ridgeline Freight,2026-08-18,Accepted
+T502540,L102100,Copperline Carriers,2026-08-17,Accepted
+T502541,L102101,Copperline Carriers,2026-08-17,Accepted
+T502542,L102102,Blue Heron Transport,2026-08-18,Accepted
+T502543,L102103,Ridgeline Freight,2026-08-18,Accepted
+T502544,L102104,Copperline Carriers,2026-08-18,Rejected
+T502545,L102104,Ironwood Trucking,2026-08-18,Accepted
+T502546,L102105,Lakeshore Express,2026-08-17,Accepted
+T502547,L102106,Lakeshore Express,2026-08-16,Accepted
+T502548,L102107,Lakeshore Express,2026-08-17,Accepted
+T502549,L102108,Blue Heron Transport,2026-08-17,Accepted
+T502550,L102109,Summit Road Lines,2026-08-16,Rejected
+T502551,L102109,Ironwood Trucking,2026-08-16,Rejected
+T502552,L102109,Blue Heron Transport,2026-08-16,Accepted
+T502553,L102110,Ironwood Trucking,2026-08-17,Rejected
+T502554,L102110,Ridgeline Freight,2026-08-17,Accepted
+T502555,L102111,Ridgeline Freight,2026-08-19,Accepted
+T502556,L102112,Ironwood Trucking,2026-08-17,Accepted
+T502557,L102113,Copperline Carriers,2026-08-18,Accepted
+T502558,L102114,Ridgeline Freight,2026-08-17,Accepted
+T502559,L102115,Copperline Carriers,2026-08-18,Accepted
+T502560,L102116,Ridgeline Freight,2026-08-19,Accepted
+T502561,L102117,Pinecrest Logistics,2026-08-19,Accepted
+T502562,L102118,Blue Heron Transport,2026-08-17,Accepted
+T502563,L102119,Ridgeline Freight,2026-08-17,Accepted
+T502564,L102120,Ironwood Trucking,2026-08-19,Rejected
+T502565,L102120,Blue Heron Transport,2026-08-19,Accepted
+T502566,L102121,Harbor Point Haulers,2026-08-18,Accepted
+T502567,L102122,Copperline Carriers,2026-08-18,Accepted
+T502568,L102123,Blue Heron Transport,2026-08-20,Accepted
+T502569,L102124,Copperline Carriers,2026-08-20,Accepted
+T502570,L102125,Blue Heron Transport,2026-08-20,Accepted
+T502571,L102126,Summit Road Lines,2026-08-19,Rejected
+T502572,L102126,Copperline Carriers,2026-08-19,Accepted
+T502573,L102127,Summit Road Lines,2026-08-18,Accepted
+T502574,L102128,Summit Road Lines,2026-08-18,Rejected
+T502575,L102128,Ridgeline Freight,2026-08-18,Accepted
+T502576,L102129,Blue Heron Transport,2026-08-20,Accepted
+T502577,L102130,Harbor Point Haulers,2026-08-20,Accepted
+T502578,L102131,Harbor Point Haulers,2026-08-18,Accepted
+T502579,L102132,Summit Road Lines,2026-08-19,Accepted
+T502580,L102133,Blue Heron Transport,2026-08-20,Accepted
+T502581,L102134,Blue Heron Transport,2026-08-19,Accepted
+T502582,L102135,Pinecrest Logistics,2026-08-20,Accepted
+T502583,L102136,Harbor Point Haulers,2026-08-19,Accepted
+T502584,L102137,Lakeshore Express,2026-08-22,Rejected
+T502585,L102137,Copperline Carriers,2026-08-22,Accepted
+T502586,L102138,Ridgeline Freight,2026-08-21,Accepted
+T502587,L102139,Ironwood Trucking,2026-08-23,Accepted
+T502588,L102140,Pinecrest Logistics,2026-08-23,Accepted
+T502589,L102141,Ridgeline Freight,2026-08-21,Accepted
+T502590,L102142,Ridgeline Freight,2026-08-23,Accepted
+T502591,L102143,Ironwood Trucking,2026-08-21,Rejected
+T502592,L102143,Lakeshore Express,2026-08-21,Rejected
+T502593,L102143,Summit Road Lines,2026-08-21,Accepted
+T502594,L102144,Copperline Carriers,2026-08-23,Accepted
+T502595,L102145,Ironwood Trucking,2026-08-22,Rejected
+T502596,L102145,Lakeshore Express,2026-08-22,Rejected
+T502597,L102145,Summit Road Lines,2026-08-22,Accepted
+T502598,L102146,Summit Road Lines,2026-08-21,Accepted
+T502599,L102147,Copperline Carriers,2026-08-21,Accepted
+T502600,L102148,Blue Heron Transport,2026-08-23,Accepted
+T502601,L102149,Ridgeline Freight,2026-08-22,Accepted
+T502602,L102150,Blue Heron Transport,2026-08-21,Accepted
+T502603,L102151,Blue Heron Transport,2026-08-23,Accepted
+T502604,L102152,Pinecrest Logistics,2026-08-22,Accepted
+T502605,L102153,Ridgeline Freight,2026-08-22,Accepted
+T502606,L102154,Blue Heron Transport,2026-08-23,Rejected
+T502607,L102154,Ironwood Trucking,2026-08-23,Accepted
+T502608,L102155,Lakeshore Express,2026-08-24,Accepted
+T502609,L102156,Pinecrest Logistics,2026-08-23,Rejected
+T502610,L102156,Harbor Point Haulers,2026-08-23,Rejected
+T502611,L102156,Ridgeline Freight,2026-08-23,Accepted
+T502612,L102157,Summit Road Lines,2026-08-22,Accepted
+T502613,L102158,Copperline Carriers,2026-08-23,Accepted
+T502614,L102159,Pinecrest Logistics,2026-08-24,Accepted
+T502615,L102160,Copperline Carriers,2026-08-24,Rejected
+T502616,L102160,Harbor Point Haulers,2026-08-24,Accepted
+T502617,L102161,Lakeshore Express,2026-08-24,Accepted
+T502618,L102162,Blue Heron Transport,2026-08-22,Accepted
+T502619,L102163,Blue Heron Transport,2026-08-23,Accepted
+T502620,L102164,Harbor Point Haulers,2026-08-24,Accepted
+T502621,L102165,Ridgeline Freight,2026-08-24,Accepted
+T502622,L102166,Lakeshore Express,2026-08-24,Accepted
+T502623,L102167,Copperline Carriers,2026-08-23,Rejected
+T502624,L102167,Ironwood Trucking,2026-08-23,Accepted
+T502625,L102168,Pinecrest Logistics,2026-08-25,Accepted
+T502626,L102169,Harbor Point Haulers,2026-08-24,Rejected
+T502627,L102169,Ironwood Trucking,2026-08-24,Accepted
+T502628,L102170,Harbor Point Haulers,2026-08-23,Accepted
+T502629,L102171,Blue Heron Transport,2026-08-24,Accepted
+T502630,L102172,Blue Heron Transport,2026-08-24,Accepted
+T502631,L102173,Pinecrest Logistics,2026-08-23,Rejected
+T502632,L102173,Ridgeline Freight,2026-08-23,Accepted
+T502633,L102174,Harbor Point Haulers,2026-08-25,Rejected
+T502634,L102174,Lakeshore Express,2026-08-25,Accepted
+T502635,L102175,Copperline Carriers,2026-08-25,Accepted
+T502636,L102176,Harbor Point Haulers,2026-08-23,Accepted
+T502637,L102177,Copperline Carriers,2026-08-24,Accepted
+T502638,L102178,Pinecrest Logistics,2026-08-24,Accepted
+T502639,L102179,Summit Road Lines,2026-08-26,Accepted
+T502640,L102180,Lakeshore Express,2026-08-25,Accepted
+T502641,L102181,Copperline Carriers,2026-08-25,Accepted
+T502642,L102182,Lakeshore Express,2026-08-26,Rejected
+T502643,L102182,Ridgeline Freight,2026-08-26,Accepted
+T502644,L102183,Copperline Carriers,2026-08-25,Accepted
+T502645,L102184,Ridgeline Freight,2026-08-25,Accepted
+T502646,L102185,Harbor Point Haulers,2026-08-25,Accepted
+T502647,L102186,Harbor Point Haulers,2026-08-26,Accepted
+T502648,L102187,Blue Heron Transport,2026-08-25,Rejected
+T502649,L102187,Ridgeline Freight,2026-08-25,Accepted
+T502650,L102188,Copperline Carriers,2026-08-24,Accepted
+T502651,L102189,Summit Road Lines,2026-08-25,Accepted
+T502652,L102190,Ironwood Trucking,2026-08-26,Accepted
+T502653,L102191,Pinecrest Logistics,2026-08-26,Accepted
+T502654,L102192,Copperline Carriers,2026-08-26,Accepted
+T502655,L102193,Lakeshore Express,2026-08-25,Accepted
+T502656,L102194,Pinecrest Logistics,2026-08-25,Accepted
+T502657,L102195,Lakeshore Express,2026-08-25,Accepted
+T502658,L102196,Ridgeline Freight,2026-08-27,Accepted
+T502659,L102197,Pinecrest Logistics,2026-08-27,Accepted
+T502660,L102198,Harbor Point Haulers,2026-08-27,Rejected
+T502661,L102198,Copperline Carriers,2026-08-27,Accepted
+T502662,L102199,Copperline Carriers,2026-08-27,Accepted
+T502663,L102200,Ridgeline Freight,2026-08-27,Accepted
+T502664,L102201,Ridgeline Freight,2026-08-25,Accepted
+T502665,L102202,Blue Heron Transport,2026-08-27,Rejected
+T502666,L102202,Lakeshore Express,2026-08-27,Accepted
+T502667,L102203,Lakeshore Express,2026-08-27,Rejected
+T502668,L102203,Blue Heron Transport,2026-08-27,Accepted
+T502669,L102204,Harbor Point Haulers,2026-08-25,Accepted
+T502670,L102205,Ironwood Trucking,2026-08-25,Accepted
+T502671,L102206,Summit Road Lines,2026-08-25,Accepted
+T502672,L102207,Ironwood Trucking,2026-08-27,Accepted
+T502673,L102208,Harbor Point Haulers,2026-08-28,Rejected
+T502674,L102208,Ridgeline Freight,2026-08-28,Accepted
+T502675,L102209,Copperline Carriers,2026-08-29,Accepted
+T502676,L102210,Copperline Carriers,2026-08-29,Accepted
+T502677,L102211,Harbor Point Haulers,2026-08-28,Accepted
+T502678,L102212,Pinecrest Logistics,2026-08-29,Rejected
+T502679,L102212,Blue Heron Transport,2026-08-29,Accepted
+T502680,L102213,Harbor Point Haulers,2026-08-28,Accepted
+T502681,L102214,Blue Heron Transport,2026-08-28,Accepted
+T502682,L102215,Copperline Carriers,2026-08-28,Rejected
+T502683,L102215,Summit Road Lines,2026-08-28,Accepted
+T502684,L102216,Pinecrest Logistics,2026-08-29,Accepted
+T502685,L102217,Lakeshore Express,2026-08-29,Accepted
+T502686,L102218,Lakeshore Express,2026-08-28,Rejected
+T502687,L102218,Summit Road Lines,2026-08-28,Accepted
+T502688,L102219,Copperline Carriers,2026-08-29,Accepted
+T502689,L102220,Ridgeline Freight,2026-08-30,Accepted
+T502690,L102221,Ironwood Trucking,2026-08-29,Rejected
+T502691,L102221,Ridgeline Freight,2026-08-29,Rejected
+T502692,L102221,Blue Heron Transport,2026-08-29,Accepted
+T502693,L102222,Copperline Carriers,2026-08-30,Accepted
+T502694,L102223,Summit Road Lines,2026-08-28,Accepted
+T502695,L102224,Ridgeline Freight,2026-08-30,Accepted
+T502696,L102225,Pinecrest Logistics,2026-08-31,Rejected
+T502697,L102225,Blue Heron Transport,2026-08-31,Accepted
+T502698,L102226,Ironwood Trucking,2026-08-30,Rejected
+T502699,L102226,Summit Road Lines,2026-08-30,Accepted
+T502700,L102227,Ridgeline Freight,2026-08-29,Accepted
+T502701,L102228,Lakeshore Express,2026-08-31,Accepted
+T502702,L102229,Copperline Carriers,2026-08-29,Accepted
+T502703,L102230,Ironwood Trucking,2026-08-30,Accepted
+T502704,L102231,Copperline Carriers,2026-08-29,Accepted
+T502705,L102232,Copperline Carriers,2026-08-31,Accepted
+T502706,L102233,Copperline Carriers,2026-08-31,Accepted
+T502707,L102234,Ridgeline Freight,2026-08-29,Accepted
+T502708,L102235,Ironwood Trucking,2026-08-30,Accepted
+T502709,L102236,Copperline Carriers,2026-08-30,Accepted
+T502710,L102237,Ridgeline Freight,2026-08-30,Accepted
+T502711,L102238,Summit Road Lines,2026-09-01,Accepted
+T502712,L102239,Ridgeline Freight,2026-08-30,Accepted
+T502713,L102240,Pinecrest Logistics,2026-08-30,Accepted
+T502714,L102241,Blue Heron Transport,2026-08-30,Accepted
+T502715,L102242,Copperline Carriers,2026-08-31,Accepted
+T502716,L102243,Harbor Point Haulers,2026-08-30,Rejected
+T502717,L102243,Blue Heron Transport,2026-08-30,Accepted
+T502718,L102244,Ironwood Trucking,2026-08-31,Rejected
+T502719,L102244,Summit Road Lines,2026-08-31,Accepted
+T502720,L102245,Pinecrest Logistics,2026-08-30,Accepted
+T502721,L102246,Summit Road Lines,2026-09-01,Accepted
+T502722,L102247,Blue Heron Transport,2026-08-30,Accepted
+T502723,L102248,Copperline Carriers,2026-08-30,Accepted
+T502724,L102249,Summit Road Lines,2026-08-31,Accepted
+T502725,L102250,Ironwood Trucking,2026-08-30,Accepted
+T502726,L102251,Pinecrest Logistics,2026-09-02,Accepted
+T502727,L102252,Copperline Carriers,2026-09-01,Accepted
+T502728,L102253,Ridgeline Freight,2026-09-01,Accepted
+T502729,L102254,Summit Road Lines,2026-09-01,Accepted
+T502730,L102255,Ridgeline Freight,2026-08-31,Accepted
+T502731,L102256,Lakeshore Express,2026-09-02,Accepted
+T502732,L102257,Summit Road Lines,2026-08-31,Accepted
+T502733,L102258,Ridgeline Freight,2026-09-02,Accepted
+T502734,L102259,Ironwood Trucking,2026-09-01,Accepted
+T502735,L102260,Blue Heron Transport,2026-08-31,Accepted
+T502736,L102261,Summit Road Lines,2026-09-02,Accepted
+T502737,L102262,Harbor Point Haulers,2026-08-31,Rejected
+T502738,L102262,Ironwood Trucking,2026-08-31,Rejected
+T502739,L102262,Copperline Carriers,2026-08-31,Accepted
+T502740,L102263,Summit Road Lines,2026-09-03,Accepted
+T502741,L102264,Ironwood Trucking,2026-09-03,Accepted
+T502742,L102265,Summit Road Lines,2026-09-02,Accepted
+T502743,L102266,Harbor Point Haulers,2026-09-02,Rejected
+T502744,L102266,Copperline Carriers,2026-09-02,Accepted
+T502745,L102267,Blue Heron Transport,2026-09-03,Accepted
+T502746,L102268,Copperline Carriers,2026-09-02,Accepted
+T502747,L102269,Copperline Carriers,2026-09-03,Accepted
+T502748,L102270,Lakeshore Express,2026-09-01,Accepted
+T502749,L102271,Ridgeline Freight,2026-09-03,Accepted
+T502750,L102272,Summit Road Lines,2026-09-03,Accepted
+T502751,L102273,Pinecrest Logistics,2026-09-02,Rejected
+T502752,L102273,Lakeshore Express,2026-09-02,Accepted
+T502753,L102274,Summit Road Lines,2026-09-06,Accepted
+T502754,L102275,Summit Road Lines,2026-09-04,Rejected
+T502755,L102275,Pinecrest Logistics,2026-09-04,Accepted
+T502756,L102276,Ridgeline Freight,2026-09-06,Accepted
+T502757,L102277,Ridgeline Freight,2026-09-06,Accepted
+T502758,L102278,Summit Road Lines,2026-09-06,Accepted
+T502759,L102279,Blue Heron Transport,2026-09-04,Accepted
+T502760,L102280,Copperline Carriers,2026-09-04,Accepted
+T502761,L102281,Summit Road Lines,2026-09-04,Accepted
+T502762,L102282,Ridgeline Freight,2026-09-05,Rejected
+T502763,L102282,Pinecrest Logistics,2026-09-05,Accepted
+T502764,L102283,Lakeshore Express,2026-09-05,Accepted
+T502765,L102284,Pinecrest Logistics,2026-09-04,Rejected
+T502766,L102284,Lakeshore Express,2026-09-04,Accepted
+T502767,L102285,Pinecrest Logistics,2026-09-04,Rejected
+T502768,L102285,Harbor Point Haulers,2026-09-04,Accepted
+T502769,L102286,Lakeshore Express,2026-09-04,Accepted
+T502770,L102287,Harbor Point Haulers,2026-09-06,Accepted
+T502771,L102288,Ridgeline Freight,2026-09-07,Accepted
+T502772,L102289,Blue Heron Transport,2026-09-06,Accepted
+T502773,L102290,Blue Heron Transport,2026-09-05,Accepted
+T502774,L102291,Harbor Point Haulers,2026-09-07,Rejected
+T502775,L102291,Copperline Carriers,2026-09-07,Rejected
+T502776,L102291,Lakeshore Express,2026-09-07,Accepted
+T502777,L102292,Blue Heron Transport,2026-09-05,Accepted
+T502778,L102293,Harbor Point Haulers,2026-09-05,Rejected
+T502779,L102293,Summit Road Lines,2026-09-05,Accepted
+T502780,L102294,Ironwood Trucking,2026-09-05,Accepted
+T502781,L102295,Ridgeline Freight,2026-09-06,Accepted
+T502782,L102296,Ridgeline Freight,2026-09-05,Accepted
+T502783,L102297,Pinecrest Logistics,2026-09-06,Accepted
+T502784,L102298,Pinecrest Logistics,2026-09-06,Accepted
+T502785,L102299,Copperline Carriers,2026-09-05,Accepted
+T502786,L102300,Blue Heron Transport,2026-09-07,Accepted
+T502787,L102301,Pinecrest Logistics,2026-09-05,Accepted
+T502788,L102302,Ironwood Trucking,2026-09-06,Accepted
+T502789,L102303,Pinecrest Logistics,2026-09-07,Accepted
+T502790,L102304,Harbor Point Haulers,2026-09-08,Accepted
+T502791,L102305,Blue Heron Transport,2026-09-07,Accepted
+T502792,L102306,Lakeshore Express,2026-09-07,Accepted
+T502793,L102307,Summit Road Lines,2026-09-08,Accepted
+T502794,L102308,Summit Road Lines,2026-09-08,Rejected
+T502795,L102308,Harbor Point Haulers,2026-09-08,Accepted
+T502796,L102309,Copperline Carriers,2026-09-07,Accepted
+T502797,L102310,Harbor Point Haulers,2026-09-06,Accepted
+T502798,L102311,Pinecrest Logistics,2026-09-06,Accepted
+T502799,L102312,Blue Heron Transport,2026-09-06,Accepted
+T502800,L102313,Copperline Carriers,2026-09-09,Accepted
+T502801,L102314,Blue Heron Transport,2026-09-08,Accepted
+T502802,L102315,Ridgeline Freight,2026-09-09,Accepted
+T502803,L102316,Ridgeline Freight,2026-09-09,Accepted
+T502804,L102317,Copperline Carriers,2026-09-09,Accepted
+T502805,L102318,Harbor Point Haulers,2026-09-09,Accepted
+T502806,L102319,Copperline Carriers,2026-09-07,Accepted
+T502807,L102320,Blue Heron Transport,2026-09-09,Accepted
+T502808,L102321,Ironwood Trucking,2026-09-08,Accepted
+T502809,L102322,Summit Road Lines,2026-09-07,Accepted
+T502810,L102323,Lakeshore Express,2026-09-09,Accepted
+T502811,L102324,Lakeshore Express,2026-09-08,Rejected
+T502812,L102324,Blue Heron Transport,2026-09-08,Accepted
+T502813,L102325,Harbor Point Haulers,2026-09-09,Accepted
+T502814,L102326,Lakeshore Express,2026-09-08,Accepted
+T502815,L102327,Pinecrest Logistics,2026-09-10,Accepted
+T502816,L102328,Harbor Point Haulers,2026-09-08,Accepted
+T502817,L102329,Blue Heron Transport,2026-09-10,Accepted
+T502818,L102330,Summit Road Lines,2026-09-09,Rejected
+T502819,L102330,Blue Heron Transport,2026-09-09,Accepted
+T502820,L102331,Pinecrest Logistics,2026-09-08,Rejected
+T502821,L102331,Summit Road Lines,2026-09-08,Accepted
+T502822,L102332,Ridgeline Freight,2026-09-10,Rejected
+T502823,L102332,Blue Heron Transport,2026-09-10,Rejected
+T502824,L102332,Copperline Carriers,2026-09-10,Accepted
+T502825,L102333,Harbor Point Haulers,2026-09-10,Accepted
+T502826,L102334,Ironwood Trucking,2026-09-08,Accepted
+T502827,L102335,Ironwood Trucking,2026-09-08,Accepted
+T502828,L102336,Lakeshore Express,2026-09-08,Rejected
+T502829,L102336,Summit Road Lines,2026-09-08,Accepted
+T502830,L102337,Blue Heron Transport,2026-09-09,Accepted
+T502831,L102338,Ridgeline Freight,2026-09-08,Accepted
+T502832,L102339,Lakeshore Express,2026-09-08,Accepted
+T502833,L102340,Harbor Point Haulers,2026-09-11,Accepted
+T502834,L102341,Copperline Carriers,2026-09-13,Accepted
+T502835,L102342,Ironwood Trucking,2026-09-13,Accepted
+T502836,L102343,Lakeshore Express,2026-09-12,Accepted
+T502837,L102344,Ironwood Trucking,2026-09-11,Accepted
+T502838,L102345,Summit Road Lines,2026-09-11,Accepted
+T502839,L102346,Copperline Carriers,2026-09-13,Accepted
+T502840,L102347,Lakeshore Express,2026-09-12,Accepted
+T502841,L102348,Pinecrest Logistics,2026-09-11,Accepted
+T502842,L102349,Blue Heron Transport,2026-09-13,Accepted
+T502843,L102350,Ironwood Trucking,2026-09-12,Accepted
+T502844,L102351,Ridgeline Freight,2026-09-13,Accepted
+T502845,L102352,Ridgeline Freight,2026-09-13,Accepted
+T502846,L102353,Pinecrest Logistics,2026-09-11,Accepted
+T502847,L102354,Blue Heron Transport,2026-09-14,Accepted
+T502848,L102355,Ironwood Trucking,2026-09-13,Rejected
+T502849,L102355,Lakeshore Express,2026-09-13,Rejected
+T502850,L102355,Pinecrest Logistics,2026-09-13,Accepted
+T502851,L102356,Ridgeline Freight,2026-09-13,Rejected
+T502852,L102356,Lakeshore Express,2026-09-13,Accepted
+T502853,L102357,Blue Heron Transport,2026-09-12,Accepted
+T502854,L102358,Summit Road Lines,2026-09-12,Accepted
+T502855,L102359,Copperline Carriers,2026-09-14,Accepted
+T502856,L102360,Ironwood Trucking,2026-09-14,Accepted
+T502857,L102361,Ridgeline Freight,2026-09-13,Accepted
+T502858,L102362,Blue Heron Transport,2026-09-13,Accepted
+T502859,L102363,Blue Heron Transport,2026-09-13,Accepted
+T502860,L102364,Ridgeline Freight,2026-09-14,Accepted
+T502861,L102365,Ironwood Trucking,2026-09-14,Rejected
+T502862,L102365,Pinecrest Logistics,2026-09-14,Accepted
+T502863,L102366,Summit Road Lines,2026-09-12,Accepted
+T502864,L102367,Ridgeline Freight,2026-09-13,Accepted
+T502865,L102368,Ridgeline Freight,2026-09-14,Accepted
+T502866,L102369,Harbor Point Haulers,2026-09-14,Accepted
+T502867,L102370,Blue Heron Transport,2026-09-14,Accepted
+T502868,L102371,Harbor Point Haulers,2026-09-13,Accepted
+T502869,L102372,Harbor Point Haulers,2026-09-15,Accepted
+T502870,L102373,Ridgeline Freight,2026-09-13,Accepted
+T502871,L102374,Ridgeline Freight,2026-09-14,Accepted
+T502872,L102375,Pinecrest Logistics,2026-09-14,Accepted
+T502873,L102376,Blue Heron Transport,2026-09-14,Accepted
+T502874,L102377,Copperline Carriers,2026-09-13,Accepted
+T502875,L102378,Lakeshore Express,2026-09-13,Rejected
+T502876,L102378,Ironwood Trucking,2026-09-13,Rejected
+T502877,L102378,Blue Heron Transport,2026-09-13,Rejected
+T502878,L102378,Ridgeline Freight,2026-09-13,Accepted
+T502879,L102379,Pinecrest Logistics,2026-09-15,Rejected
+T502880,L102379,Ironwood Trucking,2026-09-15,Accepted
+T502881,L102380,Harbor Point Haulers,2026-09-13,Accepted
+T502882,L102381,Summit Road Lines,2026-09-15,Accepted
+T502883,L102382,Blue Heron Transport,2026-09-15,Accepted
+T502884,L102383,Ridgeline Freight,2026-09-13,Accepted
+T502885,L102384,Pinecrest Logistics,2026-09-15,Accepted
+T502886,L102385,Ridgeline Freight,2026-09-15,Accepted
+T502887,L102386,Harbor Point Haulers,2026-09-14,Accepted
+T502888,L102387,Summit Road Lines,2026-09-14,Accepted
+T502889,L102388,Lakeshore Express,2026-09-16,Rejected
+T502890,L102388,Blue Heron Transport,2026-09-16,Accepted
+T502891,L102389,Lakeshore Express,2026-09-16,Accepted
+T502892,L102390,Ironwood Trucking,2026-09-14,Accepted
+T502893,L102391,Copperline Carriers,2026-09-16,Accepted
+T502894,L102392,Blue Heron Transport,2026-09-15,Rejected
+T502895,L102392,Ridgeline Freight,2026-09-15,Rejected
+T502896,L102392,Lakeshore Express,2026-09-15,Accepted
+T502897,L102393,Lakeshore Express,2026-09-15,Rejected
+T502898,L102393,Ridgeline Freight,2026-09-15,Accepted
+T502899,L102394,Lakeshore Express,2026-09-15,Rejected
+T502900,L102394,Harbor Point Haulers,2026-09-15,Accepted
+T502901,L102395,Blue Heron Transport,2026-09-15,Accepted
+T502902,L102396,Copperline Carriers,2026-09-17,Accepted
+T502903,L102397,Blue Heron Transport,2026-09-17,Rejected
+T502904,L102397,Copperline Carriers,2026-09-17,Accepted
+T502905,L102398,Summit Road Lines,2026-09-15,Accepted
+T502906,L102399,Ridgeline Freight,2026-09-15,Accepted
+T502907,L102400,Copperline Carriers,2026-09-16,Accepted
+T502908,L102401,Summit Road Lines,2026-09-15,Accepted
+T502909,L102402,Lakeshore Express,2026-09-15,Accepted
+T502910,L102403,Pinecrest Logistics,2026-09-17,Accepted
+T502911,L102404,Ironwood Trucking,2026-09-17,Accepted
+T502912,L102405,Summit Road Lines,2026-09-15,Accepted
+T502913,L102406,Pinecrest Logistics,2026-09-16,Rejected
+T502914,L102406,Lakeshore Express,2026-09-16,Rejected
+T502915,L102406,Summit Road Lines,2026-09-16,Accepted
+T502916,L102407,Summit Road Lines,2026-09-15,Accepted
+T502917,L102408,Summit Road Lines,2026-09-17,Rejected
+T502918,L102408,Pinecrest Logistics,2026-09-17,Rejected
+T502919,L102408,Ridgeline Freight,2026-09-17,Accepted
+T502920,L102409,Summit Road Lines,2026-09-15,Accepted
+T502921,L102410,Harbor Point Haulers,2026-09-16,Accepted
+T502922,L102411,Lakeshore Express,2026-09-18,Accepted
+T502923,L102412,Summit Road Lines,2026-09-20,Accepted
+T502924,L102413,Lakeshore Express,2026-09-18,Rejected
+T502925,L102413,Pinecrest Logistics,2026-09-18,Accepted
+T502926,L102414,Lakeshore Express,2026-09-18,Accepted
+T502927,L102415,Blue Heron Transport,2026-09-20,Rejected
+T502928,L102415,Ironwood Trucking,2026-09-20,Accepted
+T502929,L102416,Ridgeline Freight,2026-09-19,Accepted
+T502930,L102417,Pinecrest Logistics,2026-09-19,Accepted
+T502931,L102418,Copperline Carriers,2026-09-18,Accepted
+T502932,L102419,Ironwood Trucking,2026-09-18,Accepted
+T502933,L102420,Summit Road Lines,2026-09-18,Rejected
+T502934,L102420,Lakeshore Express,2026-09-18,Rejected
+T502935,L102420,Copperline Carriers,2026-09-18,Accepted
+T502936,L102421,Harbor Point Haulers,2026-09-19,Accepted
+T502937,L102422,Summit Road Lines,2026-09-18,Accepted
+T502938,L102423,Ironwood Trucking,2026-09-20,Accepted
+T502939,L102424,Blue Heron Transport,2026-09-20,Accepted
+T502940,L102425,Ironwood Trucking,2026-09-19,Accepted
+T502941,L102426,Ridgeline Freight,2026-09-21,Accepted
+T502942,L102427,Lakeshore Express,2026-09-20,Rejected
+T502943,L102427,Harbor Point Haulers,2026-09-20,Accepted
+T502944,L102428,Summit Road Lines,2026-09-21,Accepted
+T502945,L102429,Lakeshore Express,2026-09-19,Rejected
+T502946,L102429,Ironwood Trucking,2026-09-19,Accepted
+T502947,L102430,Harbor Point Haulers,2026-09-21,Accepted
+T502948,L102431,Ridgeline Freight,2026-09-20,Rejected
+T502949,L102431,Blue Heron Transport,2026-09-20,Accepted
+T502950,L102432,Blue Heron Transport,2026-09-20,Accepted
+T502951,L102433,Ridgeline Freight,2026-09-21,Accepted
+T502952,L102434,Summit Road Lines,2026-09-20,Accepted
+T502953,L102435,Ridgeline Freight,2026-09-21,Accepted
+T502954,L102436,Ironwood Trucking,2026-09-21,Accepted
+T502955,L102437,Ridgeline Freight,2026-09-19,Rejected
+T502956,L102437,Pinecrest Logistics,2026-09-19,Accepted
+T502957,L102438,Ironwood Trucking,2026-09-21,Accepted
+T502958,L102439,Lakeshore Express,2026-09-21,Accepted
+T502959,L102440,Copperline Carriers,2026-09-21,Rejected
+T502960,L102440,Lakeshore Express,2026-09-21,Accepted
+T502961,L102441,Ironwood Trucking,2026-09-20,Accepted
+T502962,L102442,Ridgeline Freight,2026-09-20,Accepted
+T502963,L102443,Harbor Point Haulers,2026-09-20,Accepted
+T502964,L102444,Copperline Carriers,2026-09-21,Accepted
+T502965,L102445,Summit Road Lines,2026-09-20,Accepted
+T502966,L102446,Lakeshore Express,2026-09-22,Accepted
+T502967,L102447,Harbor Point Haulers,2026-09-21,Accepted
+T502968,L102448,Pinecrest Logistics,2026-09-20,Accepted
+T502969,L102449,Harbor Point Haulers,2026-09-20,Accepted
+T502970,L102450,Ironwood Trucking,2026-09-21,Accepted
+T502971,L102451,Harbor Point Haulers,2026-09-20,Accepted
+T502972,L102452,Ridgeline Freight,2026-09-22,Accepted
+T502973,L102453,Ridgeline Freight,2026-09-22,Accepted
+T502974,L102454,Ridgeline Freight,2026-09-22,Accepted
+T502975,L102455,Copperline Carriers,2026-09-23,Accepted
+T502976,L102456,Ridgeline Freight,2026-09-21,Rejected
+T502977,L102456,Harbor Point Haulers,2026-09-21,Accepted
+T502978,L102457,Blue Heron Transport,2026-09-22,Accepted
+T502979,L102458,Pinecrest Logistics,2026-09-22,Accepted
+T502980,L102459,Pinecrest Logistics,2026-09-22,Rejected
+T502981,L102459,Harbor Point Haulers,2026-09-22,Accepted
+T502982,L102460,Summit Road Lines,2026-09-21,Accepted
+T502983,L102461,Ridgeline Freight,2026-09-23,Accepted
+T502984,L102462,Pinecrest Logistics,2026-09-22,Rejected
+T502985,L102462,Harbor Point Haulers,2026-09-22,Accepted
+T502986,L102463,Lakeshore Express,2026-09-23,Accepted
+T502987,L102464,Ridgeline Freight,2026-09-23,Accepted
+T502988,L102465,Ridgeline Freight,2026-09-23,Rejected
+T502989,L102465,Summit Road Lines,2026-09-23,Rejected
+T502990,L102465,Pinecrest Logistics,2026-09-23,Rejected
+T502991,L102465,Harbor Point Haulers,2026-09-23,Rejected
+T502992,L102465,Copperline Carriers,2026-09-23,Accepted
+T502993,L102466,Lakeshore Express,2026-09-22,Rejected
+T502994,L102466,Summit Road Lines,2026-09-22,Accepted
+T502995,L102467,Copperline Carriers,2026-09-23,Accepted
+T502996,L102468,Blue Heron Transport,2026-09-23,Rejected
+T502997,L102468,Ridgeline Freight,2026-09-23,Accepted
+T502998,L102469,Ironwood Trucking,2026-09-23,Accepted
+T502999,L102470,Lakeshore Express,2026-09-22,Accepted
+T503000,L102471,Pinecrest Logistics,2026-09-24,Accepted
+T503001,L102472,Ridgeline Freight,2026-09-22,Accepted
+T503002,L102473,Ridgeline Freight,2026-09-24,Accepted
+T503003,L102474,Ironwood Trucking,2026-09-22,Accepted
+T503004,L102475,Blue Heron Transport,2026-09-22,Accepted
+T503005,L102476,Pinecrest Logistics,2026-09-24,Rejected
+T503006,L102476,Ironwood Trucking,2026-09-24,Accepted
+T503007,L102477,Summit Road Lines,2026-09-24,Rejected
+T503008,L102477,Ridgeline Freight,2026-09-24,Accepted
+T503009,L102478,Copperline Carriers,2026-09-22,Rejected
+T503010,L102478,Pinecrest Logistics,2026-09-22,Accepted
+T503011,L102479,Copperline Carriers,2026-09-23,Accepted
+T503012,L102480,Copperline Carriers,2026-09-27,Accepted
+T503013,L102481,Summit Road Lines,2026-09-27,Accepted
+T503014,L102482,Lakeshore Express,2026-09-26,Accepted
+T503015,L102483,Blue Heron Transport,2026-09-27,Accepted
+T503016,L102484,Ridgeline Freight,2026-09-25,Accepted
+T503017,L102485,Ridgeline Freight,2026-09-27,Accepted
+T503018,L102486,Blue Heron Transport,2026-09-27,Accepted
+T503019,L102487,Pinecrest Logistics,2026-09-25,Accepted
+T503020,L102488,Lakeshore Express,2026-09-25,Accepted
+T503021,L102489,Ridgeline Freight,2026-09-26,Accepted
+T503022,L102490,Ridgeline Freight,2026-09-26,Accepted
+T503023,L102491,Copperline Carriers,2026-09-28,Accepted
+T503024,L102492,Summit Road Lines,2026-09-26,Accepted
+T503025,L102493,Blue Heron Transport,2026-09-26,Accepted
+T503026,L102494,Lakeshore Express,2026-09-28,Accepted
+T503027,L102495,Copperline Carriers,2026-09-26,Accepted
+T503028,L102496,Summit Road Lines,2026-09-26,Accepted
+T503029,L102497,Blue Heron Transport,2026-09-28,Accepted
+T503030,L102498,Summit Road Lines,2026-09-27,Accepted
+T503031,L102499,Ridgeline Freight,2026-09-28,Accepted
+T503032,L102500,Ironwood Trucking,2026-09-28,Rejected
+T503033,L102500,Copperline Carriers,2026-09-28,Accepted
+T503034,L102501,Summit Road Lines,2026-09-28,Accepted
+T503035,L102502,Blue Heron Transport,2026-09-28,Accepted
+T503036,L102503,Summit Road Lines,2026-09-28,Accepted
+T503037,L102504,Ridgeline Freight,2026-09-29,Accepted
+T503038,L102505,Lakeshore Express,2026-09-27,Accepted
+T503039,L102506,Ironwood Trucking,2026-09-27,Accepted
+T503040,L102507,Pinecrest Logistics,2026-09-29,Rejected
+T503041,L102507,Ridgeline Freight,2026-09-29,Accepted
+T503042,L102508,Blue Heron Transport,2026-09-28,Accepted
+T503043,L102509,Blue Heron Transport,2026-09-27,Accepted
+T503044,L102510,Harbor Point Haulers,2026-09-27,Accepted
+T503045,L102511,Lakeshore Express,2026-09-29,Rejected
+T503046,L102511,Harbor Point Haulers,2026-09-29,Rejected
+T503047,L102511,Ridgeline Freight,2026-09-29,Accepted
+T503048,L102512,Ironwood Trucking,2026-09-29,Rejected
+T503049,L102512,Lakeshore Express,2026-09-29,Accepted
+T503050,L102513,Ridgeline Freight,2026-09-27,Accepted
+T503051,L102514,Blue Heron Transport,2026-09-28,Rejected
+T503052,L102514,Lakeshore Express,2026-09-28,Accepted
+T503053,L102515,Ironwood Trucking,2026-09-29,Rejected
+T503054,L102515,Harbor Point Haulers,2026-09-29,Accepted
+T503055,L102516,Lakeshore Express,2026-09-28,Rejected
+T503056,L102516,Harbor Point Haulers,2026-09-28,Rejected
+T503057,L102516,Blue Heron Transport,2026-09-28,Rejected
+T503058,L102516,Copperline Carriers,2026-09-28,Accepted
+T503059,L102517,Harbor Point Haulers,2026-09-28,Accepted
+T503060,L102518,Ridgeline Freight,2026-09-28,Accepted
+T503061,L102519,Pinecrest Logistics,2026-09-28,Accepted
+T503062,L102520,Summit Road Lines,2026-09-28,Rejected
+T503063,L102520,Blue Heron Transport,2026-09-28,Rejected
+T503064,L102520,Harbor Point Haulers,2026-09-28,Accepted
+T503065,L102521,Pinecrest Logistics,2026-09-30,Accepted
+T503066,L102522,Copperline Carriers,2026-09-29,Accepted
+T503067,L102523,Blue Heron Transport,2026-09-29,Accepted
+T503068,L102524,Ironwood Trucking,2026-09-30,Rejected
+T503069,L102524,Ridgeline Freight,2026-09-30,Accepted
+T503070,L102525,Summit Road Lines,2026-09-28,Accepted
+T503071,L102526,Lakeshore Express,2026-09-30,Accepted
+T503072,L102527,Ridgeline Freight,2026-09-30,Rejected
+T503073,L102527,Ironwood Trucking,2026-09-30,Accepted
+T503074,L102528,Blue Heron Transport,2026-09-30,Accepted
+T503075,L102529,Ironwood Trucking,2026-09-29,Rejected
+T503076,L102529,Blue Heron Transport,2026-09-29,Accepted
+T503077,L102530,Harbor Point Haulers,2026-09-30,Rejected
+T503078,L102530,Pinecrest Logistics,2026-09-30,Accepted
+T503079,L102531,Harbor Point Haulers,2026-09-30,Accepted
+T503080,L102532,Ironwood Trucking,2026-09-30,Accepted
+T503081,L102533,Summit Road Lines,2026-10-01,Rejected
+T503082,L102533,Lakeshore Express,2026-10-01,Rejected
+T503083,L102533,Copperline Carriers,2026-10-01,Accepted
+T503084,L102534,Ridgeline Freight,2026-09-29,Accepted
+T503085,L102535,Blue Heron Transport,2026-09-30,Accepted
+T503086,L102536,Ridgeline Freight,2026-10-01,Accepted
+T503087,L102537,Summit Road Lines,2026-09-29,Accepted
+T503088,L102538,Harbor Point Haulers,2026-09-30,Accepted
+T503089,L102539,Blue Heron Transport,2026-10-01,Accepted
+T503090,L102540,Pinecrest Logistics,2026-10-03,Rejected
+T503091,L102540,Copperline Carriers,2026-10-03,Accepted
+T503092,L102541,Harbor Point Haulers,2026-10-04,Accepted
+T503093,L102542,Blue Heron Transport,2026-10-03,Accepted
+T503094,L102543,Summit Road Lines,2026-10-02,Accepted
+T503095,L102544,Copperline Carriers,2026-10-03,Rejected
+T503096,L102544,Pinecrest Logistics,2026-10-03,Accepted
+T503097,L102545,Ironwood Trucking,2026-10-04,Accepted
+T503098,L102546,Ridgeline Freight,2026-10-04,Accepted
+T503099,L102547,Ironwood Trucking,2026-10-03,Accepted
+T503100,L102548,Blue Heron Transport,2026-10-03,Rejected
+T503101,L102548,Harbor Point Haulers,2026-10-03,Accepted
+T503102,L102549,Harbor Point Haulers,2026-10-03,Accepted
+T503103,L102550,Ridgeline Freight,2026-10-02,Accepted
+T503104,L102551,Blue Heron Transport,2026-10-03,Accepted
+T503105,L102552,Blue Heron Transport,2026-10-04,Accepted
+T503106,L102553,Copperline Carriers,2026-10-03,Accepted
+T503107,L102554,Copperline Carriers,2026-10-05,Accepted
+T503108,L102555,Ridgeline Freight,2026-10-05,Rejected
+T503109,L102555,Copperline Carriers,2026-10-05,Accepted
+T503110,L102556,Ridgeline Freight,2026-10-04,Accepted
+T503111,L102557,Ridgeline Freight,2026-10-04,Accepted
+T503112,L102558,Pinecrest Logistics,2026-10-03,Rejected
+T503113,L102558,Harbor Point Haulers,2026-10-03,Accepted
+T503114,L102559,Summit Road Lines,2026-10-04,Accepted
+T503115,L102560,Ridgeline Freight,2026-10-03,Accepted
+T503116,L102561,Pinecrest Logistics,2026-10-05,Accepted
+T503117,L102562,Ridgeline Freight,2026-10-05,Accepted
+T503118,L102563,Summit Road Lines,2026-10-04,Accepted
+T503119,L102564,Harbor Point Haulers,2026-10-04,Accepted
+T503120,L102565,Pinecrest Logistics,2026-10-04,Accepted
+T503121,L102566,Harbor Point Haulers,2026-10-05,Accepted
+T503122,L102567,Blue Heron Transport,2026-10-06,Accepted
+T503123,L102568,Copperline Carriers,2026-10-06,Accepted
+T503124,L102569,Blue Heron Transport,2026-10-04,Accepted
+T503125,L102570,Ironwood Trucking,2026-10-04,Rejected
+T503126,L102570,Lakeshore Express,2026-10-04,Accepted
+T503127,L102571,Copperline Carriers,2026-10-05,Accepted
+T503128,L102572,Ridgeline Freight,2026-10-04,Accepted
+T503129,L102573,Ridgeline Freight,2026-10-05,Accepted
+T503130,L102574,Ironwood Trucking,2026-10-05,Accepted
+T503131,L102575,Ridgeline Freight,2026-10-06,Accepted
+T503132,L102576,Harbor Point Haulers,2026-10-06,Accepted
+T503133,L102577,Blue Heron Transport,2026-10-06,Accepted
+T503134,L102578,Blue Heron Transport,2026-10-06,Accepted
+T503135,L102579,Summit Road Lines,2026-10-07,Rejected
+T503136,L102579,Ridgeline Freight,2026-10-07,Accepted
+T503137,L102580,Blue Heron Transport,2026-10-06,Accepted
+T503138,L102581,Copperline Carriers,2026-10-07,Accepted
+T503139,L102582,Blue Heron Transport,2026-10-06,Accepted
+T503140,L102583,Ironwood Trucking,2026-10-06,Accepted
+T503141,L102584,Pinecrest Logistics,2026-10-07,Accepted
+T503142,L102585,Ironwood Trucking,2026-10-05,Accepted
+T503143,L102586,Harbor Point Haulers,2026-10-06,Accepted
+T503144,L102587,Copperline Carriers,2026-10-06,Accepted
+T503145,L102588,Ridgeline Freight,2026-10-05,Accepted
+T503146,L102589,Blue Heron Transport,2026-10-05,Accepted
+T503147,L102590,Ironwood Trucking,2026-10-08,Accepted
+T503148,L102591,Copperline Carriers,2026-10-07,Accepted
+T503149,L102592,Blue Heron Transport,2026-10-06,Accepted
+T503150,L102593,Copperline Carriers,2026-10-06,Accepted
+T503151,L102594,Ridgeline Freight,2026-10-07,Accepted
+T503152,L102595,Summit Road Lines,2026-10-07,Accepted
+T503153,L102596,Ridgeline Freight,2026-10-08,Accepted
+T503154,L102597,Blue Heron Transport,2026-10-06,Rejected
+T503155,L102597,Ironwood Trucking,2026-10-06,Accepted
+T503156,L102598,Copperline Carriers,2026-10-08,Accepted
+T503157,L102599,Summit Road Lines,2026-10-06,Accepted
+T503158,L102600,Ironwood Trucking,2026-10-06,Rejected
+T503159,L102600,Harbor Point Haulers,2026-10-06,Accepted
+T503160,L102601,Summit Road Lines,2026-10-08,Accepted
+T503161,L102602,Ironwood Trucking,2026-10-06,Accepted
+T503162,L102603,Ridgeline Freight,2026-10-07,Accepted
+T503163,L102604,Copperline Carriers,2026-10-07,Accepted
+T503164,L102605,Blue Heron Transport,2026-10-06,Accepted
+T503165,L102606,Harbor Point Haulers,2026-10-11,Accepted
+T503166,L102607,Ironwood Trucking,2026-10-11,Accepted
+T503167,L102608,Pinecrest Logistics,2026-10-09,Accepted
+T503168,L102609,Blue Heron Transport,2026-10-09,Accepted
+T503169,L102610,Summit Road Lines,2026-10-10,Accepted
+T503170,L102611,Summit Road Lines,2026-10-10,Accepted
+T503171,L102612,Lakeshore Express,2026-10-09,Rejected
+T503172,L102612,Blue Heron Transport,2026-10-09,Accepted
+T503173,L102613,Summit Road Lines,2026-10-10,Accepted
+T503174,L102614,Ironwood Trucking,2026-10-11,Accepted
+T503175,L102615,Ridgeline Freight,2026-10-11,Rejected
+T503176,L102615,Ironwood Trucking,2026-10-11,Rejected
+T503177,L102615,Blue Heron Transport,2026-10-11,Accepted
+T503178,L102616,Harbor Point Haulers,2026-10-10,Accepted
+T503179,L102617,Summit Road Lines,2026-10-10,Accepted
+T503180,L102618,Ironwood Trucking,2026-10-11,Accepted
+T503181,L102619,Blue Heron Transport,2026-10-10,Accepted
+T503182,L102620,Pinecrest Logistics,2026-10-10,Accepted
+T503183,L102621,Harbor Point Haulers,2026-10-09,Accepted
+T503184,L102622,Pinecrest Logistics,2026-10-12,Accepted
+T503185,L102623,Ironwood Trucking,2026-10-10,Accepted
+T503186,L102624,Copperline Carriers,2026-10-12,Accepted
+T503187,L102625,Copperline Carriers,2026-10-12,Accepted
+T503188,L102626,Blue Heron Transport,2026-10-10,Accepted
+T503189,L102627,Harbor Point Haulers,2026-10-11,Rejected
+T503190,L102627,Ridgeline Freight,2026-10-11,Accepted
+T503191,L102628,Harbor Point Haulers,2026-10-10,Accepted
+T503192,L102629,Ridgeline Freight,2026-10-11,Accepted
+T503193,L102630,Summit Road Lines,2026-10-11,Accepted
+T503194,L102631,Lakeshore Express,2026-10-12,Rejected
+T503195,L102631,Ironwood Trucking,2026-10-12,Accepted
+T503196,L102632,Harbor Point Haulers,2026-10-11,Accepted
+T503197,L102633,Ridgeline Freight,2026-10-12,Accepted
+T503198,L102634,Harbor Point Haulers,2026-10-12,Accepted
+T503199,L102635,Lakeshore Express,2026-10-11,Accepted
+T503200,L102636,Ironwood Trucking,2026-10-12,Rejected
+T503201,L102636,Blue Heron Transport,2026-10-12,Accepted
+T503202,L102637,Ironwood Trucking,2026-10-11,Accepted
+T503203,L102638,Copperline Carriers,2026-10-13,Accepted
+T503204,L102639,Harbor Point Haulers,2026-10-13,Accepted
+T503205,L102640,Copperline Carriers,2026-10-13,Accepted
+T503206,L102641,Pinecrest Logistics,2026-10-12,Accepted
+T503207,L102642,Summit Road Lines,2026-10-13,Accepted
+T503208,L102643,Copperline Carriers,2026-10-12,Accepted
+T503209,L102644,Ridgeline Freight,2026-10-13,Accepted
+T503210,L102645,Ridgeline Freight,2026-10-13,Rejected
+T503211,L102645,Summit Road Lines,2026-10-13,Accepted
+T503212,L102646,Ridgeline Freight,2026-10-11,Accepted
+T503213,L102647,Ridgeline Freight,2026-10-13,Accepted
+T503214,L102648,Blue Heron Transport,2026-10-12,Accepted
+T503215,L102649,Pinecrest Logistics,2026-10-12,Rejected
+T503216,L102649,Harbor Point Haulers,2026-10-12,Accepted
+T503217,L102650,Harbor Point Haulers,2026-10-11,Rejected
+T503218,L102650,Summit Road Lines,2026-10-11,Accepted
+T503219,L102651,Blue Heron Transport,2026-10-11,Accepted
+T503220,L102652,Ironwood Trucking,2026-10-11,Accepted
+T503221,L102653,Pinecrest Logistics,2026-10-13,Accepted
+T503222,L102654,Pinecrest Logistics,2026-10-12,Accepted
+T503223,L102655,Copperline Carriers,2026-10-12,Accepted
+T503224,L102656,Copperline Carriers,2026-10-13,Accepted
+T503225,L102657,Pinecrest Logistics,2026-10-12,Accepted
+T503226,L102658,Pinecrest Logistics,2026-10-14,Accepted
+T503227,L102659,Blue Heron Transport,2026-10-12,Accepted
+T503228,L102660,Copperline Carriers,2026-10-12,Accepted
+T503229,L102661,Ironwood Trucking,2026-10-14,Accepted
+T503230,L102662,Copperline Carriers,2026-10-12,Accepted
+T503231,L102663,Blue Heron Transport,2026-10-13,Accepted
+T503232,L102664,Ridgeline Freight,2026-10-14,Accepted
+T503233,L102665,Copperline Carriers,2026-10-13,Accepted
+T503234,L102666,Harbor Point Haulers,2026-10-14,Accepted
+T503235,L102667,Lakeshore Express,2026-10-15,Accepted
+T503236,L102668,Copperline Carriers,2026-10-14,Accepted
+T503237,L102669,Summit Road Lines,2026-10-14,Accepted
+T503238,L102670,Copperline Carriers,2026-10-14,Accepted
+T503239,L102671,Copperline Carriers,2026-10-13,Accepted
+T503240,L102672,Blue Heron Transport,2026-10-13,Accepted
+T503241,L102673,Ridgeline Freight,2026-10-13,Accepted
+T503242,L102674,Ridgeline Freight,2026-10-13,Accepted
+T503243,L102675,Copperline Carriers,2026-10-14,Accepted
+T503244,L102676,Summit Road Lines,2026-10-18,Accepted
+T503245,L102677,Copperline Carriers,2026-10-18,Accepted
+T503246,L102678,Lakeshore Express,2026-10-16,Accepted
+T503247,L102679,Lakeshore Express,2026-10-17,Accepted
+T503248,L102680,Blue Heron Transport,2026-10-16,Accepted
+T503249,L102681,Ridgeline Freight,2026-10-18,Rejected
+T503250,L102681,Lakeshore Express,2026-10-18,Accepted
+T503251,L102682,Ridgeline Freight,2026-10-17,Accepted
+T503252,L102683,Lakeshore Express,2026-10-16,Accepted
+T503253,L102684,Pinecrest Logistics,2026-10-17,Accepted
+T503254,L102685,Ridgeline Freight,2026-10-17,Accepted
+T503255,L102686,Ironwood Trucking,2026-10-18,Rejected
+T503256,L102686,Pinecrest Logistics,2026-10-18,Rejected
+T503257,L102686,Ridgeline Freight,2026-10-18,Accepted
+T503258,L102687,Pinecrest Logistics,2026-10-16,Accepted
+T503259,L102688,Harbor Point Haulers,2026-10-16,Accepted
+T503260,L102689,Lakeshore Express,2026-10-16,Rejected
+T503261,L102689,Ironwood Trucking,2026-10-16,Accepted
+T503262,L102690,Pinecrest Logistics,2026-10-18,Accepted
+T503263,L102691,Pinecrest Logistics,2026-10-16,Accepted
+T503264,L102692,Harbor Point Haulers,2026-10-19,Accepted
+T503265,L102693,Pinecrest Logistics,2026-10-19,Accepted
+T503266,L102694,Copperline Carriers,2026-10-18,Accepted
+T503267,L102695,Copperline Carriers,2026-10-18,Accepted
+T503268,L102696,Lakeshore Express,2026-10-19,Accepted
+T503269,L102697,Summit Road Lines,2026-10-17,Accepted
+T503270,L102698,Blue Heron Transport,2026-10-19,Accepted
+T503271,L102699,Copperline Carriers,2026-10-17,Rejected
+T503272,L102699,Ridgeline Freight,2026-10-17,Accepted
+T503273,L102700,Blue Heron Transport,2026-10-17,Accepted
+T503274,L102701,Pinecrest Logistics,2026-10-19,Accepted
+T503275,L102702,Harbor Point Haulers,2026-10-19,Accepted
+T503276,L102703,Harbor Point Haulers,2026-10-19,Rejected
+T503277,L102703,Blue Heron Transport,2026-10-19,Accepted
+T503278,L102704,Blue Heron Transport,2026-10-19,Accepted
+T503279,L102705,Harbor Point Haulers,2026-10-20,Accepted
+T503280,L102706,Ironwood Trucking,2026-10-20,Accepted
+T503281,L102707,Lakeshore Express,2026-10-20,Rejected
+T503282,L102707,Ridgeline Freight,2026-10-20,Accepted
+T503283,L102708,Ridgeline Freight,2026-10-19,Accepted
+T503284,L102709,Ridgeline Freight,2026-10-18,Accepted
+T503285,L102710,Summit Road Lines,2026-10-18,Accepted
+T503286,L102711,Ridgeline Freight,2026-10-20,Accepted
+T503287,L102712,Summit Road Lines,2026-10-18,Rejected
+T503288,L102712,Blue Heron Transport,2026-10-18,Accepted
+T503289,L102713,Ironwood Trucking,2026-10-19,Accepted
+T503290,L102714,Ridgeline Freight,2026-10-19,Accepted
+T503291,L102715,Summit Road Lines,2026-10-21,Accepted
+T503292,L102716,Blue Heron Transport,2026-10-19,Accepted
+T503293,L102717,Blue Heron Transport,2026-10-20,Accepted
+T503294,L102718,Summit Road Lines,2026-10-20,Accepted
+T503295,L102719,Ridgeline Freight,2026-10-19,Accepted
+T503296,L102720,Copperline Carriers,2026-10-20,Accepted
+T503297,L102721,Harbor Point Haulers,2026-10-20,Accepted
+T503298,L102722,Blue Heron Transport,2026-10-21,Accepted
+T503299,L102723,Copperline Carriers,2026-10-20,Accepted
+T503300,L102724,Lakeshore Express,2026-10-20,Accepted
+T503301,L102725,Lakeshore Express,2026-10-19,Rejected
+T503302,L102725,Ridgeline Freight,2026-10-19,Rejected
+T503303,L102725,Harbor Point Haulers,2026-10-19,Rejected
+T503304,L102725,Summit Road Lines,2026-10-19,Accepted
+T503305,L102726,Summit Road Lines,2026-10-20,Accepted
+T503306,L102727,Pinecrest Logistics,2026-10-20,Accepted
+T503307,L102728,Summit Road Lines,2026-10-22,Accepted
+T503308,L102729,Ironwood Trucking,2026-10-22,Accepted
+T503309,L102730,Lakeshore Express,2026-10-22,Accepted
+T503310,L102731,Lakeshore Express,2026-10-20,Accepted
+T503311,L102732,Lakeshore Express,2026-10-20,Accepted
+T503312,L102733,Ridgeline Freight,2026-10-21,Accepted
+T503313,L102734,Harbor Point Haulers,2026-10-20,Accepted
+T503314,L102735,Lakeshore Express,2026-10-21,Accepted
+T503315,L102736,Harbor Point Haulers,2026-10-21,Accepted
+T503316,L102737,Summit Road Lines,2026-10-21,Accepted
+T503317,L102738,Lakeshore Express,2026-10-20,Rejected
+T503318,L102738,Harbor Point Haulers,2026-10-20,Accepted
+T503319,L102739,Blue Heron Transport,2026-10-21,Accepted
+T503320,L102740,Harbor Point Haulers,2026-10-22,Accepted
+T503321,L102741,Blue Heron Transport,2026-10-20,Rejected
+T503322,L102741,Ridgeline Freight,2026-10-20,Accepted
+T503323,L102742,Copperline Carriers,2026-10-23,Accepted
+T503324,L102743,Pinecrest Logistics,2026-10-25,Accepted
+T503325,L102744,Ridgeline Freight,2026-10-23,Accepted
+T503326,L102745,Copperline Carriers,2026-10-25,Accepted
+T503327,L102746,Lakeshore Express,2026-10-25,Accepted
+T503328,L102747,Pinecrest Logistics,2026-10-24,Rejected
+T503329,L102747,Harbor Point Haulers,2026-10-24,Accepted
+T503330,L102748,Copperline Carriers,2026-10-24,Accepted
+T503331,L102749,Harbor Point Haulers,2026-10-23,Accepted
+T503332,L102750,Lakeshore Express,2026-10-25,Accepted
+T503333,L102751,Summit Road Lines,2026-10-23,Accepted
+T503334,L102752,Pinecrest Logistics,2026-10-23,Accepted
+T503335,L102753,Ridgeline Freight,2026-10-24,Rejected
+T503336,L102753,Pinecrest Logistics,2026-10-24,Accepted
+T503337,L102754,Copperline Carriers,2026-10-23,Accepted
+T503338,L102755,Pinecrest Logistics,2026-10-23,Accepted
+T503339,L102756,Copperline Carriers,2026-10-23,Accepted
+T503340,L102757,Ironwood Trucking,2026-10-24,Accepted
+T503341,L102758,Summit Road Lines,2026-10-24,Accepted
+T503342,L102759,Blue Heron Transport,2026-10-26,Accepted
+T503343,L102760,Copperline Carriers,2026-10-25,Accepted
+T503344,L102761,Ridgeline Freight,2026-10-25,Accepted
+T503345,L102762,Lakeshore Express,2026-10-25,Accepted
+T503346,L102763,Summit Road Lines,2026-10-24,Accepted
+T503347,L102764,Ironwood Trucking,2026-10-26,Rejected
+T503348,L102764,Harbor Point Haulers,2026-10-26,Accepted
+T503349,L102765,Ironwood Trucking,2026-10-24,Accepted
+T503350,L102766,Summit Road Lines,2026-10-26,Accepted
+T503351,L102767,Summit Road Lines,2026-10-26,Rejected
+T503352,L102767,Ridgeline Freight,2026-10-26,Accepted
+T503353,L102768,Harbor Point Haulers,2026-10-26,Accepted
+T503354,L102769,Pinecrest Logistics,2026-10-25,Accepted
+T503355,L102770,Harbor Point Haulers,2026-10-27,Rejected
+T503356,L102770,Copperline Carriers,2026-10-27,Accepted
+T503357,L102771,Lakeshore Express,2026-10-26,Accepted
+T503358,L102772,Ridgeline Freight,2026-10-26,Accepted
+T503359,L102773,Harbor Point Haulers,2026-10-26,Accepted
+T503360,L102774,Ridgeline Freight,2026-10-26,Rejected
+T503361,L102774,Lakeshore Express,2026-10-26,Accepted
+T503362,L102775,Ridgeline Freight,2026-10-26,Accepted
+T503363,L102776,Blue Heron Transport,2026-10-26,Accepted
+T503364,L102777,Copperline Carriers,2026-10-26,Accepted
+T503365,L102778,Copperline Carriers,2026-10-26,Accepted
+T503366,L102779,Blue Heron Transport,2026-10-27,Accepted
+T503367,L102780,Ridgeline Freight,2026-10-28,Accepted
+T503368,L102781,Harbor Point Haulers,2026-10-28,Accepted
+T503369,L102782,Copperline Carriers,2026-10-28,Accepted
+T503370,L102783,Copperline Carriers,2026-10-26,Accepted
+T503371,L102784,Summit Road Lines,2026-10-26,Accepted
+T503372,L102785,Summit Road Lines,2026-10-26,Accepted
+T503373,L102786,Blue Heron Transport,2026-10-27,Accepted
+T503374,L102787,Blue Heron Transport,2026-10-27,Rejected
+T503375,L102787,Pinecrest Logistics,2026-10-27,Accepted
+T503376,L102788,Blue Heron Transport,2026-10-27,Accepted
+T503377,L102789,Ironwood Trucking,2026-10-27,Rejected
+T503378,L102789,Summit Road Lines,2026-10-27,Accepted
+T503379,L102790,Blue Heron Transport,2026-10-26,Accepted
+T503380,L102791,Copperline Carriers,2026-10-26,Accepted
+T503381,L102792,Ironwood Trucking,2026-10-27,Rejected
+T503382,L102792,Blue Heron Transport,2026-10-27,Accepted
+T503383,L102793,Ironwood Trucking,2026-10-27,Accepted
+T503384,L102794,Ridgeline Freight,2026-10-29,Accepted
+T503385,L102795,Copperline Carriers,2026-10-29,Accepted
+T503386,L102796,Copperline Carriers,2026-10-28,Accepted
+T503387,L102797,Pinecrest Logistics,2026-10-29,Accepted
+T503388,L102798,Harbor Point Haulers,2026-10-27,Accepted
+T503389,L102799,Summit Road Lines,2026-10-27,Rejected
+T503390,L102799,Ridgeline Freight,2026-10-27,Accepted
+T503391,L102800,Harbor Point Haulers,2026-10-29,Accepted
+T503392,L102801,Pinecrest Logistics,2026-10-29,Rejected
+T503393,L102801,Summit Road Lines,2026-10-29,Accepted
+T503394,L102802,Harbor Point Haulers,2026-10-27,Accepted
+T503395,L102803,Pinecrest Logistics,2026-10-27,Accepted
+T503396,L102804,Blue Heron Transport,2026-10-29,Accepted
+T503397,L102805,Pinecrest Logistics,2026-10-29,Rejected
+T503398,L102805,Blue Heron Transport,2026-10-29,Accepted
+T503399,L102806,Copperline Carriers,2026-10-28,Accepted
+T503400,L102807,Blue Heron Transport,2026-10-29,Rejected
+T503401,L102807,Ironwood Trucking,2026-10-29,Accepted
+T503402,L102808,Copperline Carriers,2026-10-27,Accepted
+T503403,L102809,Blue Heron Transport,2026-10-28,Accepted
